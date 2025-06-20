@@ -1,0 +1,320 @@
+{
+  "Radeon Instinct MI325X": {
+    "Graphics Processor": {
+      "GPU Name": "Aqua Vanjaram",
+      "Architecture": "CDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "153,000 million",
+      "Density": "150.4M / mm²",
+      "Die Size": "1017 mm²",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 2024",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "unknown",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "2100 MHz",
+      "Memory Clock": "2525 MHz 10.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "288 GB",
+      "Memory Type": "HBM3e",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "10.3 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "19456",
+      "TMUs": "1216",
+      "ROPs": "0",
+      "Compute Units": "304",
+      "MCM": "2",
+      "Tensor Cores": "1216",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "16 MB",
+      "L3 Cache": "256 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "2,553.6 GTexel/s",
+      "FP16 (half)": "653.7 TFLOPS (8:1)",
+      "FP32 (float)": "81.72 TFLOPS",
+      "FP64 (double)": "81.72 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Slot Width": "OAM Module",
+      "TDP": "1000 W",
+      "Suggested PSU": "1400 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "N/A"
+    },
+    "Aqua Vanjaram GPU Notes": {}
+  },
+  "Radeon Instinct MI300A": {
+    "Graphics Processor": {
+      "GPU Name": "Aqua Vanjaram",
+      "Architecture": "CDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "153,000 million",
+      "Density": "150.4M / mm²",
+      "Die Size": "1017 mm²",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 6th, 2023",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "unknown",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "2100 MHz",
+      "Memory Clock": "2525 MHz 10.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "192 GB",
+      "Memory Type": "HBM3",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "10.3 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "19456",
+      "TMUs": "1216",
+      "ROPs": "0",
+      "Compute Units": "304",
+      "MCM": "2",
+      "Tensor Cores": "1216",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "16 MB",
+      "L3 Cache": "256 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "2,553.6 GTexel/s",
+      "FP16 (half)": "653.7 TFLOPS (8:1)",
+      "FP32 (float)": "81.72 TFLOPS",
+      "FP64 (double)": "81.72 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Slot Width": "OAM Module",
+      "TDP": "750 W",
+      "Suggested PSU": "1150 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "N/A"
+    },
+    "Card Notes": {},
+    "Aqua Vanjaram GPU Notes": {}
+  },
+  "Radeon Instinct MI300X": {
+    "Graphics Processor": {
+      "GPU Name": "Aqua Vanjaram",
+      "Architecture": "CDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "153,000 million",
+      "Density": "150.4M / mm²",
+      "Die Size": "1017 mm²",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 6th, 2023",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "unknown",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "2100 MHz",
+      "Memory Clock": "2525 MHz 10.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "192 GB",
+      "Memory Type": "HBM3",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "10.3 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "19456",
+      "TMUs": "1216",
+      "ROPs": "0",
+      "Compute Units": "304",
+      "MCM": "2",
+      "Tensor Cores": "1216",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "16 MB",
+      "L3 Cache": "256 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "2,553.6 GTexel/s",
+      "FP16 (half)": "653.7 TFLOPS (8:1)",
+      "FP32 (float)": "81.72 TFLOPS",
+      "FP64 (double)": "81.72 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Slot Width": "OAM Module",
+      "TDP": "750 W",
+      "Suggested PSU": "1150 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "N/A"
+    },
+    "Aqua Vanjaram GPU Notes": {}
+  },
+  "Radeon Instinct MI308X": {
+    "Graphics Processor": {
+      "GPU Name": "Aqua Vanjaram",
+      "Architecture": "CDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "153,000 million",
+      "Density": "150.4M / mm²",
+      "Die Size": "1017 mm²",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 6th, 2023",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "unknown",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "2100 MHz",
+      "Memory Clock": "2525 MHz 10.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "192 GB",
+      "Memory Type": "HBM3",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "10.3 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "19456",
+      "TMUs": "1216",
+      "ROPs": "0",
+      "Compute Units": "304",
+      "MCM": "2",
+      "Tensor Cores": "1216",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "16 MB",
+      "L3 Cache": "256 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "2,553.6 GTexel/s",
+      "FP16 (half)": "653.7 TFLOPS (8:1)",
+      "FP32 (float)": "81.72 TFLOPS",
+      "FP64 (double)": "81.72 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Slot Width": "OAM Module",
+      "TDP": "750 W",
+      "Suggested PSU": "1150 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "N/A"
+    },
+    "Card Notes": {},
+    "Aqua Vanjaram GPU Notes": {}
+  },
+  "Radeon Instinct MI300": {
+    "Graphics Processor": {
+      "GPU Name": "Aqua Vanjaram",
+      "Architecture": "CDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "153,000 million",
+      "Density": "150.4M / mm²",
+      "Die Size": "1017 mm²",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 4th, 2023",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "unknown",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1700 MHz",
+      "Memory Clock": "1600 MHz 6.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 GB",
+      "Memory Type": "HBM3",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "6.55 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "14080",
+      "TMUs": "880",
+      "ROPs": "0",
+      "Compute Units": "220",
+      "MCM": "2",
+      "Tensor Cores": "880",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "16 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "1,496.0 GTexel/s",
+      "FP16 (half)": "383.0 TFLOPS (8:1)",
+      "FP32 (float)": "47.87 TFLOPS",
+      "FP64 (double)": "47.87 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "600 W",
+      "Suggested PSU": "1000 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "2x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "N/A"
+    },
+    "Card Notes": {},
+    "Aqua Vanjaram GPU Notes": {}
+  }
+}

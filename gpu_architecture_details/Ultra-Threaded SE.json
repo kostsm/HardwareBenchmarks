@@ -1,0 +1,3745 @@
+{
+  "Stream Processor": {
+    "Graphics Processor": {
+      "GPU Name": "R580",
+      "GPU Variant": "R580 XTX",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2006",
+      "Generation": "FireStream",
+      "Predecessor": "Rage GL",
+      "Successor": "FireGL",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "594 MHz",
+      "Memory Clock": "648 MHz 1296 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "41.47 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "48",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "9.504 GPixel/s",
+      "Vertex Rate": "1.188 GVertices/s",
+      "Texture Rate": "9.504 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "165 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R580 GPU Notes": {}
+  },
+  "Radeon X1650 GTO": {
+    "Graphics Processor": {
+      "GPU Name": "RV530",
+      "GPU Variant": "RV530 LE",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "157 million",
+      "Density": "1.0M / mm²",
+      "Die Size": "150 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 2nd, 2007",
+      "Generation": "Radeon R500 PCIe (X1650)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "49 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "587 MHz",
+      "Memory Clock": "392 MHz 784 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.54 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.348 GPixel/s",
+      "Vertex Rate": "733.8 MVertices/s",
+      "Texture Rate": "2.348 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x HDMI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV530 GPU Notes": {}
+  },
+  "Radeon X1700 SE": {
+    "Graphics Processor": {
+      "GPU Name": "RV560",
+      "GPU Variant": "RV560 SE",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "312 million",
+      "Density": "1.4M / mm²",
+      "Die Size": "230 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 30th, 2007",
+      "Generation": "Radeon R500 PCIe (X1700)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "16.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "24",
+      "Vertex Shaders": "8",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "4.000 GPixel/s",
+      "Vertex Rate": "1.000 GVertices/s",
+      "Texture Rate": "4.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV560 GPU Notes": {}
+  },
+  "Radeon X1650": {
+    "Graphics Processor": {
+      "GPU Name": "RV530",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "157 million",
+      "Density": "1.0M / mm²",
+      "Die Size": "150 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 1st, 2007",
+      "Generation": "Radeon R500 PCIe (X1650)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "49 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.000 GPixel/s",
+      "Vertex Rate": "625.0 MVertices/s",
+      "Texture Rate": "2.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV530 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X1700 FSC": {
+    "Graphics Processor": {
+      "GPU Name": "RV535",
+      "GPU Variant": "RV535 FSC",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "157 million",
+      "Density": "1.2M / mm²",
+      "Die Size": "131 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 5th, 2007",
+      "Generation": "Radeon R500 PCIe (X1700)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "587 MHz",
+      "Memory Clock": "695 MHz 1390 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "22.24 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.348 GPixel/s",
+      "Vertex Rate": "733.8 MVertices/s",
+      "Texture Rate": "2.348 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "44 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV535 GPU Notes": {}
+  },
+  "Radeon X1600 PRO AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV530",
+      "GPU Variant": "RV530 PRO (215CADAKA24FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "157 million",
+      "Density": "1.0M / mm²",
+      "Die Size": "150 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2007",
+      "Generation": "Radeon R500 AGP (X1600)",
+      "Predecessor": "Radeon R400 AGP",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "64 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "390 MHz 780 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.48 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.000 GPixel/s",
+      "Vertex Rate": "625.0 MVertices/s",
+      "Texture Rate": "2.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "41 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "Floppy"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV530 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X1650 GT": {
+    "Graphics Processor": {
+      "GPU Name": "RV560",
+      "GPU Variant": "RV560 GT",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "312 million",
+      "Density": "1.4M / mm²",
+      "Die Size": "230 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "May 1st, 2007",
+      "Generation": "Radeon R500 PCIe (X1650)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "49 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "24",
+      "Vertex Shaders": "8",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.200 GPixel/s",
+      "Vertex Rate": "800.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV560 GPU Notes": {}
+  },
+  "Radeon X1950 GT AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV570",
+      "GPU Variant": "RV570 XL",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "312 million",
+      "Density": "1.4M / mm²",
+      "Die Size": "230 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 10th, 2007",
+      "Generation": "Radeon R500 AGP (X1950)",
+      "Predecessor": "Radeon R400 AGP",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "144 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "600 MHz 1200 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "38.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "36",
+      "Vertex Shaders": "8",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.000 GPixel/s",
+      "Vertex Rate": "1.000 GVertices/s",
+      "Texture Rate": "6.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "57 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "2x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV570 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X1650 AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV530",
+      "GPU Variant": "RV530 X1650 (215CCCBKB12FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "157 million",
+      "Density": "1.0M / mm²",
+      "Die Size": "150 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 1st, 2007",
+      "Generation": "Radeon R500 AGP (X1650)",
+      "Predecessor": "Radeon R400 AGP",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "49 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.000 GPixel/s",
+      "Vertex Rate": "625.0 MVertices/s",
+      "Texture Rate": "2.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV530 GPU Notes": {}
+  },
+  "Radeon X1650 PRO": {
+    "Graphics Processor": {
+      "GPU Name": "RV535",
+      "GPU Variant": "RV535 XT (215CACAKB26FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "157 million",
+      "Density": "1.2M / mm²",
+      "Die Size": "131 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 23rd, 2006",
+      "Generation": "Radeon R500 PCIe (X1650)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "49 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "700 MHz 1400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "22.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.400 GPixel/s",
+      "Vertex Rate": "750.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "44 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV535 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X1950 GT": {
+    "Graphics Processor": {
+      "GPU Name": "RV570",
+      "GPU Variant": "RV570 XL",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "312 million",
+      "Density": "1.4M / mm²",
+      "Die Size": "230 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 29th, 2007",
+      "Generation": "Radeon R500 PCIe (X1950)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Launch Price": "140 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "144 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "600 MHz 1200 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "38.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "36",
+      "Vertex Shaders": "8",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.000 GPixel/s",
+      "Vertex Rate": "1.000 GVertices/s",
+      "Texture Rate": "6.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "57 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV570 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X1950 XTX Uber Edition": {
+    "Graphics Processor": {
+      "GPU Name": "R580+",
+      "GPU Variant": "R580+ XT (215BAABKA31FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 19th, 2007",
+      "Generation": "Radeon R500 PCIe (X1950)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Launch Price": "788 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "144 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "670 MHz",
+      "Memory Clock": "1050 MHz 2.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR4",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "67.20 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "48",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.72 GPixel/s",
+      "Vertex Rate": "1.340 GVertices/s",
+      "Texture Rate": "10.72 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "230 mm 9.1 inches",
+      "TDP": "125 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x VHDCI",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-A91531-00"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "R580+ GPU Notes": {}
+  },
+  "Radeon X1950 PRO DUAL": {
+    "Graphics Processor": {
+      "GPU Name": "RV570",
+      "GPU Variant": "RV570 XT (215PADAKA12FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "312 million",
+      "Density": "1.4M / mm²",
+      "Die Size": "230 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 10th, 2007",
+      "Generation": "Radeon R500 PCIe (X1950)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Launch Price": "349 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "144 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "575 MHz",
+      "Memory Clock": "690 MHz 1380 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "44.16 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "36",
+      "Vertex Shaders": "8",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.900 GPixel/s",
+      "Vertex Rate": "1.150 GVertices/s",
+      "Texture Rate": "6.900 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "300 mm 11.8 inches",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "2x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV570 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "FireMV 2250": {
+    "Graphics Processor": {
+      "GPU Name": "RV516",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "UMC",
+      "Process Size": "90 nm",
+      "Transistors": "105 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2007",
+      "Generation": "FireMV Multi-View (2000)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.400 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "170 mm 6.7 inches",
+      "Width": "69 mm 2.7 inches",
+      "Height": "23 mm 0.9 inches",
+      "TDP": "32 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x S-Video 1x DMS-59",
+      "Power Connectors": "None",
+      "Board Number": "A924-31"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV516 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "FireMV 2250 PCIe x1": {
+    "Graphics Processor": {
+      "GPU Name": "RV516",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "UMC",
+      "Process Size": "90 nm",
+      "Transistors": "105 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2007",
+      "Generation": "FireMV Multi-View (2000)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x1"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.400 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "170 mm 6.7 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "32 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x S-Video 1x DMS-59",
+      "Power Connectors": "None",
+      "Board Number": "B152-31"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV516 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X1550": {
+    "Graphics Processor": {
+      "GPU Name": "RV516",
+      "GPU Variant": "RV516 PRO X1550",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "UMC",
+      "Process Size": "90 nm",
+      "Transistors": "105 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2007",
+      "Generation": "Radeon R500 PCIe (X1550)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "7 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "550 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.200 GPixel/s",
+      "Vertex Rate": "275.0 MVertices/s",
+      "Texture Rate": "2.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "27 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV516 GPU Notes": {}
+  },
+  "Radeon X1550 AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV505",
+      "GPU Variant": "RV505 PRO",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "107 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2007",
+      "Generation": "Radeon R500 AGP (X1550)",
+      "Predecessor": "Radeon R400 AGP",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "7 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "330 MHz 660 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "5.280 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.400 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "27 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV505 GPU Notes": {}
+  },
+  "Radeon X1550 PCI": {
+    "Graphics Processor": {
+      "GPU Name": "RV516",
+      "GPU Variant": "RV516 PRO X1550",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "UMC",
+      "Process Size": "90 nm",
+      "Transistors": "105 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2007",
+      "Generation": "Radeon R500 PCIe (X1550)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "7 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "452 MHz",
+      "Memory Clock": "266 MHz 532 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "4.256 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.808 GPixel/s",
+      "Vertex Rate": "226.0 MVertices/s",
+      "Texture Rate": "1.808 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "27 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV516 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X1600": {
+    "Graphics Processor": {
+      "GPU Name": "RV516",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "UMC",
+      "Process Size": "90 nm",
+      "Transistors": "105 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2007",
+      "Generation": "Radeon R500 PCIe (X1600)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "64 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "635 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.540 GPixel/s",
+      "Vertex Rate": "317.5 MVertices/s",
+      "Texture Rate": "2.540 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "27 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV516 GPU Notes": {}
+  },
+  "Radeon X1600 SE": {
+    "Graphics Processor": {
+      "GPU Name": "RV515",
+      "GPU Variant": "RV515 X1600SE (215CAFAKA13FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "107 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2007",
+      "Generation": "Radeon R500 PCIe (X1600)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "635 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.540 GPixel/s",
+      "Vertex Rate": "317.5 MVertices/s",
+      "Texture Rate": "2.540 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "27 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "109-A67631-00, 109-A67731-00A"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV515 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X1600 XT Dual": {
+    "Graphics Processor": {
+      "GPU Name": "RV530",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "157 million",
+      "Density": "1.0M / mm²",
+      "Die Size": "150 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Radeon R500 PCIe (X1600)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "64 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "590 MHz",
+      "Memory Clock": "690 MHz 1380 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "22.08 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.360 GPixel/s",
+      "Vertex Rate": "737.5 MVertices/s",
+      "Texture Rate": "2.360 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV530 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X1650 SE": {
+    "Graphics Processor": {
+      "GPU Name": "RV516",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "UMC",
+      "Process Size": "90 nm",
+      "Transistors": "105 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2007",
+      "Generation": "Radeon R500 PCIe (X1650)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "635 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.540 GPixel/s",
+      "Vertex Rate": "317.5 MVertices/s",
+      "Texture Rate": "2.540 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "27 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV516 GPU Notes": {}
+  },
+  "Wii GPU": {
+    "Graphics Processor": {
+      "GPU Name": "Hollywood",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "NEC",
+      "Process Size": "90 nm",
+      "Transistors": "107 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "95 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 19th, 2006",
+      "Generation": "Console GPU (Nintendo)",
+      "Production": "End-of-life",
+      "Launch Price": "249 USD"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "243 MHz",
+      "Memory Clock": "243 MHz 486 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "3.888 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "1",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "972.0 MPixel/s",
+      "Vertex Rate": "60.75 MVertices/s",
+      "Texture Rate": "972.0 MTexel/s"
+    },
+    "Board Design": {
+      "Length": "157 mm 6.2 inches",
+      "Width": "197 mm 7.8 inches",
+      "Height": "60 mm 2.4 inches",
+      "Weight": "1.2 kg (2.7 lbs)",
+      "Storage": "512 MB NAND",
+      "TDP": "45 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "Console Notes": {}
+  },
+  "Radeon X1900 G5 Mac Edition": {
+    "Graphics Processor": {
+      "GPU Name": "R580",
+      "GPU Variant": "R580 XL (215BAEBKA31FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 6th, 2006",
+      "Generation": "Radeon R500 PCIe (X1900)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Launch Price": "349 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "115 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "575 MHz",
+      "Memory Clock": "600 MHz 1200 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "38.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "36",
+      "Vertex Shaders": "8",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.900 GPixel/s",
+      "Vertex Rate": "1.150 GVertices/s",
+      "Texture Rate": "6.900 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R580 GPU Notes": {}
+  },
+  "Radeon X1300 PRO": {
+    "Graphics Processor": {
+      "GPU Name": "RV515",
+      "GPU Variant": "RV515 PRO (215FADAKA13FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "107 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "Radeon R500 PCIe (X1300)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "48 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.400 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "31 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "A676"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV515 GPU Notes": {}
+  },
+  "Radeon X1650 XT": {
+    "Graphics Processor": {
+      "GPU Name": "RV560",
+      "GPU Variant": "RV560 XT (215PAGAKA12FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "312 million",
+      "Density": "1.4M / mm²",
+      "Die Size": "230 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 30th, 2006",
+      "Generation": "Radeon R500 PCIe (X1650)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "49 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "525 MHz",
+      "Memory Clock": "700 MHz 1400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "22.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "24",
+      "Vertex Shaders": "8",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "4.200 GPixel/s",
+      "Vertex Rate": "1.050 GVertices/s",
+      "Texture Rate": "4.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "55 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "A880"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV560 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X1650 XT AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV560",
+      "GPU Variant": "RV560 XT (215PAGAKA12FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "312 million",
+      "Density": "1.4M / mm²",
+      "Die Size": "230 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 30th, 2006",
+      "Generation": "Radeon R500 AGP (X1650)",
+      "Predecessor": "Radeon R400 AGP",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "49 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "540 MHz",
+      "Memory Clock": "680 MHz 1360 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "21.76 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "24",
+      "Vertex Shaders": "8",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "4.320 GPixel/s",
+      "Vertex Rate": "1.080 GVertices/s",
+      "Texture Rate": "4.320 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "55 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV560 GPU Notes": {}
+  },
+  "Radeon X1650 XT Dual": {
+    "Graphics Processor": {
+      "GPU Name": "RV560",
+      "GPU Variant": "RV560 XT (215PAGAKA12FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "312 million",
+      "Density": "1.4M / mm²",
+      "Die Size": "230 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 30th, 2006",
+      "Generation": "Radeon R500 PCIe (X1650)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "49 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "525 MHz",
+      "Memory Clock": "700 MHz 1400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "22.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "24",
+      "Vertex Shaders": "8",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "4.200 GPixel/s",
+      "Vertex Rate": "1.050 GVertices/s",
+      "Texture Rate": "4.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV560 GPU Notes": {}
+  },
+  "Radeon X1300 CE": {
+    "Graphics Processor": {
+      "GPU Name": "RV505",
+      "GPU Variant": "RV505 CE",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "107 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 27th, 2006",
+      "Generation": "Radeon R500 PCIe (X1300)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "48 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "350 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.400 GPixel/s",
+      "Vertex Rate": "175.0 MVertices/s",
+      "Texture Rate": "1.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "27 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "109-A77131-20"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV505 GPU Notes": {}
+  },
+  "Radeon X1950 PRO AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV570",
+      "GPU Variant": "RV570 XT (215PADAKA12FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "312 million",
+      "Density": "1.4M / mm²",
+      "Die Size": "230 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 25th, 2006",
+      "Generation": "Radeon R500 AGP (X1950)",
+      "Predecessor": "Radeon R400 AGP",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "144 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "575 MHz",
+      "Memory Clock": "690 MHz 1380 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "44.16 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "36",
+      "Vertex Shaders": "8",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.900 GPixel/s",
+      "Vertex Rate": "1.150 GVertices/s",
+      "Texture Rate": "6.900 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "66 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "2x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV570 GPU Notes": {}
+  },
+  "Radeon X1950 XT": {
+    "Graphics Processor": {
+      "GPU Name": "R580+",
+      "GPU Variant": "R580+ XT (215BAABKA31FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 17th, 2006",
+      "Generation": "Radeon R500 PCIe (X1950)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "144 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "625 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "57.60 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "48",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.00 GPixel/s",
+      "Vertex Rate": "1.250 GVertices/s",
+      "Texture Rate": "10.00 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "96 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-A52031-00"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "R580+ GPU Notes": {}
+  },
+  "Radeon X1950 XT AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R580+",
+      "GPU Variant": "R580+ XT (215BAABKA31FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 17th, 2006",
+      "Generation": "Radeon R500 AGP (X1950)",
+      "Predecessor": "Radeon R400 AGP",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "144 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "625 MHz",
+      "Memory Clock": "703 MHz 1406 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "44.99 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "48",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.00 GPixel/s",
+      "Vertex Rate": "1.250 GVertices/s",
+      "Texture Rate": "10.00 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "96 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R580+ GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X1950 XTX": {
+    "Graphics Processor": {
+      "GPU Name": "R580+",
+      "GPU Variant": "R580+ XT (215BAABKA31FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 17th, 2006",
+      "Generation": "Radeon R500 PCIe (X1950)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Launch Price": "449 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "144 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "650 MHz",
+      "Memory Clock": "1000 MHz 2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR4",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "64.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "48",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.40 GPixel/s",
+      "Vertex Rate": "1.300 GVertices/s",
+      "Texture Rate": "10.40 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "230 mm 9.1 inches",
+      "TDP": "125 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-A91531-00"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R580+ GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X1650 PRO AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV535",
+      "GPU Variant": "RV535 XT (215CACAKB26FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "157 million",
+      "Density": "1.2M / mm²",
+      "Die Size": "131 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 15th, 2006",
+      "Generation": "Radeon R500 AGP (X1650)",
+      "Predecessor": "Radeon R400 AGP",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "49 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "700 MHz 1400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "22.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.400 GPixel/s",
+      "Vertex Rate": "750.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "44 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV535 GPU Notes": {}
+  },
+  "Radeon X1950 PRO": {
+    "Graphics Processor": {
+      "GPU Name": "RV570",
+      "GPU Variant": "RV570 X1950 (215PADAKA12FGP)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "80 nm",
+      "Transistors": "312 million",
+      "Density": "1.4M / mm²",
+      "Die Size": "230 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2006",
+      "Generation": "Radeon R500 PCIe (X1950)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "144 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "575 MHz",
+      "Memory Clock": "690 MHz 1380 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "44.16 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "36",
+      "Vertex Shaders": "8",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.900 GPixel/s",
+      "Vertex Rate": "1.150 GVertices/s",
+      "Texture Rate": "6.900 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "228 mm 9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "66 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-A99931-00"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV570 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (4)": {}
+  },
+  "Radeon X1950 CrossFire Edition": {
+    "Graphics Processor": {
+      "GPU Name": "R580+",
+      "GPU Variant": "R580+ XT (215BAABKA31FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 10th, 2006",
+      "Generation": "Radeon R500 PCIe (X1950)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "144 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "650 MHz",
+      "Memory Clock": "1000 MHz 2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR4",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "64.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "48",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.40 GPixel/s",
+      "Vertex Rate": "1.300 GVertices/s",
+      "Texture Rate": "10.40 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VHDCI",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A988"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R580+ GPU Notes": {}
+  },
+  "Radeon X1300 XT": {
+    "Graphics Processor": {
+      "GPU Name": "RV530",
+      "GPU Variant": "RV530 PRO2 (215CAGAKA26FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "157 million",
+      "Density": "1.0M / mm²",
+      "Die Size": "150 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 12th, 2006",
+      "Generation": "Radeon R500 PCIe (X1300)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "48 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.000 GPixel/s",
+      "Vertex Rate": "625.0 MVertices/s",
+      "Texture Rate": "2.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "22 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV530 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X1300 XT AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV530",
+      "GPU Variant": "RV530 PRO2 (215CAGAKA26FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "157 million",
+      "Density": "1.0M / mm²",
+      "Die Size": "150 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 12th, 2006",
+      "Generation": "Radeon R500 AGP (X1300)",
+      "Predecessor": "Radeon R400 AGP",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "48 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.000 GPixel/s",
+      "Vertex Rate": "625.0 MVertices/s",
+      "Texture Rate": "2.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "22 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV530 GPU Notes": {}
+  },
+  "Radeon X1900 GT": {
+    "Graphics Processor": {
+      "GPU Name": "R580",
+      "GPU Variant": "R580 XL (215BAEBKA31FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "May 1st, 2006",
+      "Generation": "Radeon R500 PCIe (X1900)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "115 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "575 MHz",
+      "Memory Clock": "600 MHz 1200 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "38.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "36",
+      "Vertex Shaders": "8",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.900 GPixel/s",
+      "Vertex Rate": "1.150 GVertices/s",
+      "Texture Rate": "6.900 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A520"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R580 GPU Notes": {}
+  },
+  "Radeon X1800 GTO": {
+    "Graphics Processor": {
+      "GPU Name": "R520",
+      "GPU Variant": "R520 LE (215RFLBKA14FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "312 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "288 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2006",
+      "Generation": "Radeon R500 PCIe (X1800)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "76 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "495 MHz 990 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "31.68 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "8",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.000 GPixel/s",
+      "Vertex Rate": "1.000 GVertices/s",
+      "Texture Rate": "6.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "254 mm 10 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "19 mm 0.7 inches",
+      "TDP": "48 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A520"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R520 GPU Notes": {}
+  },
+  "Radeon X1800 GTO2": {
+    "Graphics Processor": {
+      "GPU Name": "R520",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "312 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "288 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2006",
+      "Generation": "Radeon R500 PCIe (X1800)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "76 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "8",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.000 GPixel/s",
+      "Vertex Rate": "1.000 GVertices/s",
+      "Texture Rate": "6.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R520 GPU Notes": {}
+  },
+  "Radeon X1900 CrossFire Edition": {
+    "Graphics Processor": {
+      "GPU Name": "R580",
+      "GPU Variant": "R580 CF",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 24th, 2006",
+      "Generation": "Radeon R500 PCIe (X1900)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "115 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "625 MHz",
+      "Memory Clock": "725 MHz 1450 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "46.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "48",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.00 GPixel/s",
+      "Vertex Rate": "1.250 GVertices/s",
+      "Texture Rate": "10.00 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "100 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A721"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R580 GPU Notes": {}
+  },
+  "Radeon X1900 XT": {
+    "Graphics Processor": {
+      "GPU Name": "R580",
+      "GPU Variant": "R580 XT (215BADBKA22FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 24th, 2006",
+      "Generation": "Radeon R500 PCIe (X1900)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Launch Price": "299 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "115 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "625 MHz",
+      "Memory Clock": "725 MHz 1450 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "46.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "48",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.00 GPixel/s",
+      "Vertex Rate": "1.250 GVertices/s",
+      "Texture Rate": "10.00 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "242 mm 9.5 inches",
+      "TDP": "100 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A520"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "R580 GPU Notes": {}
+  },
+  "Radeon X1900 XTX": {
+    "Graphics Processor": {
+      "GPU Name": "R580",
+      "GPU Variant": "R580 XT (215BADBKA22FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 24th, 2006",
+      "Generation": "Radeon R500 PCIe (X1900)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Launch Price": "399 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "115 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "650 MHz",
+      "Memory Clock": "775 MHz 1550 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "49.60 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "48",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.40 GPixel/s",
+      "Vertex Rate": "1.300 GVertices/s",
+      "Texture Rate": "10.40 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "242 mm 9.5 inches",
+      "TDP": "135 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A520"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R580 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "All-In-Wonder X1900": {
+    "Graphics Processor": {
+      "GPU Name": "R580",
+      "GPU Variant": "R580 AIW",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "384 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 13th, 2006",
+      "Generation": "All-In-Wonder (X1)",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "115 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "477 MHz 954 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "30.53 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "48",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.000 GPixel/s",
+      "Vertex Rate": "1.000 GVertices/s",
+      "Texture Rate": "8.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "248 mm 9.8 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A522"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1 (full) 3.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R580 GPU Notes": {}
+  },
+  "All-In-Wonder 2006 PCIe Edition": {
+    "Graphics Processor": {
+      "GPU Name": "RV515",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "107 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 22nd, 2005",
+      "Generation": "All-In-Wonder (2006 Edition)",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "48 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "450 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.800 GPixel/s",
+      "Vertex Rate": "225.0 MVertices/s",
+      "Texture Rate": "1.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "249 mm 9.8 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "None",
+      "Board Number": "109-A76734-01"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "RV515 GPU Notes": {}
+  },
+  "Radeon X1800 CrossFire Edition": {
+    "Graphics Processor": {
+      "GPU Name": "R520",
+      "GPU Variant": "R520 CE (215RFFBKA15FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "312 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "288 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 20th, 2005",
+      "Generation": "Radeon R500 PCIe (X1800)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "76 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "700 MHz 1400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "44.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "9.600 GPixel/s",
+      "Vertex Rate": "1.200 GVertices/s",
+      "Texture Rate": "9.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "113 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A721"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R520 GPU Notes": {}
+  },
+  "Radeon X1300": {
+    "Graphics Processor": {
+      "GPU Name": "RV516",
+      "GPU Variant": "RV516 LE (215B1EAVA12FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "UMC",
+      "Process Size": "90 nm",
+      "Transistors": "105 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 5th, 2005",
+      "Generation": "Radeon R500 PCIe (X1300)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "48 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "450 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.800 GPixel/s",
+      "Vertex Rate": "225.0 MVertices/s",
+      "Texture Rate": "1.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV516 GPU Notes": {}
+  },
+  "Radeon X1300 AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV515",
+      "GPU Variant": "RV515 LE (215FAEAKA13FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "107 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 1st, 2005",
+      "Generation": "Radeon R500 AGP (X1300)",
+      "Predecessor": "Radeon R400 AGP",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "48 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "450 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.800 GPixel/s",
+      "Vertex Rate": "225.0 MVertices/s",
+      "Texture Rate": "1.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV515 GPU Notes": {}
+  },
+  "All-In-Wonder X1800 XL": {
+    "Graphics Processor": {
+      "GPU Name": "R520",
+      "GPU Variant": "R520 AIW",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "312 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "288 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 27th, 2005",
+      "Generation": "All-In-Wonder (X1)",
+      "Production": "End-of-life",
+      "Launch Price": "429 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "76 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.000 GPixel/s",
+      "Vertex Rate": "1.000 GVertices/s",
+      "Texture Rate": "8.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "254 mm 10 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "19 mm 0.7 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A522"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R520 GPU Notes": {}
+  },
+  "Radeon X1300 LE": {
+    "Graphics Processor": {
+      "GPU Name": "RV515",
+      "GPU Variant": "RV515 LE (215FAEAKA13FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "107 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 5th, 2005",
+      "Generation": "Radeon R500 PCIe (X1300)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "48 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "450 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "4.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.800 GPixel/s",
+      "Vertex Rate": "225.0 MVertices/s",
+      "Texture Rate": "1.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "A676"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV515 GPU Notes": {}
+  },
+  "Radeon X1300 PCI": {
+    "Graphics Processor": {
+      "GPU Name": "RV516",
+      "GPU Variant": "RV516 LE (215B1EAVA12FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "UMC",
+      "Process Size": "90 nm",
+      "Transistors": "105 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 5th, 2005",
+      "Generation": "Radeon R500 PCIe (X1300)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "48 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "450 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "4.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.800 GPixel/s",
+      "Vertex Rate": "225.0 MVertices/s",
+      "Texture Rate": "1.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV516 GPU Notes": {}
+  },
+  "FireGL V3300": {
+    "Graphics Processor": {
+      "GPU Name": "RV515",
+      "GPU Variant": "RV515 GL",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "107 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "FireGL (Vx300)",
+      "Predecessor": "Fire GL",
+      "Successor": "FirePro Terascale",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.400 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI",
+      "Power Connectors": "None",
+      "Board Number": "109-A77631-10"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV515 GPU Notes": {}
+  },
+  "FireGL V3350": {
+    "Graphics Processor": {
+      "GPU Name": "RV515",
+      "GPU Variant": "RV515 GL",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "107 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "FireGL (Vx300)",
+      "Predecessor": "Fire GL",
+      "Successor": "FirePro Terascale",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.400 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI",
+      "Power Connectors": "None",
+      "Board Number": "109-A67131"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV515 GPU Notes": {}
+  },
+  "FireGL V3400": {
+    "Graphics Processor": {
+      "GPU Name": "RV530",
+      "GPU Variant": "RV530 GL",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "157 million",
+      "Density": "1.0M / mm²",
+      "Die Size": "150 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "FireGL (Vx400)",
+      "Predecessor": "Fire GL",
+      "Successor": "FirePro Terascale",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "16.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.000 GPixel/s",
+      "Vertex Rate": "625.0 MVertices/s",
+      "Texture Rate": "2.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI",
+      "Power Connectors": "None",
+      "Board Number": "109-A67131"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV530 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "FireGL V5200": {
+    "Graphics Processor": {
+      "GPU Name": "RV530",
+      "GPU Variant": "RV530 GL",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "157 million",
+      "Density": "1.0M / mm²",
+      "Die Size": "150 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "FireGL (Vx200)",
+      "Predecessor": "Fire GL",
+      "Successor": "FirePro Terascale",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "700 MHz 1400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "22.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.400 GPixel/s",
+      "Vertex Rate": "750.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "35 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI",
+      "Power Connectors": "None",
+      "Board Number": "109-A67131-10"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV530 GPU Notes": {}
+  },
+  "FireGL V7200": {
+    "Graphics Processor": {
+      "GPU Name": "R520",
+      "GPU Variant": "R520 GL",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "312 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "288 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "FireGL (Vx200)",
+      "Predecessor": "Fire GL",
+      "Successor": "FirePro Terascale",
+      "Production": "End-of-life",
+      "Launch Price": "1,279 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "650 MHz 1300 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "41.60 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "9.600 GPixel/s",
+      "Vertex Rate": "1.200 GVertices/s",
+      "Texture Rate": "9.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "229 mm 9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-A52031"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R520 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "FireGL V7300": {
+    "Graphics Processor": {
+      "GPU Name": "R520",
+      "GPU Variant": "R520 GL",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "312 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "288 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "FireGL (Vx300)",
+      "Predecessor": "Fire GL",
+      "Successor": "FirePro Terascale",
+      "Production": "End-of-life",
+      "Launch Price": "1,599 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "594 MHz",
+      "Memory Clock": "648 MHz 1296 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "41.47 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "9.504 GPixel/s",
+      "Vertex Rate": "1.188 GVertices/s",
+      "Texture Rate": "9.504 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "229 mm 9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "97 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-A52031"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R520 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "FireGL V7350": {
+    "Graphics Processor": {
+      "GPU Name": "R520",
+      "GPU Variant": "R520 GL",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "312 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "288 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "FireGL (Vx300)",
+      "Predecessor": "Fire GL",
+      "Successor": "FirePro Terascale",
+      "Production": "End-of-life",
+      "Launch Price": "1,599 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "650 MHz 1300 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "41.60 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "9.600 GPixel/s",
+      "Vertex Rate": "1.200 GVertices/s",
+      "Texture Rate": "9.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "229 mm 9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "111 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-A52031"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R520 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X1300 PRO AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV515",
+      "GPU Variant": "RV515 PRO (215FADAKA13FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "107 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "Radeon R500 AGP (X1300)",
+      "Predecessor": "Radeon R400 AGP",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "48 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.400 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "31 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV515 GPU Notes": {}
+  },
+  "Radeon X1600 PRO": {
+    "Graphics Processor": {
+      "GPU Name": "RV530",
+      "GPU Variant": "RV530 PRO (215CADAKA24FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "157 million",
+      "Density": "1.0M / mm²",
+      "Die Size": "150 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "Radeon R500 PCIe (X1600)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "64 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "390 MHz 780 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.48 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.000 GPixel/s",
+      "Vertex Rate": "625.0 MVertices/s",
+      "Texture Rate": "2.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "41 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "A676"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV530 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (6)": {}
+  },
+  "Radeon X1600 XT": {
+    "Graphics Processor": {
+      "GPU Name": "RV530",
+      "GPU Variant": "RV530 XT (215CACAKA26FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "157 million",
+      "Density": "1.0M / mm²",
+      "Die Size": "150 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "Radeon R500 PCIe (X1600)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "64 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "590 MHz",
+      "Memory Clock": "690 MHz 1380 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "22.08 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "5",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.360 GPixel/s",
+      "Vertex Rate": "737.5 MVertices/s",
+      "Texture Rate": "2.360 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "42 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "A671"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "RV530 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X1800 XL": {
+    "Graphics Processor": {
+      "GPU Name": "R520",
+      "GPU Variant": "R520 XL (215RFFBKA15FBGS)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "312 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "288 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "Radeon R500 PCIe (X1800)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "76 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.000 GPixel/s",
+      "Vertex Rate": "1.000 GVertices/s",
+      "Texture Rate": "8.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "254 mm 10 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "19 mm 0.7 inches",
+      "TDP": "70 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A520"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R520 GPU Notes": {}
+  },
+  "Radeon X1800 XT": {
+    "Graphics Processor": {
+      "GPU Name": "R520",
+      "GPU Variant": "R520 XT (215RFNBKA15FG)",
+      "Architecture": "Ultra-Threaded SE",
+      "Foundry": "TSMC",
+      "Process Size": "90 nm",
+      "Transistors": "312 million",
+      "Density": "1.1M / mm²",
+      "Die Size": "288 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "Radeon R500 PCIe (X1800)",
+      "Predecessor": "Radeon R400 PCIe",
+      "Successor": "Radeon R600",
+      "Production": "End-of-life",
+      "Launch Price": "549 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "76 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "600 MHz",
+      "Memory Clock": "700 MHz 1400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "44.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "8",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "9.600 GPixel/s",
+      "Vertex Rate": "1.200 GVertices/s",
+      "Texture Rate": "9.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "113 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A520"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c (9_3)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "R520 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  }
+}

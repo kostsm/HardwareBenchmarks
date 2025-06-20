@@ -1,0 +1,475 @@
+{
+  "Data Center GPU Max NEXT": {
+    "Graphics Processor": {
+      "GPU Name": "Rialto Bridge",
+      "Architecture": "Generation 12.5",
+      "Foundry": "Intel",
+      "Process Size": "7 nm",
+      "Transistors": "100,000 million",
+      "Density": "78.1M / mm²",
+      "Die Size": "1280 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Unknown",
+      "Generation": "Data Center GPU (Rialto Bridge)",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "900 MHz",
+      "Boost Clock": "1600 MHz",
+      "Memory Clock": "1565 MHz 3.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 GB",
+      "Memory Type": "HBM2e",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "3.21 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "20480",
+      "TMUs": "1280",
+      "ROPs": "0",
+      "Execution Units": "1280",
+      "Tensor Cores": "1280",
+      "RT Cores": "160",
+      "L1 Cache": "64 KB (per EU)",
+      "L2 Cache": "408 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "2,048.0 GTexel/s",
+      "FP16 (half)": "65.54 TFLOPS (1:1)",
+      "FP32 (float)": "65.54 TFLOPS",
+      "FP64 (double)": "65.54 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Slot Width": "OAM Module",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "800 W",
+      "Suggested PSU": "1200 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "6.6"
+    }
+  },
+  "Data Center GPU Max 1100": {
+    "Graphics Processor": {
+      "GPU Name": "Ponte Vecchio",
+      "Architecture": "Generation 12.5",
+      "Foundry": "Intel",
+      "Process Size": "10 nm",
+      "Transistors": "100,000 million",
+      "Density": "78.1M / mm²",
+      "Die Size": "1280 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 10th, 2023",
+      "Generation": "Data Center GPU (Ponte Vecchio)",
+      "Successor": "H3C Graphics",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1550 MHz",
+      "Memory Clock": "600 MHz 1200 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "48 GB",
+      "Memory Type": "HBM2e",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "1.23 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "7168",
+      "TMUs": "448",
+      "ROPs": "0",
+      "Execution Units": "448",
+      "Tensor Cores": "448",
+      "RT Cores": "56",
+      "L1 Cache": "64 KB (per EU)",
+      "L2 Cache": "204 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "694.4 GTexel/s",
+      "FP16 (half)": "22.22 TFLOPS (1:1)",
+      "FP32 (float)": "22.22 TFLOPS",
+      "FP64 (double)": "22.22 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 12-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "6.6"
+    }
+  },
+  "Data Center GPU Max 1350": {
+    "Graphics Processor": {
+      "GPU Name": "Ponte Vecchio",
+      "Architecture": "Generation 12.5",
+      "Foundry": "Intel",
+      "Process Size": "10 nm",
+      "Transistors": "100,000 million",
+      "Density": "78.1M / mm²",
+      "Die Size": "1280 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 10th, 2023",
+      "Generation": "Data Center GPU (Ponte Vecchio)",
+      "Successor": "H3C Graphics",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "750 MHz",
+      "Boost Clock": "1550 MHz",
+      "Memory Clock": "1200 MHz 2.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "96 GB",
+      "Memory Type": "HBM2e",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "2.46 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "14336",
+      "TMUs": "896",
+      "ROPs": "0",
+      "Execution Units": "896",
+      "Tensor Cores": "896",
+      "RT Cores": "112",
+      "L1 Cache": "64 KB (per EU)",
+      "L2 Cache": "408 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "1,388.8 GTexel/s",
+      "FP16 (half)": "44.44 TFLOPS (1:1)",
+      "FP32 (float)": "44.44 TFLOPS",
+      "FP64 (double)": "44.44 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Slot Width": "OAM Module",
+      "TDP": "450 W",
+      "Suggested PSU": "850 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "6.6"
+    }
+  },
+  "Data Center GPU Max 1550": {
+    "Graphics Processor": {
+      "GPU Name": "Ponte Vecchio",
+      "Architecture": "Generation 12.5",
+      "Foundry": "Intel",
+      "Process Size": "10 nm",
+      "Transistors": "100,000 million",
+      "Density": "78.1M / mm²",
+      "Die Size": "1280 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 10th, 2023",
+      "Generation": "Data Center GPU (Ponte Vecchio)",
+      "Successor": "H3C Graphics",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "900 MHz",
+      "Boost Clock": "1600 MHz",
+      "Memory Clock": "1600 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 GB",
+      "Memory Type": "HBM2e",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "3.28 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16384",
+      "TMUs": "1024",
+      "ROPs": "0",
+      "Execution Units": "1024",
+      "Tensor Cores": "1024",
+      "RT Cores": "128",
+      "L1 Cache": "64 KB (per EU)",
+      "L2 Cache": "408 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "1,638.4 GTexel/s",
+      "FP16 (half)": "52.43 TFLOPS (1:1)",
+      "FP32 (float)": "52.43 TFLOPS",
+      "FP64 (double)": "52.43 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Slot Width": "OAM Module",
+      "TDP": "600 W",
+      "Suggested PSU": "1000 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "6.6"
+    }
+  },
+  "Data Center GPU Max Subsystem": {
+    "Graphics Processor": {
+      "GPU Name": "Ponte Vecchio",
+      "Architecture": "Generation 12.5",
+      "Foundry": "Intel",
+      "Process Size": "10 nm",
+      "Transistors": "100,000 million",
+      "Density": "78.1M / mm²",
+      "Die Size": "1280 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 10th, 2023",
+      "Generation": "Data Center GPU (Ponte Vecchio)",
+      "Successor": "H3C Graphics",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "900 MHz",
+      "Boost Clock": "1600 MHz",
+      "Memory Clock": "1565 MHz 3.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 GB",
+      "Memory Type": "HBM2e",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "3.21 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16384",
+      "TMUs": "1024",
+      "ROPs": "0",
+      "Execution Units": "1024",
+      "Tensor Cores": "1024",
+      "RT Cores": "128",
+      "L1 Cache": "64 KB (per EU)",
+      "L2 Cache": "408 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "1,638.4 GTexel/s",
+      "FP16 (half)": "52.43 TFLOPS (1:1)",
+      "FP32 (float)": "52.43 TFLOPS",
+      "FP64 (double)": "52.43 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "2400 W",
+      "Suggested PSU": "2800 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 16-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "6.6"
+    }
+  },
+  "Arctic Sound-M": {
+    "Graphics Processor": {
+      "GPU Name": "Arctic Sound",
+      "Architecture": "Generation 12.5",
+      "Foundry": "Intel",
+      "Process Size": "10 nm",
+      "Transistors": "8,000 million",
+      "Density": "42.1M / mm²",
+      "Die Size": "190 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2022",
+      "Generation": "Data Center GPU (Arctic Sound)",
+      "Successor": "H3C Graphics",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "900 MHz",
+      "Memory Clock": "1200 MHz 2.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "HBM2e",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "1.23 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "8192",
+      "TMUs": "256",
+      "ROPs": "128",
+      "Execution Units": "512",
+      "L2 Cache": "8 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "115.2 GPixel/s",
+      "Texture Rate": "230.4 GTexel/s",
+      "FP16 (half)": "29.49 TFLOPS (2:1)",
+      "FP32 (float)": "14.75 TFLOPS",
+      "FP64 (double)": "3.686 TFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "500 W",
+      "Suggested PSU": "900 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "6.6"
+    },
+    "Card Notes": {}
+  },
+  "Arctic Sound 1T": {
+    "Graphics Processor": {
+      "GPU Name": "Arctic Sound",
+      "Architecture": "Generation 12.5",
+      "Foundry": "Intel",
+      "Process Size": "10 nm",
+      "Transistors": "8,000 million",
+      "Density": "42.1M / mm²",
+      "Die Size": "190 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2021",
+      "Generation": "Data Center GPU (Arctic Sound)",
+      "Successor": "H3C Graphics",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "900 MHz",
+      "Memory Clock": "1200 MHz 2.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "HBM2e",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "1.23 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "6144",
+      "TMUs": "192",
+      "ROPs": "96",
+      "Execution Units": "384",
+      "L2 Cache": "8 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "86.40 GPixel/s",
+      "Texture Rate": "172.8 GTexel/s",
+      "FP16 (half)": "22.12 TFLOPS (2:1)",
+      "FP32 (float)": "11.06 TFLOPS",
+      "FP64 (double)": "2.765 TFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "350 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "6.6"
+    }
+  },
+  "Arctic Sound 2T": {
+    "Graphics Processor": {
+      "GPU Name": "Arctic Sound",
+      "Architecture": "Generation 12.5",
+      "Foundry": "Intel",
+      "Process Size": "10 nm",
+      "Transistors": "8,000 million",
+      "Density": "42.1M / mm²",
+      "Die Size": "190 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "2021",
+      "Generation": "Data Center GPU (Arctic Sound)",
+      "Successor": "H3C Graphics",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "900 MHz",
+      "Memory Clock": "1200 MHz 2.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "HBM2e",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "1.23 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "7680",
+      "TMUs": "240",
+      "ROPs": "120",
+      "Execution Units": "480",
+      "L2 Cache": "8 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "108.0 GPixel/s",
+      "Texture Rate": "216.0 GTexel/s",
+      "FP16 (half)": "27.65 TFLOPS (2:1)",
+      "FP32 (float)": "13.82 TFLOPS",
+      "FP64 (double)": "3.456 TFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "500 W",
+      "Suggested PSU": "900 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "6.6"
+    },
+    "Card Notes": {}
+  }
+}

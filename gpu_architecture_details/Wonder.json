@@ -1,0 +1,533 @@
+{
+  "VGA Wonder XL24": {
+    "Graphics Processor": {
+      "GPU Name": "28800-6",
+      "Architecture": "Wonder",
+      "Foundry": "NEC",
+      "Process Size": "800 nm",
+      "Transistors": "unknown",
+      "Die Size": "90 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 16th, 1992",
+      "Generation": "VGA",
+      "Predecessor": "EGA",
+      "Successor": "Mach 8",
+      "Production": "End-of-life",
+      "Launch Price": "399 USD",
+      "Bus Interface": "ISA 16-bit"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "10 MHz",
+      "Memory Clock": "10 MHz"
+    },
+    "Memory": {
+      "Memory Size": "1 MB",
+      "Memory Type": "DRAM",
+      "Memory Bus": "32 bit",
+      "Bandwidth": "40.00 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "0",
+      "TMUs": "0",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.00 MPixel/s",
+      "Texture Rate": "0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Board Number": "109-001440-10"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    }
+  },
+  "VGA Wonder+": {
+    "Graphics Processor": {
+      "GPU Name": "28800-5",
+      "Architecture": "Wonder",
+      "Foundry": "NEC",
+      "Process Size": "800 nm",
+      "Transistors": "unknown",
+      "Die Size": "90 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 1st, 1990",
+      "Generation": "VGA",
+      "Predecessor": "EGA",
+      "Successor": "Mach 8",
+      "Production": "End-of-life",
+      "Bus Interface": "ISA 16-bit"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "10 MHz",
+      "Memory Clock": "10 MHz"
+    },
+    "Memory": {
+      "Memory Size": "512 KB",
+      "Memory Type": "DRAM",
+      "Memory Bus": "32 bit",
+      "Bandwidth": "40.00 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "0",
+      "TMUs": "0",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.00 MPixel/s",
+      "Texture Rate": "0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    }
+  },
+  "VGA Wonder": {
+    "Graphics Processor": {
+      "GPU Name": "18800-1",
+      "Architecture": "Wonder",
+      "Foundry": "NEC",
+      "Process Size": "800 nm",
+      "Transistors": "unknown",
+      "Die Size": "90 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 5th, 1990",
+      "Generation": "VGA",
+      "Predecessor": "EGA",
+      "Successor": "Mach 8",
+      "Production": "End-of-life",
+      "Bus Interface": "ISA 8-bit"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "10 MHz",
+      "Memory Clock": "10 MHz"
+    },
+    "Memory": {
+      "Memory Size": "256 KB",
+      "Memory Type": "DRAM",
+      "Memory Bus": "32 bit",
+      "Bandwidth": "40.00 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "0",
+      "TMUs": "0",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.00 MPixel/s",
+      "Texture Rate": "0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "Card Notes": {}
+  },
+  "EGA Wonder 480": {
+    "Graphics Processor": {
+      "GPU Name": "CHIPS P82C435",
+      "Architecture": "Wonder",
+      "Process Size": "800 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 26th, 1988",
+      "Generation": "EGA",
+      "Predecessor": "MDA/CGA",
+      "Successor": "VGA",
+      "Production": "End-of-life",
+      "Launch Price": "399 USD",
+      "Bus Interface": "ISA 8-bit"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "10 MHz",
+      "Memory Clock": "8 MHz"
+    },
+    "Memory": {
+      "Memory Size": "256 KB",
+      "Memory Type": "DRAM",
+      "Memory Bus": "32 bit",
+      "Bandwidth": "32.00 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "0",
+      "TMUs": "0",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.00 MPixel/s",
+      "Texture Rate": "0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Board Number": "104001500"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "Card Notes": {}
+  },
+  "EGA Wonder 800+": {
+    "Graphics Processor": {
+      "GPU Name": "18800-1",
+      "Architecture": "Wonder",
+      "Foundry": "NEC",
+      "Process Size": "800 nm",
+      "Transistors": "unknown",
+      "Die Size": "90 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "1988",
+      "Generation": "EGA",
+      "Predecessor": "MDA/CGA",
+      "Successor": "VGA",
+      "Production": "End-of-life",
+      "Bus Interface": "ISA 8-bit"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "25 MHz",
+      "Memory Clock": "8 MHz"
+    },
+    "Memory": {
+      "Memory Size": "256 KB",
+      "Memory Type": "DRAM",
+      "Memory Bus": "32 bit",
+      "Bandwidth": "32.00 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "0",
+      "TMUs": "0",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "25.00 MPixel/s",
+      "Texture Rate": "0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Board Number": "109006000"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "Card Notes": {}
+  },
+  "EGA Wonder 800": {
+    "Graphics Processor": {
+      "GPU Name": "CHIPS P82C435",
+      "Architecture": "Wonder",
+      "Process Size": "800 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 16th, 1987",
+      "Generation": "EGA",
+      "Predecessor": "MDA/CGA",
+      "Successor": "VGA",
+      "Production": "End-of-life",
+      "Bus Interface": "ISA 8-bit"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "10 MHz",
+      "Memory Clock": "8 MHz"
+    },
+    "Memory": {
+      "Memory Size": "256 KB",
+      "Memory Type": "DRAM",
+      "Memory Bus": "32 bit",
+      "Bandwidth": "32.00 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "0",
+      "TMUs": "0",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.00 MPixel/s",
+      "Texture Rate": "0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Board Number": "16900"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "Card Notes": {}
+  },
+  "VGA Improved Performance": {
+    "Graphics Processor": {
+      "GPU Name": "CHIPS P82C441",
+      "Architecture": "Wonder",
+      "Process Size": "800 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 28th, 1987",
+      "Generation": "VGA",
+      "Predecessor": "EGA",
+      "Successor": "Mach 8",
+      "Production": "End-of-life",
+      "Launch Price": "449 USD",
+      "Bus Interface": "ISA 8-bit"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "10 MHz",
+      "Memory Clock": "10 MHz"
+    },
+    "Memory": {
+      "Memory Size": "256 KB",
+      "Memory Type": "DRAM",
+      "Memory Bus": "32 bit",
+      "Bandwidth": "40.00 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "0",
+      "TMUs": "0",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.00 MPixel/s",
+      "Texture Rate": "0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "178 mm 7 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Board Number": "18008"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "Card Notes": {}
+  },
+  "Graphics Solution Plus": {
+    "Graphics Processor": {
+      "GPU Name": "CW16800-B",
+      "Architecture": "Wonder",
+      "Process Size": "800 nm",
+      "Transistors": "unknown",
+      "Die Size": "90 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 23rd, 1987",
+      "Generation": "MDA/CGA",
+      "Successor": "EGA",
+      "Production": "End-of-life",
+      "Bus Interface": "ISA 8-bit"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "10 MHz",
+      "Memory Clock": "5 MHz"
+    },
+    "Memory": {
+      "Memory Size": "64 KB",
+      "Memory Type": "DRAM",
+      "Memory Bus": "32 bit",
+      "Bandwidth": "20.00 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "0",
+      "Vertex Shaders": "0",
+      "TMUs": "0",
+      "ROPs": "0"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Board Number": "168248"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "Card Notes": {}
+  },
+  "Graphics Solution": {
+    "Graphics Processor": {
+      "GPU Name": "CW16800-A",
+      "Architecture": "Wonder",
+      "Process Size": "800 nm",
+      "Transistors": "unknown",
+      "Die Size": "90 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 22nd, 1986",
+      "Generation": "MDA/CGA",
+      "Successor": "EGA",
+      "Production": "End-of-life",
+      "Bus Interface": "ISA 8-bit"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "10 MHz",
+      "Memory Clock": "5 MHz"
+    },
+    "Memory": {
+      "Memory Size": "64 KB",
+      "Memory Type": "DRAM",
+      "Memory Bus": "32 bit",
+      "Bandwidth": "20.00 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "0",
+      "Vertex Shaders": "0",
+      "TMUs": "0",
+      "ROPs": "0"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Board Number": "168228"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "Card Notes": {}
+  },
+  "Color Emulation Card": {
+    "Graphics Processor": {
+      "GPU Name": "CW16800-A",
+      "Architecture": "Wonder",
+      "Process Size": "800 nm",
+      "Transistors": "unknown",
+      "Die Size": "90 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 4th, 1986",
+      "Generation": "MDA/CGA",
+      "Successor": "EGA",
+      "Production": "End-of-life",
+      "Bus Interface": "ISA 8-bit"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "10 MHz",
+      "Memory Clock": "5 MHz"
+    },
+    "Memory": {
+      "Memory Size": "32 KB",
+      "Memory Type": "DRAM",
+      "Memory Bus": "32 bit",
+      "Bandwidth": "20.00 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "0",
+      "Vertex Shaders": "0",
+      "TMUs": "0",
+      "ROPs": "0"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Board Number": "168230-1"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "Card Notes": {}
+  }
+}

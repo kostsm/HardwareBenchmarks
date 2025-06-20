@@ -1,0 +1,2855 @@
+{
+  "GeForce GT 610 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 2nd, 2016",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "Active",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "701 MHz",
+      "Shader Clock": "1402 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "48",
+      "TMUs": "8",
+      "ROPs": "2",
+      "SM Count": "1",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.402 GPixel/s",
+      "Texture Rate": "5.608 GTexel/s",
+      "FP32 (float)": "134.6 GFLOPS",
+      "FP64 (double)": "11.22 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "29 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF108 GPU Notes": {}
+  },
+  "GeForce GT 730": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "GPU Variant": "GF108-400-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 18th, 2014",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "700 MHz",
+      "Shader Clock": "1400 MHz",
+      "Memory Clock": "800 MHz 1600 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "25.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "16",
+      "ROPs": "4",
+      "SM Count": "2",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.800 GPixel/s",
+      "Texture Rate": "11.20 GTexel/s",
+      "FP32 (float)": "268.8 GFLOPS",
+      "FP64 (double)": "22.40 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "49 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P1070, P1071 SKU 12"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (10)": {}
+  },
+  "GeForce 615 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "May 15th, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "660 MHz",
+      "Shader Clock": "1320 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "48",
+      "TMUs": "8",
+      "ROPs": "4",
+      "SM Count": "1",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.320 GPixel/s",
+      "Texture Rate": "5.280 GTexel/s",
+      "FP32 (float)": "126.7 GFLOPS",
+      "FP64 (double)": "10.56 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "49 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF108 GPU Notes": {}
+  },
+  "GeForce GT 620": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "GPU Variant": "GF108-100-KB-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "May 15th, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "700 MHz",
+      "Shader Clock": "1400 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "14.40 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "16",
+      "ROPs": "4",
+      "SM Count": "2",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.800 GPixel/s",
+      "Texture Rate": "11.20 GTexel/s",
+      "FP32 (float)": "268.8 GFLOPS",
+      "FP64 (double)": "22.40 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "49 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P1071"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (11)": {}
+  },
+  "GeForce GT 630": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "GPU Variant": "GF108-400-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "May 15th, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "810 MHz",
+      "Shader Clock": "1620 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "16",
+      "ROPs": "4",
+      "SM Count": "2",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.240 GPixel/s",
+      "Texture Rate": "12.96 GTexel/s",
+      "FP32 (float)": "311.0 GFLOPS",
+      "FP64 (double)": "25.92 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P1071"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (34)": {}
+  },
+  "GeForce GT 520 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "GPU Variant": "GF108-200-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 1st, 2012",
+      "Generation": "GeForce 500",
+      "Predecessor": "GeForce 400",
+      "Successor": "GeForce 600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "700 MHz",
+      "Shader Clock": "1400 MHz",
+      "Memory Clock": "667 MHz 1334 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "10.67 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "48",
+      "TMUs": "8",
+      "ROPs": "2",
+      "SM Count": "1",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.400 GPixel/s",
+      "Texture Rate": "5.600 GTexel/s",
+      "FP32 (float)": "134.4 GFLOPS",
+      "FP64 (double)": "11.20 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "29 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P1071 SKU 1"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "Card Notes": {},
+    "GF108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Quadro 2000D": {
+    "Graphics Processor": {
+      "GPU Name": "GF106",
+      "GPU Variant": "GF106-875-KA-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "1,170 million",
+      "Density": "4.9M / mm²",
+      "Die Size": "238 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 5th, 2011",
+      "Generation": "Quadro Fermi (x000)",
+      "Predecessor": "Quadro FX Tesla",
+      "Successor": "Quadro Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "599 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "625 MHz",
+      "Shader Clock": "1250 MHz",
+      "Memory Clock": "650 MHz 2.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "41.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SM Count": "4",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "5.000 GPixel/s",
+      "Texture Rate": "20.00 GTexel/s",
+      "FP32 (float)": "480.0 GFLOPS",
+      "FP64 (double)": "40.00 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "178 mm 7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "62 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI",
+      "Power Connectors": "None",
+      "Board Number": "P1232 SKU 502"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF106 GPU Notes": {}
+  },
+  "Quadro 6000 SDI": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 25th, 2011",
+      "Generation": "Quadro Fermi (x000)",
+      "Predecessor": "Quadro FX Tesla",
+      "Successor": "Quadro Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "11,499 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "574 MHz",
+      "Shader Clock": "1147 MHz",
+      "Memory Clock": "747 MHz 3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "143.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "56",
+      "ROPs": "48",
+      "SM Count": "14",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.07 GPixel/s",
+      "Texture Rate": "32.14 GTexel/s",
+      "FP32 (float)": "1,027.7 GFLOPS",
+      "FP64 (double)": "513.9 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Quad-slot",
+      "Length": "248 mm 9.8 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "231 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DVI 2x DisplayPort 1x S-Video 2x SDI",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P1030"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "Tesla C2050": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-850-A3",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 25th, 2011",
+      "Generation": "Tesla Fermi (x20xx)",
+      "Predecessor": "Tesla",
+      "Successor": "Tesla Kepler",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "574 MHz",
+      "Shader Clock": "1147 MHz",
+      "Memory Clock": "750 MHz 3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "144.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "56",
+      "ROPs": "48",
+      "SM Count": "14",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.07 GPixel/s",
+      "Texture Rate": "32.14 GTexel/s",
+      "FP32 (float)": "1,027.7 GFLOPS",
+      "FP64 (double)": "513.9 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "TDP": "238 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P1030 SKU 200"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "Tesla C2070": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 25th, 2011",
+      "Generation": "Tesla Fermi (x20xx)",
+      "Predecessor": "Tesla",
+      "Successor": "Tesla Kepler",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "574 MHz",
+      "Shader Clock": "1147 MHz",
+      "Memory Clock": "747 MHz 3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "143.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "56",
+      "ROPs": "48",
+      "SM Count": "14",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.07 GPixel/s",
+      "Texture Rate": "32.14 GTexel/s",
+      "FP32 (float)": "1,027.7 GFLOPS",
+      "FP64 (double)": "513.9 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "TDP": "238 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P1030 SKU 201"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "Tesla M2050": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 25th, 2011",
+      "Generation": "Tesla Fermi (x20xx)",
+      "Predecessor": "Tesla",
+      "Successor": "Tesla Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "2,699 USD",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "574 MHz",
+      "Shader Clock": "1150 MHz",
+      "Memory Clock": "773 MHz 3.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "148.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "56",
+      "ROPs": "48",
+      "SM Count": "14",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.07 GPixel/s",
+      "Texture Rate": "32.14 GTexel/s",
+      "FP32 (float)": "1,030.4 GFLOPS",
+      "FP64 (double)": "515.2 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P1030 SKU 204"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "Tesla M2070": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 25th, 2011",
+      "Generation": "Tesla Fermi (x20xx)",
+      "Predecessor": "Tesla",
+      "Successor": "Tesla Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "3,099 USD",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "574 MHz",
+      "Shader Clock": "1150 MHz",
+      "Memory Clock": "783 MHz 3.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "150.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "56",
+      "ROPs": "48",
+      "SM Count": "14",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.07 GPixel/s",
+      "Texture Rate": "32.14 GTexel/s",
+      "FP32 (float)": "1,030.4 GFLOPS",
+      "FP64 (double)": "515.2 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P1030 SKU 205"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "Tesla M2070-Q": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-876-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 25th, 2011",
+      "Generation": "Tesla Fermi (x20xx)",
+      "Predecessor": "Tesla",
+      "Successor": "Tesla Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "5,489 USD",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "574 MHz",
+      "Shader Clock": "1147 MHz",
+      "Memory Clock": "783 MHz 3.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "150.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "56",
+      "ROPs": "48",
+      "SM Count": "14",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.07 GPixel/s",
+      "Texture Rate": "32.14 GTexel/s",
+      "FP32 (float)": "1,027.7 GFLOPS",
+      "FP64 (double)": "513.9 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P1030 SKU 213"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "Tesla S2050": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 25th, 2011",
+      "Generation": "Tesla Fermi (x20xx)",
+      "Predecessor": "Tesla",
+      "Successor": "Tesla Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "11,999 USD",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "574 MHz",
+      "Shader Clock": "1147 MHz",
+      "Memory Clock": "773 MHz 3.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "148.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "56",
+      "ROPs": "48",
+      "SM Count": "14",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.07 GPixel/s",
+      "Texture Rate": "32.14 GTexel/s",
+      "FP32 (float)": "1,027.7 GFLOPS",
+      "FP64 (double)": "513.9 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "900 W",
+      "Suggested PSU": "1300 W",
+      "Outputs": "No outputs",
+      "Board Number": "P1030 SKU 202"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "Tesla X2070": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-876-A3",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 25th, 2011",
+      "Generation": "Tesla Fermi (x20xx)",
+      "Predecessor": "Tesla",
+      "Successor": "Tesla Kepler",
+      "Production": "End-of-life",
+      "Bus Interface": "MXM-B (3.0)"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "651 MHz",
+      "Shader Clock": "1301 MHz",
+      "Memory Clock": "924 MHz 3.7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "177.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "56",
+      "ROPs": "48",
+      "SM Count": "14",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "18.23 GPixel/s",
+      "Texture Rate": "36.46 GTexel/s",
+      "FP32 (float)": "1,165.7 GFLOPS",
+      "FP64 (double)": "582.8 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "MXM Module",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "Quadro 4000 Mac Edition": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 12th, 2011",
+      "Generation": "Quadro Fermi (x000)",
+      "Predecessor": "Quadro FX Tesla",
+      "Successor": "Quadro Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "1,199 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "475 MHz",
+      "Shader Clock": "950 MHz",
+      "Memory Clock": "702 MHz 2.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1792 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "89.86 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "256",
+      "TMUs": "32",
+      "ROPs": "32",
+      "SM Count": "8",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.600 GPixel/s",
+      "Texture Rate": "15.20 GTexel/s",
+      "FP32 (float)": "486.4 GFLOPS",
+      "FP64 (double)": "243.2 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "142 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x DisplayPort 1x S-Video",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "GeForce GT 530 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "GPU Variant": "GF108-200-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "May 14th, 2011",
+      "Generation": "GeForce 500",
+      "Predecessor": "GeForce 400",
+      "Successor": "GeForce 600",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "700 MHz",
+      "Shader Clock": "1400 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "16",
+      "ROPs": "4",
+      "SM Count": "2",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.800 GPixel/s",
+      "Texture Rate": "11.20 GTexel/s",
+      "FP32 (float)": "268.8 GFLOPS",
+      "FP64 (double)": "22.40 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P1071 SKU 0, P1071 SKU 6, P1310 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "Card Notes": {},
+    "GF108 GPU Notes": {}
+  },
+  "GeForce GTX 490": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-375-A3",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "608 MHz",
+      "Shader Clock": "1215 MHz",
+      "Memory Clock": "854 MHz 3.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1536 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "164.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "480",
+      "TMUs": "60",
+      "ROPs": "48",
+      "SM Count": "15",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "18.24 GPixel/s",
+      "Texture Rate": "36.48 GTexel/s",
+      "FP32 (float)": "1,166.4 GFLOPS",
+      "FP64 (double)": "145.8 GFLOPS (1:8)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "279 mm 11 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "365 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "3x DVI 1x mini-DisplayPort",
+      "Power Connectors": "2x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "Card Notes": {},
+    "GF100 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GTX 460 X2": {
+    "Graphics Processor": {
+      "GPU Name": "GF104",
+      "GPU Variant": "GF104-300-KB-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "1,950 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "332 mm²",
+      "Chip Package": "BGA-1724"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 11th, 2011",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "154 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "701 MHz",
+      "Shader Clock": "1401 MHz",
+      "Memory Clock": "900 MHz 3.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "115.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "336",
+      "TMUs": "56",
+      "ROPs": "32",
+      "SM Count": "7",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "9.814 GPixel/s",
+      "Texture Rate": "39.26 GTexel/s",
+      "FP32 (float)": "941.5 GFLOPS",
+      "FP64 (double)": "78.46 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "292 mm 11.5 inches",
+      "TDP": "160 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "3x DVI 1x mini-HDMI 1.3a",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "P1041 SKU 1"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Quadro 5000": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-850-A3",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 23rd, 2011",
+      "Generation": "Quadro Fermi (x000)",
+      "Predecessor": "Quadro FX Tesla",
+      "Successor": "Quadro Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "2,499 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "513 MHz",
+      "Shader Clock": "1026 MHz",
+      "Memory Clock": "750 MHz 3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2.5 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "120.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "352",
+      "TMUs": "44",
+      "ROPs": "40",
+      "SM Count": "11",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "640 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "11.29 GPixel/s",
+      "Texture Rate": "22.57 GTexel/s",
+      "FP32 (float)": "722.3 GFLOPS",
+      "FP64 (double)": "361.2 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "152 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 2x DisplayPort",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P1030 SKU 501, P2007 SKU 501"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "Quadro 5000 SDI": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-850-A3",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 23rd, 2011",
+      "Generation": "Quadro Fermi (x000)",
+      "Predecessor": "Quadro FX Tesla",
+      "Successor": "Quadro Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "7,899 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "513 MHz",
+      "Shader Clock": "1026 MHz",
+      "Memory Clock": "750 MHz 3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2.5 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "120.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "352",
+      "TMUs": "44",
+      "ROPs": "40",
+      "SM Count": "11",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "640 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "11.29 GPixel/s",
+      "Texture Rate": "22.57 GTexel/s",
+      "FP32 (float)": "722.3 GFLOPS",
+      "FP64 (double)": "361.2 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Quad-slot",
+      "Length": "248 mm 9.8 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "172 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 2x DisplayPort 1x S-Video 2x SDI"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "GeForce GT 440 Mac Edition": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "GPU Variant": "GF108-400-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 9th, 2011",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "810 MHz",
+      "Shader Clock": "1620 MHz",
+      "Memory Clock": "667 MHz 1334 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "21.34 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "16",
+      "ROPs": "4",
+      "SM Count": "2",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.240 GPixel/s",
+      "Texture Rate": "12.96 GTexel/s",
+      "FP32 (float)": "311.0 GFLOPS",
+      "FP64 (double)": "25.92 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P1071"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF108 GPU Notes": {}
+  },
+  "GeForce GT 440": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "GPU Variant": "GF108-400-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 1st, 2011",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Launch Price": "79 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "810 MHz",
+      "Shader Clock": "1620 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "16",
+      "ROPs": "4",
+      "SM Count": "2",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.240 GPixel/s",
+      "Texture Rate": "12.96 GTexel/s",
+      "FP32 (float)": "311.0 GFLOPS",
+      "FP64 (double)": "25.92 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P1071 SKU 0001"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "Card Notes": {},
+    "GF108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (4)": {}
+  },
+  "GeForce GTX 480 Core 512": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-ES-DT1-A2",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "84 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "527 MHz",
+      "Shader Clock": "1053 MHz",
+      "Memory Clock": "700 MHz 2.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1536 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "134.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "64",
+      "ROPs": "48",
+      "SM Count": "16",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.86 GPixel/s",
+      "Texture Rate": "33.73 GTexel/s",
+      "FP32 (float)": "1,078.3 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "292 mm 11.5 inches",
+      "TDP": "375 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.3a",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "P1022"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "Card Notes": {},
+    "GF100 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Quadro 2000": {
+    "Graphics Processor": {
+      "GPU Name": "GF106",
+      "GPU Variant": "GF106-875-KA-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "1,170 million",
+      "Density": "4.9M / mm²",
+      "Die Size": "238 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 24th, 2010",
+      "Generation": "Quadro Fermi (x000)",
+      "Predecessor": "Quadro FX Tesla",
+      "Successor": "Quadro Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "599 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "625 MHz",
+      "Shader Clock": "1250 MHz",
+      "Memory Clock": "650 MHz 2.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "41.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SM Count": "4",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "5.000 GPixel/s",
+      "Texture Rate": "20.00 GTexel/s",
+      "FP32 (float)": "480.0 GFLOPS",
+      "FP64 (double)": "40.00 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "178 mm 7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "62 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 2x DisplayPort",
+      "Power Connectors": "None",
+      "Board Number": "P1232 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF106 GPU Notes": {}
+  },
+  "Quadro 600": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 13th, 2010",
+      "Generation": "Quadro Fermi (x000)",
+      "Predecessor": "Quadro FX Tesla",
+      "Successor": "Quadro Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "179 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "640 MHz",
+      "Shader Clock": "1280 MHz",
+      "Memory Clock": "800 MHz 1600 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "25.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "16",
+      "ROPs": "8",
+      "SM Count": "2",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.560 GPixel/s",
+      "Texture Rate": "10.24 GTexel/s",
+      "FP32 (float)": "245.8 GFLOPS",
+      "FP64 (double)": "20.48 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "40 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x DisplayPort",
+      "Power Connectors": "None",
+      "Board Number": "P1033 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Quadro 6000": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-850-A3",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 10th, 2010",
+      "Generation": "Quadro Fermi (x000)",
+      "Predecessor": "Quadro FX Tesla",
+      "Successor": "Quadro Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "4,399 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "574 MHz",
+      "Shader Clock": "1147 MHz",
+      "Memory Clock": "747 MHz 3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "143.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "56",
+      "ROPs": "48",
+      "SM Count": "14",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.07 GPixel/s",
+      "Texture Rate": "32.14 GTexel/s",
+      "FP32 (float)": "1,027.7 GFLOPS",
+      "FP64 (double)": "513.9 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "204 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DVI 2x DisplayPort 1x S-Video",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P1030 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "GeForce GTX 460 SE": {
+    "Graphics Processor": {
+      "GPU Name": "GF104",
+      "GPU Variant": "GF104-225-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "1,950 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "332 mm²",
+      "Chip Package": "BGA-1724"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 15th, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Launch Price": "160 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "2 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "650 MHz",
+      "Shader Clock": "1300 MHz",
+      "Memory Clock": "850 MHz 3.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "108.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "288",
+      "TMUs": "48",
+      "ROPs": "32",
+      "SM Count": "6",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.800 GPixel/s",
+      "Texture Rate": "31.20 GTexel/s",
+      "FP32 (float)": "748.8 GFLOPS",
+      "FP64 (double)": "62.40 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "210 mm 8.3 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.3a",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "P1041 SKU 7"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Quadro 4000": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-825-A3",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 2nd, 2010",
+      "Generation": "Quadro Fermi (x000)",
+      "Predecessor": "Quadro FX Tesla",
+      "Successor": "Quadro Kepler",
+      "Production": "End-of-life",
+      "Launch Price": "1,199 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "475 MHz",
+      "Shader Clock": "950 MHz",
+      "Memory Clock": "702 MHz 2.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "89.86 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "256",
+      "TMUs": "32",
+      "ROPs": "32",
+      "SM Count": "8",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.600 GPixel/s",
+      "Texture Rate": "15.20 GTexel/s",
+      "FP32 (float)": "486.4 GFLOPS",
+      "FP64 (double)": "243.2 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "142 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 2x DisplayPort",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P1031 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {}
+  },
+  "GeForce GT 430": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "GPU Variant": "GF108-300-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 11th, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Launch Price": "79 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "33 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "700 MHz",
+      "Shader Clock": "1400 MHz",
+      "Memory Clock": "800 MHz 1600 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "16",
+      "ROPs": "4",
+      "SM Count": "2",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.800 GPixel/s",
+      "Texture Rate": "11.20 GTexel/s",
+      "FP32 (float)": "268.8 GFLOPS",
+      "FP64 (double)": "22.40 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "49 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P1071 SKU 0001"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "Card Notes": {},
+    "GF108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (4)": {}
+  },
+  "GeForce GT 430 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "GPU Variant": "GF108-400-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 11th, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "33 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "700 MHz",
+      "Shader Clock": "1400 MHz",
+      "Memory Clock": "800 MHz 1600 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "25.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "16",
+      "ROPs": "4",
+      "SM Count": "2",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.800 GPixel/s",
+      "Texture Rate": "11.20 GTexel/s",
+      "FP32 (float)": "268.8 GFLOPS",
+      "FP64 (double)": "22.40 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "49 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF108 GPU Notes": {}
+  },
+  "GeForce GT 430 PCI": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "GPU Variant": "GF108-300-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 11th, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "33 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "700 MHz",
+      "Shader Clock": "1400 MHz",
+      "Memory Clock": "600 MHz 1200 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "9.600 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "16",
+      "ROPs": "4",
+      "SM Count": "2",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.800 GPixel/s",
+      "Texture Rate": "11.20 GTexel/s",
+      "FP32 (float)": "268.8 GFLOPS",
+      "FP64 (double)": "22.40 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "49 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P1071 SKU 0001"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GT 440 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GF106",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "1,170 million",
+      "Density": "4.9M / mm²",
+      "Die Size": "238 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 11th, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "810 MHz",
+      "Shader Clock": "1620 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1536 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "43.20 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "144",
+      "TMUs": "24",
+      "ROPs": "24",
+      "SM Count": "3",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "384 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "4.860 GPixel/s",
+      "Texture Rate": "19.44 GTexel/s",
+      "FP32 (float)": "466.6 GFLOPS",
+      "FP64 (double)": "38.88 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P1062 SKU 1"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF106 GPU Notes": {}
+  },
+  "GeForce GTS 450 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GF106",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "1,170 million",
+      "Density": "4.9M / mm²",
+      "Die Size": "238 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 13th, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Launch Price": "129 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "80 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "783 MHz",
+      "Shader Clock": "1566 MHz",
+      "Memory Clock": "902 MHz 3.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "57.73 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "144",
+      "TMUs": "24",
+      "ROPs": "16",
+      "SM Count": "3",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "4.698 GPixel/s",
+      "Texture Rate": "18.79 GTexel/s",
+      "FP32 (float)": "451.0 GFLOPS",
+      "FP64 (double)": "37.58 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "210 mm 8.3 inches",
+      "TDP": "106 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x DisplayPort 1x VGA",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P1060 SKU 11"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GTX 460 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GF104",
+      "GPU Variant": "GF104-325-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "1,950 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "332 mm²",
+      "Chip Package": "BGA-1724"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 11th, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "154 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "650 MHz",
+      "Shader Clock": "1300 MHz",
+      "Memory Clock": "850 MHz 3.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "108.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "336",
+      "TMUs": "56",
+      "ROPs": "32",
+      "SM Count": "7",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "9.100 GPixel/s",
+      "Texture Rate": "36.40 GTexel/s",
+      "FP32 (float)": "873.6 GFLOPS",
+      "FP64 (double)": "72.80 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "210 mm 8.3 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.3a",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "P1041 SKU 10"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF104 GPU Notes": {}
+  },
+  "GeForce GTS 450": {
+    "Graphics Processor": {
+      "GPU Name": "GF106",
+      "GPU Variant": "GF106-250-KA-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "1,170 million",
+      "Density": "4.9M / mm²",
+      "Die Size": "238 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 13th, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Launch Price": "129 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "80 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "783 MHz",
+      "Shader Clock": "1566 MHz",
+      "Memory Clock": "902 MHz 3.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "57.73 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SM Count": "4",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.264 GPixel/s",
+      "Texture Rate": "25.06 GTexel/s",
+      "FP32 (float)": "601.3 GFLOPS",
+      "FP64 (double)": "50.11 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "210 mm 8.3 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "106 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.3a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P1060 SKU 11"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (17)": {}
+  },
+  "GeForce GT 420 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GF108",
+      "GPU Variant": "GF108-200-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "585 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "116 mm²",
+      "Chip Package": "BGA-973"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 3rd, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "700 MHz",
+      "Shader Clock": "1400 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "48",
+      "TMUs": "4",
+      "ROPs": "4",
+      "SM Count": "1",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.400 GPixel/s",
+      "Texture Rate": "2.800 GTexel/s",
+      "FP32 (float)": "134.4 GFLOPS",
+      "FP64 (double)": "11.20 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.3a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P1071 SKU 0002"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GTX 460": {
+    "Graphics Processor": {
+      "GPU Name": "GF104",
+      "GPU Variant": "GF104-325-A1",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "1,950 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "332 mm²",
+      "Chip Package": "BGA-1724"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 12th, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Launch Price": "229 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "154 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "675 MHz",
+      "Shader Clock": "1350 MHz",
+      "Memory Clock": "900 MHz 3.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "115.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "336",
+      "TMUs": "56",
+      "ROPs": "32",
+      "SM Count": "7",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "9.450 GPixel/s",
+      "Texture Rate": "37.80 GTexel/s",
+      "FP32 (float)": "907.2 GFLOPS",
+      "FP64 (double)": "75.60 GFLOPS (1:12)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "210 mm 8.3 inches",
+      "TDP": "160 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.3a",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "P1041 SKU 1"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.1",
+      "Shader Model": "5.1"
+    },
+    "GF104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (23)": {}
+  },
+  "GeForce GTX 465": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-030-A3",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "May 31st, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Launch Price": "279 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "37 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "608 MHz",
+      "Shader Clock": "1215 MHz",
+      "Memory Clock": "802 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "102.7 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "352",
+      "TMUs": "44",
+      "ROPs": "32",
+      "SM Count": "11",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "13.38 GPixel/s",
+      "Texture Rate": "26.75 GTexel/s",
+      "FP32 (float)": "855.4 GFLOPS",
+      "FP64 (double)": "106.9 GFLOPS (1:8)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "200 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.3a",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "P1025 SKU 0008"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (3)": {}
+  },
+  "GeForce GTX 470": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-275-A3",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 26th, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Launch Price": "349 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "48 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "608 MHz",
+      "Shader Clock": "1215 MHz",
+      "Memory Clock": "837 MHz 3.3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1280 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "133.9 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "56",
+      "ROPs": "40",
+      "SM Count": "14",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "640 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "17.02 GPixel/s",
+      "Texture Rate": "34.05 GTexel/s",
+      "FP32 (float)": "1,088.6 GFLOPS",
+      "FP64 (double)": "136.1 GFLOPS (1:8)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "215 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.3a",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "P1025 SKU 0006"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (9)": {}
+  },
+  "GeForce GTX 480": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-375-A3",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 26th, 2010",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "84 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "701 MHz",
+      "Shader Clock": "1401 MHz",
+      "Memory Clock": "924 MHz 3.7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1536 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "177.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "480",
+      "TMUs": "60",
+      "ROPs": "48",
+      "SM Count": "15",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "21.03 GPixel/s",
+      "Texture Rate": "42.06 GTexel/s",
+      "FP32 (float)": "1,345.0 GFLOPS",
+      "FP64 (double)": "168.1 GFLOPS (1:8)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.3a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P1022 SKU 0000"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (17)": {}
+  },
+  "GeForce GTX 470 PhysX Edition": {
+    "Graphics Processor": {
+      "GPU Name": "GT215",
+      "GPU Variant": "GT215-400-A2",
+      "Architecture": "Tesla 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "727 million",
+      "Density": "5.0M / mm²",
+      "Die Size": "144 mm²",
+      "Chip Package": "BGA-969"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "48 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "608 MHz",
+      "Shader Clock": "1215 MHz",
+      "Memory Clock": "837 MHz 3.3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1280 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "133.9 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "56",
+      "ROPs": "40",
+      "SM Count": "14",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "640 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "17.02 GPixel/s",
+      "Texture Rate": "34.05 GTexel/s",
+      "FP32 (float)": "1,088.6 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "215 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.3a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "Card Notes": {},
+    "GF100 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GTX 470 X2": {
+    "Graphics Processor": {
+      "GPU Name": "GF100",
+      "GPU Variant": "GF100-030-A3",
+      "Architecture": "Fermi",
+      "Foundry": "TSMC",
+      "Process Size": "40 nm",
+      "Transistors": "3,100 million",
+      "Density": "5.9M / mm²",
+      "Die Size": "529 mm²",
+      "Chip Package": "BGA-1980"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "GeForce 400",
+      "Predecessor": "GeForce 200",
+      "Successor": "GeForce 500",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "48 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "608 MHz",
+      "Shader Clock": "1215 MHz",
+      "Memory Clock": "837 MHz 3.3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "107.1 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "352",
+      "TMUs": "44",
+      "ROPs": "32",
+      "SM Count": "11",
+      "L1 Cache": "64 KB (per SM)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "13.38 GPixel/s",
+      "Texture Rate": "26.75 GTexel/s",
+      "FP32 (float)": "855.4 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "215 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "3x DVI",
+      "Power Connectors": "2x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.1",
+      "Vulkan": "N/A",
+      "CUDA": "2.0",
+      "Shader Model": "5.1"
+    },
+    "GF100 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  }
+}

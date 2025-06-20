@@ -1,0 +1,204 @@
+{
+  "i815 Graphics": {
+    "Graphics Processor": {
+      "GPU Name": "Solano",
+      "Architecture": "Generation 1.0",
+      "Foundry": "Intel",
+      "Process Size": "150 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "2000",
+      "Generation": "Graphics (IGP)",
+      "Production": "End-of-life",
+      "Bus Interface": "FSB",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "133 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "133.0 MPixel/s",
+      "Texture Rate": "133.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "7.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.4",
+      "Vertex Shader": "1.1"
+    }
+  },
+  "i752": {
+    "Graphics Processor": {
+      "GPU Name": "Portola",
+      "Architecture": "Generation 1.0",
+      "Foundry": "Intel",
+      "Process Size": "150 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 27th, 1999",
+      "Generation": "Graphics",
+      "Successor": "Xe Graphics",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 2x",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "100 MHz",
+      "Memory Clock": "133 MHz"
+    },
+    "Memory": {
+      "Memory Size": "16 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "1.064 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "100.0 MPixel/s",
+      "Texture Rate": "100.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA 2x S-Video"
+    },
+    "Graphics Features": {
+      "DirectX": "7.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.4",
+      "Vertex Shader": "1.1"
+    }
+  },
+  "i810 Graphics": {
+    "Graphics Processor": {
+      "GPU Name": "Whitney",
+      "Architecture": "Generation 1.0",
+      "Foundry": "Intel",
+      "Process Size": "150 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "1999",
+      "Generation": "Graphics (IGP)",
+      "Production": "End-of-life",
+      "Bus Interface": "FSB",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "133 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "133.0 MPixel/s",
+      "Texture Rate": "133.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "7.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.4",
+      "Vertex Shader": "1.1"
+    }
+  },
+  "i752 Graphics": {
+    "Graphics Processor": {
+      "GPU Name": "Portola",
+      "Architecture": "Generation 1.0",
+      "Foundry": "Intel",
+      "Process Size": "150 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "1998",
+      "Generation": "Graphics (IGP)",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 2x",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "100 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "100.0 MPixel/s",
+      "Texture Rate": "100.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "7.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.4",
+      "Vertex Shader": "1.1"
+    }
+  }
+}

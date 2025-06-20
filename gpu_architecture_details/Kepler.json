@@ -1,0 +1,5527 @@
+{
+  "GeForce GT 1030 GK107": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 30th, 2018",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "6 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1058 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "80.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SMX Count": "2",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.464 GPixel/s",
+      "Texture Rate": "33.86 GTexel/s",
+      "FP32 (float)": "812.5 GFLOPS",
+      "FP64 (double)": "33.86 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "147 mm 5.8 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2010"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {}
+  },
+  "GeForce GT 720 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 29th, 2017",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "993 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.972 GPixel/s",
+      "Texture Rate": "15.89 GTexel/s",
+      "FP32 (float)": "381.3 GFLOPS",
+      "FP64 (double)": "15.89 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P2011"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK107 GPU Notes": {}
+  },
+  "GeForce GTX 760 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-200-KD-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 27th, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "823 MHz",
+      "Boost Clock": "888 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1536 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "134.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1152",
+      "TMUs": "96",
+      "ROPs": "24",
+      "SMX Count": "6",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "384 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "21.31 GPixel/s",
+      "Texture Rate": "85.25 GTexel/s",
+      "FP32 (float)": "2.046 TFLOPS",
+      "FP64 (double)": "85.25 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2004 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GT 740 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GK106S",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,540 million",
+      "Density": "11.5M / mm²",
+      "Die Size": "221 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 14th, 2015",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1006 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "80.19 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SMX Count": "2",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.048 GPixel/s",
+      "Texture Rate": "32.19 GTexel/s",
+      "FP32 (float)": "772.6 GFLOPS",
+      "FP64 (double)": "32.19 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None",
+      "Board Number": "P2010 SKU 30"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK106S GPU Notes": {}
+  },
+  "GeForce GT 730 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 9th, 2015",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "Active",
+      "Launch Price": "89 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "902 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "40.10 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "32",
+      "ROPs": "8",
+      "SMX Count": "2",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.216 GPixel/s",
+      "Texture Rate": "28.86 GTexel/s",
+      "FP32 (float)": "692.7 GFLOPS",
+      "FP64 (double)": "28.86 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "64 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2010 SKU 8, P2012 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {}
+  },
+  "Tesla K8": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 16th, 2014",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "693 MHz",
+      "Boost Clock": "811 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "25.95 GPixel/s",
+      "Texture Rate": "103.8 GTexel/s",
+      "FP32 (float)": "2.491 TFLOPS",
+      "FP64 (double)": "103.8 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "100 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2004"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "GeForce GTX 660 Rev. 2": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 13th, 2014",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "77 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "980 MHz",
+      "Boost Clock": "1032 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "144.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "960",
+      "TMUs": "80",
+      "ROPs": "24",
+      "SMX Count": "5",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "384 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "20.64 GPixel/s",
+      "Texture Rate": "82.56 GTexel/s",
+      "FP32 (float)": "1.981 TFLOPS",
+      "FP64 (double)": "82.56 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "140 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2004 SKU 11"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Quadro K420": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-301-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 22nd, 2014",
+      "Generation": "Quadro Kepler (Kx200)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "876 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.504 GPixel/s",
+      "Texture Rate": "14.02 GTexel/s",
+      "FP32 (float)": "336.4 GFLOPS",
+      "FP64 (double)": "14.02 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "160 mm 6.3 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "41 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "P2012 SKU 506"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK107 GPU Notes": {}
+  },
+  "Quadro K4200": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-850-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 22nd, 2014",
+      "Generation": "Quadro Kepler (Kx200)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "771 MHz",
+      "Boost Clock": "784 MHz",
+      "Memory Clock": "1350 MHz 5.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "172.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1344",
+      "TMUs": "112",
+      "ROPs": "32",
+      "SMX Count": "7",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "21.95 GPixel/s",
+      "Texture Rate": "87.81 GTexel/s",
+      "FP32 (float)": "2.107 TFLOPS",
+      "FP64 (double)": "87.81 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "108 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 2x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2004 SKU 503"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "Quadro K5200": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 22nd, 2014",
+      "Generation": "Quadro Kepler (Kx200)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "667 MHz",
+      "Boost Clock": "771 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "192",
+      "ROPs": "48",
+      "SMX Count": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "37.01 GPixel/s",
+      "Texture Rate": "148.0 GTexel/s",
+      "FP32 (float)": "3.553 TFLOPS",
+      "FP64 (double)": "148.0 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 2x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2081 SKU 502"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110B GPU Notes": {}
+  },
+  "GRID K120Q": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 2nd, 2014",
+      "Generation": "GRID (K1)",
+      "Production": "End-of-life",
+      "Launch Price": "125 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "850 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Texture Rate": "13.60 GTexel/s",
+      "FP32 (float)": "326.4 GFLOPS",
+      "FP64 (double)": "13.60 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK107 GPU Notes": {}
+  },
+  "GRID K220Q": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 2nd, 2014",
+      "Generation": "GRID (K2)",
+      "Production": "End-of-life",
+      "Launch Price": "469 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {}
+  },
+  "GRID K500": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 2nd, 2014",
+      "Generation": "GRID (K5)",
+      "Production": "End-of-life",
+      "Launch Price": "3,599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "GRID K520Q": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 2nd, 2014",
+      "Generation": "GRID (K5)",
+      "Production": "End-of-life",
+      "Launch Price": "3,599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "GRID K540Q": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 2nd, 2014",
+      "Generation": "GRID (K5)",
+      "Production": "End-of-life",
+      "Launch Price": "3,599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "GRID K560Q": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 2nd, 2014",
+      "Generation": "GRID (K5)",
+      "Production": "End-of-life",
+      "Launch Price": "3,599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "GeForce GT 740": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-425-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "May 29th, 2014",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Launch Price": "89 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "993 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "80.19 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SMX Count": "2",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.944 GPixel/s",
+      "Texture Rate": "31.78 GTexel/s",
+      "FP32 (float)": "762.6 GFLOPS",
+      "FP64 (double)": "31.78 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "64 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2010 SKU 8, P2011 SKU 6"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (47)": {}
+  },
+  "GeForce GTX TITAN Z": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "GPU Variant": "GK110-350-B1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "May 28th, 2014",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Launch Price": "2,999 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "4 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "705 MHz",
+      "Boost Clock": "876 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "336.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "52.56 GPixel/s",
+      "Texture Rate": "210.2 GTexel/s",
+      "FP32 (float)": "5.046 TFLOPS",
+      "FP64 (double)": "1.682 TFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Triple-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "62 mm 2.4 inches",
+      "TDP": "375 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "P2080 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110B GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (12)": {}
+  },
+  "GeForce GTX TITAN BLACK": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "GPU Variant": "GK110-430-B1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 18th, 2014",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Launch Price": "999 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "11 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "889 MHz",
+      "Boost Clock": "980 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "336.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "58.80 GPixel/s",
+      "Texture Rate": "235.2 GTexel/s",
+      "FP32 (float)": "5.645 TFLOPS",
+      "FP64 (double)": "1.882 TFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2083 SKU 31"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110B GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (14)": {}
+  },
+  "GeForce GTX 750 Ti OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GK106",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,540 million",
+      "Density": "11.5M / mm²",
+      "Die Size": "221 mm²",
+      "Chip Package": "BGA-1425"
+    },
+    "Graphics Card": {
+      "Release Date": "Unknown",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "69 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1033 MHz",
+      "Boost Clock": "1098 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "960",
+      "TMUs": "80",
+      "ROPs": "24",
+      "SMX Count": "5",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "21.96 GPixel/s",
+      "Texture Rate": "87.84 GTexel/s",
+      "FP32 (float)": "2.108 TFLOPS",
+      "FP64 (double)": "87.84 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None",
+      "Board Number": "P2010 SKU 15"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK106 GPU Notes": {}
+  },
+  "GeForce GTX 650": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-450-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 6th, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Launch Price": "109 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "17 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1058 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "80.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SMX Count": "2",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.464 GPixel/s",
+      "Texture Rate": "33.86 GTexel/s",
+      "FP32 (float)": "812.5 GFLOPS",
+      "FP64 (double)": "33.86 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "147 mm 5.8 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2010 SKU 4"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (60)": {}
+  },
+  "Tesla K40d": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 22nd, 2013",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "7,699 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "745 MHz",
+      "Boost Clock": "876 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "52.56 GPixel/s",
+      "Texture Rate": "210.2 GTexel/s",
+      "FP32 (float)": "5.046 TFLOPS",
+      "FP64 (double)": "1.682 TFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "245 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK110B GPU Notes": {}
+  },
+  "Tesla K40m": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 22nd, 2013",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "7,699 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "745 MHz",
+      "Boost Clock": "876 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "52.56 GPixel/s",
+      "Texture Rate": "210.2 GTexel/s",
+      "FP32 (float)": "5.046 TFLOPS",
+      "FP64 (double)": "1.682 TFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "245 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Board Number": "P2081 SKU 202"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110B GPU Notes": {}
+  },
+  "Tesla K40s": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 22nd, 2013",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "7,699 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "745 MHz",
+      "Boost Clock": "876 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "52.56 GPixel/s",
+      "Texture Rate": "210.2 GTexel/s",
+      "FP32 (float)": "5.046 TFLOPS",
+      "FP64 (double)": "1.682 TFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "245 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK110B GPU Notes": {}
+  },
+  "Tesla K40st": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 22nd, 2013",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "7,699 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "575 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "34.50 GPixel/s",
+      "Texture Rate": "138.0 GTexel/s",
+      "FP32 (float)": "3.312 TFLOPS",
+      "FP64 (double)": "1,104.0 GFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "245 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110B GPU Notes": {}
+  },
+  "Tesla K40t": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 22nd, 2013",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "7,699 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "745 MHz",
+      "Boost Clock": "876 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "52.56 GPixel/s",
+      "Texture Rate": "210.2 GTexel/s",
+      "FP32 (float)": "5.046 TFLOPS",
+      "FP64 (double)": "1.682 TFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "245 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK110B GPU Notes": {}
+  },
+  "GeForce GTX 760 X2": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-225-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 19th, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "139 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1006 MHz",
+      "Boost Clock": "1072 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1152",
+      "TMUs": "96",
+      "ROPs": "32",
+      "SMX Count": "6",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "25.73 GPixel/s",
+      "Texture Rate": "102.9 GTexel/s",
+      "FP32 (float)": "2.470 TFLOPS",
+      "FP64 (double)": "102.9 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "279 mm 11 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "3x DVI 1x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "P2004 SKU 10"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GTX 780 Ti": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "GPU Variant": "GK110-425-B1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 7th, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Launch Price": "699 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "94 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "875 MHz",
+      "Boost Clock": "928 MHz",
+      "Memory Clock": "1753 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "336.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "55.68 GPixel/s",
+      "Texture Rate": "222.7 GTexel/s",
+      "FP32 (float)": "5.345 TFLOPS",
+      "FP64 (double)": "222.7 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2083 SKU 30"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110B GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (52)": {}
+  },
+  "Tesla K40c": {
+    "Graphics Processor": {
+      "GPU Name": "GK180",
+      "GPU Variant": "GK180-890-A1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 8th, 2013",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "7,699 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "745 MHz",
+      "Boost Clock": "876 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "52.56 GPixel/s",
+      "Texture Rate": "210.2 GTexel/s",
+      "FP32 (float)": "5.046 TFLOPS",
+      "FP64 (double)": "1.682 TFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "245 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2081 SKU 206"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "5.1"
+    },
+    "GK180 GPU Notes": {}
+  },
+  "GeForce GTX 780 Ti Engineering Sample": {
+    "Graphics Processor": {
+      "GPU Name": "GK180",
+      "GPU Variant": "GK180-425-A1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "94 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "875 MHz",
+      "Boost Clock": "928 MHz",
+      "Memory Clock": "1753 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "336.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "55.68 GPixel/s",
+      "Texture Rate": "222.7 GTexel/s",
+      "FP32 (float)": "5.345 TFLOPS",
+      "FP64 (double)": "222.7 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2083 SKU 30"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "5.1"
+    },
+    "GK180 GPU Notes": {}
+  },
+  "GeForce GTX 760 Ti OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 27th, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "915 MHz",
+      "Boost Clock": "980 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1344",
+      "TMUs": "112",
+      "ROPs": "32",
+      "SMX Count": "7",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "27.44 GPixel/s",
+      "Texture Rate": "109.8 GTexel/s",
+      "FP32 (float)": "2.634 TFLOPS",
+      "FP64 (double)": "109.8 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "170 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "GeForce GTX 780 6 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "GPU Variant": "GK110-301-B1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 10th, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "155 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "863 MHz",
+      "Boost Clock": "902 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "192",
+      "ROPs": "48",
+      "SMX Count": "12",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "43.30 GPixel/s",
+      "Texture Rate": "173.2 GTexel/s",
+      "FP32 (float)": "4.156 TFLOPS",
+      "FP64 (double)": "173.2 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2083 SKU 25"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110B GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (12)": {}
+  },
+  "GeForce GTX 780 Rev. 2": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "GPU Variant": "GK110-300-B1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 10th, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Launch Price": "649 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "155 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "863 MHz",
+      "Boost Clock": "902 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "192",
+      "ROPs": "48",
+      "SMX Count": "12",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "43.30 GPixel/s",
+      "Texture Rate": "173.2 GTexel/s",
+      "FP32 (float)": "4.156 TFLOPS",
+      "FP64 (double)": "173.2 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2083 SKU 21"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK110B GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (19)": {}
+  },
+  "GeForce GTX 760 OEM Rebrand": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-200-KD-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 25th, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "823 MHz",
+      "Boost Clock": "888 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1536 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "179.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1152",
+      "TMUs": "96",
+      "ROPs": "32",
+      "SMX Count": "6",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "21.31 GPixel/s",
+      "Texture Rate": "85.25 GTexel/s",
+      "FP32 (float)": "2.046 TFLOPS",
+      "FP64 (double)": "85.25 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2004 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GTX 760 Ti OEM Rebrand": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-325-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 25th, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "915 MHz",
+      "Boost Clock": "980 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1344",
+      "TMUs": "112",
+      "ROPs": "32",
+      "SMX Count": "7",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "27.44 GPixel/s",
+      "Texture Rate": "109.8 GTexel/s",
+      "FP32 (float)": "2.634 TFLOPS",
+      "FP64 (double)": "109.8 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "170 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "P2004 SKU 5"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {}
+  },
+  "GRID K340": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 23rd, 2013",
+      "Generation": "GRID (K3)",
+      "Production": "End-of-life",
+      "Launch Price": "3,299 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "954 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "80.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SMX Count": "2",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.632 GPixel/s",
+      "Texture Rate": "30.53 GTexel/s",
+      "FP32 (float)": "732.7 GFLOPS",
+      "FP64 (double)": "30.53 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {}
+  },
+  "GRID K520": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 23rd, 2013",
+      "Generation": "GRID (K5)",
+      "Production": "End-of-life",
+      "Launch Price": "3,599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "P2055 SKU 50"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "Quadro K6000": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "GPU Variant": "GK110-890-B1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 23rd, 2013",
+      "Generation": "Quadro Kepler (Kx000)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "5,265 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "797 MHz",
+      "Boost Clock": "902 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "54.12 GPixel/s",
+      "Texture Rate": "216.5 GTexel/s",
+      "FP32 (float)": "5.196 TFLOPS",
+      "FP64 (double)": "1.732 TFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "2x DVI 2x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "P2081 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110B GPU Notes": {}
+  },
+  "Quadro K6000 SDI": {
+    "Graphics Processor": {
+      "GPU Name": "GK110",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 23rd, 2013",
+      "Generation": "Quadro Kepler (Kx000)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "8,599 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "902 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "54.12 GPixel/s",
+      "Texture Rate": "216.5 GTexel/s",
+      "FP32 (float)": "5.196 TFLOPS",
+      "FP64 (double)": "1.732 TFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Triple-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "239 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "3x DVI 2x DisplayPort 1.2 3x SDI"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110 GPU Notes": {}
+  },
+  "GRID K100": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 28th, 2013",
+      "Generation": "GRID (K1)",
+      "Production": "End-of-life",
+      "Launch Price": "63 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "850 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Texture Rate": "13.60 GTexel/s",
+      "FP32 (float)": "326.4 GFLOPS",
+      "FP64 (double)": "13.60 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK107 GPU Notes": {}
+  },
+  "GRID K140Q": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 28th, 2013",
+      "Generation": "GRID (K1)",
+      "Production": "End-of-life",
+      "Launch Price": "125 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "850 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Texture Rate": "13.60 GTexel/s",
+      "FP32 (float)": "326.4 GFLOPS",
+      "FP64 (double)": "13.60 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK107 GPU Notes": {}
+  },
+  "GRID K160Q": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 28th, 2013",
+      "Generation": "GRID (K1)",
+      "Production": "End-of-life",
+      "Launch Price": "125 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "850 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Texture Rate": "13.60 GTexel/s",
+      "FP32 (float)": "326.4 GFLOPS",
+      "FP64 (double)": "13.60 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK107 GPU Notes": {}
+  },
+  "GRID K180Q": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 28th, 2013",
+      "Generation": "GRID (K1)",
+      "Production": "End-of-life",
+      "Launch Price": "125 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "850 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Texture Rate": "13.60 GTexel/s",
+      "FP32 (float)": "326.4 GFLOPS",
+      "FP64 (double)": "13.60 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK107 GPU Notes": {}
+  },
+  "GRID K200": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 28th, 2013",
+      "Generation": "GRID (K2)",
+      "Production": "End-of-life",
+      "Launch Price": "235 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {}
+  },
+  "GRID K240Q": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 28th, 2013",
+      "Generation": "GRID (K2)",
+      "Production": "End-of-life",
+      "Launch Price": "469 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {}
+  },
+  "GRID K260Q": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 28th, 2013",
+      "Generation": "GRID (K2)",
+      "Production": "End-of-life",
+      "Launch Price": "937 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {}
+  },
+  "GRID K280Q": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 28th, 2013",
+      "Generation": "GRID (K2)",
+      "Production": "End-of-life",
+      "Launch Price": "1,875 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {}
+  },
+  "GeForce GTX 760": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-225-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 25th, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Launch Price": "249 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "139 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "980 MHz",
+      "Boost Clock": "1032 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1152",
+      "TMUs": "96",
+      "ROPs": "32",
+      "SMX Count": "6",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "24.77 GPixel/s",
+      "Texture Rate": "99.07 GTexel/s",
+      "FP32 (float)": "2.378 TFLOPS",
+      "FP64 (double)": "99.07 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "170 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "P2004 SKU 10"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (84)": {}
+  },
+  "GeForce GTX 770": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-425-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "May 30th, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Launch Price": "399 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "112 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1046 MHz",
+      "Boost Clock": "1085 MHz",
+      "Memory Clock": "1753 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "34.72 GPixel/s",
+      "Texture Rate": "138.9 GTexel/s",
+      "FP32 (float)": "3.333 TFLOPS",
+      "FP64 (double)": "138.9 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "230 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2005 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (84)": {}
+  },
+  "GeForce GTX 780": {
+    "Graphics Processor": {
+      "GPU Name": "GK110",
+      "GPU Variant": "GK110-300-A1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "May 23rd, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Launch Price": "649 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "155 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "863 MHz",
+      "Boost Clock": "902 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "192",
+      "ROPs": "48",
+      "SMX Count": "12",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "43.30 GPixel/s",
+      "Texture Rate": "173.2 GTexel/s",
+      "FP32 (float)": "4.156 TFLOPS",
+      "FP64 (double)": "173.2 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2083 SKU 20, P2083 SKU 21"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (59)": {}
+  },
+  "GRID K2": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-895-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "May 11th, 2013",
+      "Generation": "GRID (K2)",
+      "Production": "End-of-life",
+      "Launch Price": "5,199 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2055"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "GeForce GTX 645 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GK106S",
+      "GPU Variant": "GK106-200-A1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,540 million",
+      "Density": "11.5M / mm²",
+      "Die Size": "221 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 22nd, 2013",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "824 MHz",
+      "Memory Clock": "1000 MHz 4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "64.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "576",
+      "TMUs": "48",
+      "ROPs": "16",
+      "SMX Count": "3",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "9.888 GPixel/s",
+      "Texture Rate": "39.55 GTexel/s",
+      "FP32 (float)": "949.2 GFLOPS",
+      "FP64 (double)": "39.55 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "147 mm 5.8 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "P2010 SKU 20"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK106S GPU Notes": {}
+  },
+  "GeForce GTX 680 Mac Edition": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-400-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 3rd, 2013",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Launch Price": "599 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "151 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1006 MHz",
+      "Boost Clock": "1058 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "33.86 GPixel/s",
+      "Texture Rate": "135.4 GTexel/s",
+      "FP32 (float)": "3.250 TFLOPS",
+      "FP64 (double)": "135.4 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "256 mm 10.1 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "195 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GTX 650 Ti OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GK106",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,540 million",
+      "Density": "11.5M / mm²",
+      "Die Size": "221 mm²",
+      "Chip Package": "BGA-1425"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 31st, 2013",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "62 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "928 MHz",
+      "Memory Clock": "1350 MHz 5.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "86.40 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "64",
+      "ROPs": "16",
+      "SMX Count": "4",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "14.85 GPixel/s",
+      "Texture Rate": "59.39 GTexel/s",
+      "FP32 (float)": "1,425.4 GFLOPS",
+      "FP64 (double)": "59.39 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "110 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2030 SKU 11"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK106 GPU Notes": {}
+  },
+  "GeForce GTX 650 Ti Boost": {
+    "Graphics Processor": {
+      "GPU Name": "GK106",
+      "GPU Variant": "GK106-240-A1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,540 million",
+      "Density": "11.5M / mm²",
+      "Die Size": "221 mm²",
+      "Chip Package": "BGA-1425"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 26th, 2013",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Launch Price": "169 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "66 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "980 MHz",
+      "Boost Clock": "1032 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "144.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "64",
+      "ROPs": "24",
+      "SMX Count": "4",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "384 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.51 GPixel/s",
+      "Texture Rate": "66.05 GTexel/s",
+      "FP32 (float)": "1.585 TFLOPS",
+      "FP64 (double)": "66.05 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "134 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2030 SKU 11, P2030 SKU 12"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (48)": {}
+  },
+  "GRID K1": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-450-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 18th, 2013",
+      "Generation": "GRID (K1)",
+      "Production": "End-of-life",
+      "Launch Price": "4,140 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "850 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Texture Rate": "13.60 GTexel/s",
+      "FP32 (float)": "326.4 GFLOPS",
+      "FP64 (double)": "13.60 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2401 SKU 502"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {}
+  },
+  "Quadro K2000": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-301-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2013",
+      "Generation": "Quadro Kepler (Kx000)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "599 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "954 MHz",
+      "Memory Clock": "1000 MHz 4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "64.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SMX Count": "2",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.632 GPixel/s",
+      "Texture Rate": "30.53 GTexel/s",
+      "FP32 (float)": "732.7 GFLOPS",
+      "FP64 (double)": "30.53 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "202 mm 8 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "51 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 2x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "P2095 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {}
+  },
+  "Quadro K2000D": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-301-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2013",
+      "Generation": "Quadro Kepler (Kx000)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "599 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "954 MHz",
+      "Memory Clock": "1000 MHz 4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "64.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SMX Count": "2",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.632 GPixel/s",
+      "Texture Rate": "30.53 GTexel/s",
+      "FP32 (float)": "732.7 GFLOPS",
+      "FP64 (double)": "30.53 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "202 mm 8 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "51 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x mini-DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "P2095 SKU 501"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {}
+  },
+  "Quadro K4000": {
+    "Graphics Processor": {
+      "GPU Name": "GK106",
+      "GPU Variant": "GK106-875-A1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,540 million",
+      "Density": "11.5M / mm²",
+      "Die Size": "221 mm²",
+      "Chip Package": "BGA-1425"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2013",
+      "Generation": "Quadro Kepler (Kx000)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "1,269 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "810 MHz",
+      "Memory Clock": "1404 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "134.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "64",
+      "ROPs": "24",
+      "SMX Count": "4",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "384 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "12.96 GPixel/s",
+      "Texture Rate": "51.84 GTexel/s",
+      "FP32 (float)": "1,244.2 GFLOPS",
+      "FP64 (double)": "51.84 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "80 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 2x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2030 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK106 GPU Notes": {}
+  },
+  "Quadro K600": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-301-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2013",
+      "Generation": "Quadro Kepler (Kx000)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "876 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.504 GPixel/s",
+      "Texture Rate": "14.02 GTexel/s",
+      "FP32 (float)": "336.4 GFLOPS",
+      "FP64 (double)": "14.02 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "160 mm 6.3 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "41 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "P2012 SKU 501"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {}
+  },
+  "GeForce GTX TITAN": {
+    "Graphics Processor": {
+      "GPU Name": "GK110",
+      "GPU Variant": "GK110-400-A1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 19th, 2013",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Launch Price": "999 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "45 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "836 MHz",
+      "Boost Clock": "876 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2688",
+      "TMUs": "224",
+      "ROPs": "48",
+      "SMX Count": "14",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "49.06 GPixel/s",
+      "Texture Rate": "196.2 GTexel/s",
+      "FP32 (float)": "4.709 TFLOPS",
+      "FP64 (double)": "1.570 TFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2083 SKU 10"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (20)": {}
+  },
+  "Tesla K20s": {
+    "Graphics Processor": {
+      "GPU Name": "GK110",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 18th, 2013",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "3,199 USD",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "575 MHz",
+      "Memory Clock": "1300 MHz 5.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "5 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "208.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2496",
+      "TMUs": "208",
+      "ROPs": "40",
+      "SMX Count": "13",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1280 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.90 GPixel/s",
+      "Texture Rate": "119.6 GTexel/s",
+      "FP32 (float)": "2.870 TFLOPS",
+      "FP64 (double)": "956.8 GFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110 GPU Notes": {}
+  },
+  "Quadro K5000 SYNC": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 25th, 2013",
+      "Generation": "Quadro Kepler (Kx000)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "3,299 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "706 MHz",
+      "Memory Clock": "1350 MHz 5.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "172.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "22.59 GPixel/s",
+      "Texture Rate": "90.37 GTexel/s",
+      "FP32 (float)": "2.169 TFLOPS",
+      "FP64 (double)": "90.37 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Triple-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "122 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 2x DisplayPort 1.2 1x SDI",
+      "Power Connectors": "2x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "Tesla K20m": {
+    "Graphics Processor": {
+      "GPU Name": "GK110",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 5th, 2013",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "3,199 USD",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "706 MHz",
+      "Memory Clock": "1300 MHz 5.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "5 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "208.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2496",
+      "TMUs": "208",
+      "ROPs": "40",
+      "SMX Count": "13",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1280 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "36.71 GPixel/s",
+      "Texture Rate": "146.8 GTexel/s",
+      "FP32 (float)": "3.524 TFLOPS",
+      "FP64 (double)": "1,174.8 GFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2081 SKU 208"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110 GPU Notes": {}
+  },
+  "GeForce GTX 780 Ti 6 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GK110B",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "94 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "875 MHz",
+      "Boost Clock": "928 MHz",
+      "Memory Clock": "1753 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "336.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2880",
+      "TMUs": "240",
+      "ROPs": "48",
+      "SMX Count": "15",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "55.68 GPixel/s",
+      "Texture Rate": "222.7 GTexel/s",
+      "FP32 (float)": "5.345 TFLOPS",
+      "FP64 (double)": "222.7 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2083 SKU 30"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110B GPU Notes": {}
+  },
+  "Quadro 4100": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Unknown",
+      "Generation": "Quadro Kepler (x10)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "797 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "57.02 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1344",
+      "TMUs": "112",
+      "ROPs": "32",
+      "SMX Count": "7",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "22.32 GPixel/s",
+      "Texture Rate": "89.26 GTexel/s",
+      "FP32 (float)": "2.142 TFLOPS",
+      "FP64 (double)": "89.26 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "160 mm 6.3 inches",
+      "TDP": "35 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "4x mini-DisplayPort 1.2"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {}
+  },
+  "Tesla K20X": {
+    "Graphics Processor": {
+      "GPU Name": "GK110",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 12th, 2012",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "7,699 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "732 MHz",
+      "Memory Clock": "1300 MHz 5.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "249.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2688",
+      "TMUs": "224",
+      "ROPs": "48",
+      "SMX Count": "14",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "40.99 GPixel/s",
+      "Texture Rate": "164.0 GTexel/s",
+      "FP32 (float)": "3.935 TFLOPS",
+      "FP64 (double)": "1,311.7 GFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "235 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2081"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110 GPU Notes": {}
+  },
+  "Tesla K20Xm": {
+    "Graphics Processor": {
+      "GPU Name": "GK110",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 12th, 2012",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "7,699 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "732 MHz",
+      "Memory Clock": "1300 MHz 5.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "249.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2688",
+      "TMUs": "224",
+      "ROPs": "48",
+      "SMX Count": "14",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "40.99 GPixel/s",
+      "Texture Rate": "164.0 GTexel/s",
+      "FP32 (float)": "3.935 TFLOPS",
+      "FP64 (double)": "1,311.7 GFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "235 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Board Number": "P2081 SKU 200"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110 GPU Notes": {}
+  },
+  "Tesla K20c": {
+    "Graphics Processor": {
+      "GPU Name": "GK110",
+      "GPU Variant": "GK110-885-KA-A1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "7,080 million",
+      "Density": "12.6M / mm²",
+      "Die Size": "561 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 12th, 2012",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "3,199 USD",
+      "Bus Interface": "PCIe 2.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "706 MHz",
+      "Memory Clock": "1300 MHz 5.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "5 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "208.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2496",
+      "TMUs": "208",
+      "ROPs": "40",
+      "SMX Count": "13",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "1280 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "36.71 GPixel/s",
+      "Texture Rate": "146.8 GTexel/s",
+      "FP32 (float)": "3.524 TFLOPS",
+      "FP64 (double)": "1,174.8 GFLOPS (1:3)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2081 SKU 204"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.5",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK110 GPU Notes": {}
+  },
+  "NVS 510": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-301-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 23rd, 2012",
+      "Generation": "NVS",
+      "Production": "End-of-life",
+      "Launch Price": "449 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "797 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.188 GPixel/s",
+      "Texture Rate": "12.75 GTexel/s",
+      "FP32 (float)": "306.0 GFLOPS",
+      "FP64 (double)": "12.75 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "160 mm 6.3 inches",
+      "TDP": "35 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "4x mini-DisplayPort 1.2",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {}
+  },
+  "GeForce GTX 650 Ti": {
+    "Graphics Processor": {
+      "GPU Name": "GK106S",
+      "GPU Variant": "GK106-220-A1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,540 million",
+      "Density": "11.5M / mm²",
+      "Die Size": "221 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 9th, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Launch Price": "149 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "62 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "928 MHz",
+      "Memory Clock": "1350 MHz 5.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "86.40 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "64",
+      "ROPs": "16",
+      "SMX Count": "4",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "14.85 GPixel/s",
+      "Texture Rate": "59.39 GTexel/s",
+      "FP32 (float)": "1,425.4 GFLOPS",
+      "FP64 (double)": "59.39 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "110 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x mini-HDMI 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2010 SKU 15"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK106S GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (52)": {}
+  },
+  "GeForce GTX 660": {
+    "Graphics Processor": {
+      "GPU Name": "GK106",
+      "GPU Variant": "GK106-400-A1",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,540 million",
+      "Density": "11.5M / mm²",
+      "Die Size": "221 mm²",
+      "Chip Package": "BGA-1425"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 6th, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Launch Price": "229 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "77 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "980 MHz",
+      "Boost Clock": "1032 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "144.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "960",
+      "TMUs": "80",
+      "ROPs": "24",
+      "SMX Count": "5",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "384 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "20.64 GPixel/s",
+      "Texture Rate": "82.56 GTexel/s",
+      "FP32 (float)": "1.981 TFLOPS",
+      "FP64 (double)": "82.56 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "140 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2030 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (55)": {}
+  },
+  "GeForce GTX 660 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-200-KD-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 22nd, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "77 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "823 MHz",
+      "Boost Clock": "888 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "179.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1152",
+      "TMUs": "96",
+      "ROPs": "32",
+      "SMX Count": "6",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "21.31 GPixel/s",
+      "Texture Rate": "85.25 GTexel/s",
+      "FP32 (float)": "2.046 TFLOPS",
+      "FP64 (double)": "85.25 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2004 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "Quadro K5000": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 17th, 2012",
+      "Generation": "Quadro Kepler (Kx000)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "2,499 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "706 MHz",
+      "Memory Clock": "1350 MHz 5.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "172.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "22.59 GPixel/s",
+      "Texture Rate": "90.37 GTexel/s",
+      "FP32 (float)": "2.169 TFLOPS",
+      "FP64 (double)": "90.37 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "122 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 2x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "P2004 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "GeForce GTX 660 Ti": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-300-KD-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 16th, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Launch Price": "299 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "83 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "915 MHz",
+      "Boost Clock": "980 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "144.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1344",
+      "TMUs": "112",
+      "ROPs": "24",
+      "SMX Count": "7",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "384 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "27.44 GPixel/s",
+      "Texture Rate": "109.8 GTexel/s",
+      "FP32 (float)": "2.634 TFLOPS",
+      "FP64 (double)": "109.8 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "P2004 SKU 1"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (55)": {}
+  },
+  "NVS 1000": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "NVS",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "797 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.188 GPixel/s",
+      "Texture Rate": "12.75 GTexel/s",
+      "FP32 (float)": "306.0 GFLOPS",
+      "FP64 (double)": "12.75 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "160 mm 6.3 inches",
+      "TDP": "35 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "4x mini-DisplayPort 1.2"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK107 GPU Notes": {}
+  },
+  "Quadro 410": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-810-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 7th, 2012",
+      "Generation": "Quadro Kepler (x10)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "149 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "706 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "512 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "14.26 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "8",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.824 GPixel/s",
+      "Texture Rate": "11.30 GTexel/s",
+      "FP32 (float)": "271.1 GFLOPS",
+      "FP64 (double)": "11.30 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "176 mm 6.9 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "38 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "P2012 SKU 502"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {}
+  },
+  "Quadro K5000 Mac Edition": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 7th, 2012",
+      "Generation": "Quadro Kepler (Kx000)",
+      "Predecessor": "Quadro Fermi",
+      "Successor": "Quadro Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "2,249 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "706 MHz",
+      "Memory Clock": "1350 MHz 5.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "172.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "22.59 GPixel/s",
+      "Texture Rate": "90.37 GTexel/s",
+      "FP32 (float)": "2.169 TFLOPS",
+      "FP64 (double)": "90.37 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "122 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 2x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "GeForce GT 640": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-300-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 5th, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Launch Price": "99 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "8 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "902 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SMX Count": "2",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.216 GPixel/s",
+      "Texture Rate": "28.86 GTexel/s",
+      "FP32 (float)": "692.7 GFLOPS",
+      "FP64 (double)": "28.86 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "P2011 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK107 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (37)": {}
+  },
+  "GeForce GTX 670": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-325-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "May 10th, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Launch Price": "399 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "108 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "915 MHz",
+      "Boost Clock": "980 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1344",
+      "TMUs": "112",
+      "ROPs": "32",
+      "SMX Count": "7",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "27.44 GPixel/s",
+      "Texture Rate": "109.8 GTexel/s",
+      "FP32 (float)": "2.634 TFLOPS",
+      "FP64 (double)": "109.8 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "170 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "P2004 SKU 5"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (45)": {}
+  },
+  "GeForce GTX 690": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-355-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "May 3rd, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Launch Price": "999 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "20 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "915 MHz",
+      "Boost Clock": "1019 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "32.61 GPixel/s",
+      "Texture Rate": "130.4 GTexel/s",
+      "FP32 (float)": "3.130 TFLOPS",
+      "FP64 (double)": "130.4 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "279 mm 11 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "3x DVI 1x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "P2000 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (14)": {}
+  },
+  "Tesla K10": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "May 1st, 2012",
+      "Generation": "Tesla Kepler (Kxx)",
+      "Predecessor": "Tesla Fermi",
+      "Successor": "Tesla Maxwell",
+      "Production": "End-of-life",
+      "Launch Price": "5,099 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "745 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.84 GPixel/s",
+      "Texture Rate": "95.36 GTexel/s",
+      "FP32 (float)": "2.289 TFLOPS",
+      "FP64 (double)": "95.36 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "272 mm 10.7 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "P2055 SKU 202"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {}
+  },
+  "GeForce GT 630 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-301-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 24th, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "875 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMX Count": "1",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.500 GPixel/s",
+      "Texture Rate": "14.00 GTexel/s",
+      "FP32 (float)": "336.0 GFLOPS",
+      "FP64 (double)": "14.00 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "P2011 SKU 0, P2012 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK107 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GT 640 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GK107",
+      "GPU Variant": "GK107-320-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,270 million",
+      "Density": "10.8M / mm²",
+      "Die Size": "118 mm²",
+      "Chip Package": "BGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 24th, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "797 MHz",
+      "Memory Clock": "891 MHz 1782 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.51 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SMX Count": "2",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.376 GPixel/s",
+      "Texture Rate": "25.50 GTexel/s",
+      "FP32 (float)": "612.1 GFLOPS",
+      "FP64 (double)": "25.50 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "P2010 SKU 3, P2010 SKU 6, P2012 SKU 1, P2012 SKU 3"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "GK107 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (4)": {}
+  },
+  "GeForce GTX 680": {
+    "Graphics Processor": {
+      "GPU Name": "GK104",
+      "GPU Variant": "GK104-400-A2",
+      "Architecture": "Kepler",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "3,540 million",
+      "Density": "12.0M / mm²",
+      "Die Size": "294 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 22nd, 2012",
+      "Generation": "GeForce 600",
+      "Predecessor": "GeForce 500",
+      "Successor": "GeForce 700",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "151 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1006 MHz",
+      "Boost Clock": "1058 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "128",
+      "ROPs": "32",
+      "SMX Count": "8",
+      "L1 Cache": "16 KB (per SMX)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "33.86 GPixel/s",
+      "Texture Rate": "135.4 GTexel/s",
+      "FP32 (float)": "3.250 TFLOPS",
+      "FP64 (double)": "135.4 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "256 mm 10.1 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "195 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "P2002 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.2.175",
+      "CUDA": "3.0",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "GK104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (92)": {}
+  }
+}

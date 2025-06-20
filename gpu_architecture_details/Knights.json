@@ -1,0 +1,401 @@
+{
+  "Xeon Phi 5120D": {
+    "Graphics Processor": {
+      "GPU Name": "Knights Corner",
+      "Architecture": "Knights",
+      "Foundry": "Intel",
+      "Process Size": "22 nm",
+      "Transistors": "5,000 million",
+      "Density": "6.9M / mm²",
+      "Die Size": "720 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 17th, 2013",
+      "Generation": "Knights Corner (x100)",
+      "Predecessor": "Knights Ferry",
+      "Successor": "H3C Graphics",
+      "Production": "End-of-life",
+      "Launch Price": "2,759 USD",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "1053 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "512 bit",
+      "Bandwidth": "320.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "960",
+      "TMUs": "32",
+      "ROPs": "0",
+      "Execution Units": "60"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "33.70 GTexel/s",
+      "FP32 (float)": "2.022 TFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "TDP": "245 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "1.2",
+      "Vulkan": "N/A",
+      "Shader Model": "5.0"
+    },
+    "Card Notes": {}
+  },
+  "Xeon Phi 7120P": {
+    "Graphics Processor": {
+      "GPU Name": "Knights Corner",
+      "Architecture": "Knights",
+      "Foundry": "Intel",
+      "Process Size": "22 nm",
+      "Transistors": "5,000 million",
+      "Density": "6.9M / mm²",
+      "Die Size": "720 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 17th, 2013",
+      "Generation": "Knights Corner (x100)",
+      "Predecessor": "Knights Ferry",
+      "Successor": "H3C Graphics",
+      "Production": "End-of-life",
+      "Launch Price": "4,129 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1238 MHz",
+      "Boost Clock": "1333 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "512 bit",
+      "Bandwidth": "352.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "976",
+      "TMUs": "32",
+      "ROPs": "0",
+      "Execution Units": "61"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "42.66 GTexel/s",
+      "FP32 (float)": "2.602 TFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "1.2",
+      "Vulkan": "N/A",
+      "Shader Model": "5.0"
+    },
+    "Card Notes": {}
+  },
+  "Xeon Phi 7120X": {
+    "Graphics Processor": {
+      "GPU Name": "Knights Corner",
+      "Architecture": "Knights",
+      "Foundry": "Intel",
+      "Process Size": "22 nm",
+      "Transistors": "5,000 million",
+      "Density": "6.9M / mm²",
+      "Die Size": "720 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 17th, 2013",
+      "Generation": "Knights Corner (x100)",
+      "Predecessor": "Knights Ferry",
+      "Successor": "H3C Graphics",
+      "Production": "End-of-life",
+      "Launch Price": "4,129 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1238 MHz",
+      "Boost Clock": "1333 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "512 bit",
+      "Bandwidth": "352.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "976",
+      "TMUs": "32",
+      "ROPs": "0",
+      "Execution Units": "61"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "42.66 GTexel/s",
+      "FP32 (float)": "2.602 TFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "1.2",
+      "Vulkan": "N/A",
+      "Shader Model": "5.0"
+    },
+    "Card Notes": {}
+  },
+  "Xeon Phi 3120A": {
+    "Graphics Processor": {
+      "GPU Name": "Knights Corner",
+      "Architecture": "Knights",
+      "Foundry": "Intel",
+      "Process Size": "22 nm",
+      "Transistors": "5,000 million",
+      "Density": "6.9M / mm²",
+      "Die Size": "720 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 12th, 2012",
+      "Generation": "Knights Corner (x100)",
+      "Predecessor": "Knights Ferry",
+      "Successor": "H3C Graphics",
+      "Production": "End-of-life",
+      "Launch Price": "1,695 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "1100 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "912",
+      "TMUs": "32",
+      "ROPs": "0",
+      "Execution Units": "57"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "35.20 GTexel/s",
+      "FP32 (float)": "2.006 TFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "1.2",
+      "Vulkan": "N/A",
+      "Shader Model": "5.0"
+    },
+    "Card Notes": {}
+  },
+  "Xeon Phi 5110P": {
+    "Graphics Processor": {
+      "GPU Name": "Knights Corner",
+      "Architecture": "Knights",
+      "Foundry": "Intel",
+      "Process Size": "22 nm",
+      "Transistors": "5,000 million",
+      "Density": "6.9M / mm²",
+      "Die Size": "720 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 12th, 2012",
+      "Generation": "Knights Corner (x100)",
+      "Predecessor": "Knights Ferry",
+      "Successor": "H3C Graphics",
+      "Production": "End-of-life",
+      "Launch Price": "2,649 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "1053 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "512 bit",
+      "Bandwidth": "320.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "960",
+      "TMUs": "32",
+      "ROPs": "0",
+      "Execution Units": "60"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "33.70 GTexel/s",
+      "FP32 (float)": "2.022 TFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "1.2",
+      "Vulkan": "N/A",
+      "Shader Model": "5.0"
+    },
+    "Card Notes": {}
+  },
+  "Xeon Phi SE10X": {
+    "Graphics Processor": {
+      "GPU Name": "Knights Corner",
+      "Architecture": "Knights",
+      "Foundry": "Intel",
+      "Process Size": "22 nm",
+      "Transistors": "5,000 million",
+      "Density": "6.9M / mm²",
+      "Die Size": "720 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 12th, 2012",
+      "Generation": "Knights Corner",
+      "Predecessor": "Knights Ferry",
+      "Successor": "H3C Graphics",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "1100 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "512 bit",
+      "Bandwidth": "352.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "976",
+      "TMUs": "32",
+      "ROPs": "0",
+      "Execution Units": "61"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "35.20 GTexel/s",
+      "FP32 (float)": "2.147 TFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "248 mm 9.8 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "1.2",
+      "Vulkan": "N/A",
+      "Shader Model": "5.0"
+    },
+    "Card Notes": {}
+  },
+  "Aubrey Isle": {
+    "Graphics Processor": {
+      "GPU Name": "Knights Ferry",
+      "Architecture": "Knights",
+      "Foundry": "Intel",
+      "Process Size": "45 nm",
+      "Transistors": "2,300 million",
+      "Density": "3.4M / mm²",
+      "Die Size": "684 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "May 31st, 2010",
+      "Generation": "Knights Ferry",
+      "Successor": "Knights Corner",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 2.0 x16",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "1200 MHz",
+      "Memory Clock": "1200 MHz 4.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "153.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "0",
+      "Execution Units": "32"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "38.40 GTexel/s",
+      "FP32 (float)": "1,228.8 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "1x DVI 1x HDMI 1x DisplayPort",
+      "Power Connectors": "1x 6-pin + 1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "1.2",
+      "Vulkan": "N/A",
+      "Shader Model": "5.0"
+    },
+    "Card Notes": {}
+  }
+}

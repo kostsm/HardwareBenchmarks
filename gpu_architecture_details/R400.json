@@ -1,0 +1,2926 @@
+{
+  "Radeon 2100 IGP": {
+    "Graphics Processor": {
+      "GPU Name": "RS740",
+      "GPU Variant": "RS740 (215RVA6BVA11FG)",
+      "Architecture": "R400",
+      "Process Size": "55 nm",
+      "Transistors": "120 million",
+      "Density": "1.6M / mm²",
+      "Die Size": "73 mm²"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Mar 4th, 2008",
+      "Generation": "Radeon IGP (2000)",
+      "Successor": "TeraScale IGP",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "200.0 MVertices/s",
+      "Texture Rate": "1.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "RS740 GPU Notes": {}
+  },
+  "Radeon X1050": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 25th, 2008",
+      "Generation": "Radeon R400 PCIe (X1050)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "4 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "3.200 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.200 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "24 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "RV410 GPU Notes": {}
+  },
+  "Radeon X800 GTO": {
+    "Graphics Processor": {
+      "GPU Name": "R480",
+      "GPU Variant": "R480 GTO (215RBPAGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 1st, 2005",
+      "Generation": "Radeon R400 PCIe (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "25.60 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "6",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "4.800 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "4.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "49 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "R480 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X800 GT AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R481",
+      "GPU Variant": "R481 SE",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 1st, 2005",
+      "Generation": "Radeon R400 AGP (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "475 MHz",
+      "Memory Clock": "493 MHz 986 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "31.55 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "6",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "5.700 GPixel/s",
+      "Vertex Rate": "712.5 MVertices/s",
+      "Texture Rate": "5.700 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "40 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R481 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X800 GTO AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R481",
+      "GPU Variant": "R481 PRO (215RAGAGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2005",
+      "Generation": "Radeon R400 AGP (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "490 MHz 980 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "31.36 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "6",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "4.800 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "4.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "49 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R481 GPU Notes": {}
+  },
+  "Radeon Xpress 1200 IGP": {
+    "Graphics Processor": {
+      "GPU Name": "RS690",
+      "Architecture": "R400",
+      "Process Size": "80 nm",
+      "Transistors": "120 million",
+      "Density": "1.6M / mm²",
+      "Die Size": "73 mm²"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Feb 28th, 2007",
+      "Generation": "Radeon IGP (1200)",
+      "Successor": "TeraScale IGP",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "200.0 MVertices/s",
+      "Texture Rate": "1.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "RS690 GPU Notes": {}
+  },
+  "Radeon Xpress 1250 IGP": {
+    "Graphics Processor": {
+      "GPU Name": "RS690",
+      "GPU Variant": "RS690 (215RQAGAVA12FG)",
+      "Architecture": "R400",
+      "Process Size": "80 nm",
+      "Transistors": "120 million",
+      "Density": "1.6M / mm²",
+      "Die Size": "73 mm²"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Feb 28th, 2007",
+      "Generation": "Radeon IGP (1200)",
+      "Successor": "TeraScale IGP",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "200.0 MVertices/s",
+      "Texture Rate": "1.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "RS690 GPU Notes": {}
+  },
+  "Radeon X550 XT": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 24th, 2007",
+      "Generation": "Radeon R300 (X550)",
+      "Predecessor": "Radeon R200",
+      "Successor": "Radeon R400 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "6 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "300 MHz 600 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "9.600 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "6",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "1.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "RV410 GPU Notes": {}
+  },
+  "Radeon X550 XTX": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 24th, 2007",
+      "Generation": "Radeon R300 (X550)",
+      "Predecessor": "Radeon R200",
+      "Successor": "Radeon R400 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "6 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "300 MHz 600 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "4.800 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.200 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "RV410 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X850 CrossFire Edition": {
+    "Graphics Processor": {
+      "GPU Name": "R480",
+      "GPU Variant": "R480 XT (215RBHAGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 10th, 2006",
+      "Generation": "Radeon R400 PCIe (X850)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "549 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "520 MHz",
+      "Memory Clock": "540 MHz 1080 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "34.56 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.320 GPixel/s",
+      "Vertex Rate": "780.0 MVertices/s",
+      "Texture Rate": "8.320 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "69 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x DMS-59",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-A00001-00"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "R480 GPU Notes": {}
+  },
+  "Radeon X800 GT": {
+    "Graphics Processor": {
+      "GPU Name": "R480",
+      "GPU Variant": "R480 SE (215RBPQGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 1st, 2005",
+      "Generation": "Radeon R400 PCIe (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "475 MHz",
+      "Memory Clock": "350 MHz 700 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "22.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "6",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "5.700 GPixel/s",
+      "Vertex Rate": "712.5 MVertices/s",
+      "Texture Rate": "5.700 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "40 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "A474"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "R480 GPU Notes": {}
+  },
+  "Radeon X800 CrossFire Edition": {
+    "Graphics Processor": {
+      "GPU Name": "R430",
+      "GPU Variant": "R430 XL (215RBBAKA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "160 million",
+      "Density": "666.7K / mm²",
+      "Die Size": "240 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 28th, 2005",
+      "Generation": "Radeon R400 PCIe (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.000 GPixel/s",
+      "Vertex Rate": "750.0 MVertices/s",
+      "Texture Rate": "8.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R430 GPU Notes": {}
+  },
+  "Radeon X800 GTO2": {
+    "Graphics Processor": {
+      "GPU Name": "R480",
+      "GPU Variant": "R480 XL",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 15th, 2005",
+      "Generation": "Radeon R400 PCIe (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "164 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "490 MHz 980 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "31.36 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.400 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "6.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R480 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X850 PRO AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R481",
+      "GPU Variant": "R481 PRO (215RAGAGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 4th, 2005",
+      "Generation": "Radeon R400 AGP (X850)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Launch Price": "279 USD",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "6",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.000 GPixel/s",
+      "Vertex Rate": "750.0 MVertices/s",
+      "Texture Rate": "6.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex",
+      "Board Number": "109-A47501-00"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R481 GPU Notes": {}
+  },
+  "All-In-Wonder X800 SE": {
+    "Graphics Processor": {
+      "GPU Name": "R420",
+      "GPU Variant": "R420 LE (215RABCGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "569.4K / mm²",
+      "Die Size": "281 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 27th, 2005",
+      "Generation": "All-In-Wonder (X)",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "25.60 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Vertex Rate": "637.5 MVertices/s",
+      "Texture Rate": "3.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "None",
+      "Board Number": "109-A38304-00",
+      "Part Number": "100-714500"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R420 GPU Notes": {}
+  },
+  "All-In-Wonder X800 VE": {
+    "Graphics Processor": {
+      "GPU Name": "R420",
+      "GPU Variant": "R420 LE (215RABCGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "569.4K / mm²",
+      "Die Size": "281 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 27th, 2005",
+      "Generation": "All-In-Wonder (X)",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "25.60 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Vertex Rate": "637.5 MVertices/s",
+      "Texture Rate": "3.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "None",
+      "Board Number": "109-A38304-00",
+      "Part Number": "100-714218"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R420 GPU Notes": {}
+  },
+  "Radeon X700 SE": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "GPU Variant": "RV410 SE (215SCAAKA12F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 1st, 2005",
+      "Generation": "Radeon R400 PCIe (X700)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "4.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "6",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "1.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "RV410 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X740 XL": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 7th, 2005",
+      "Generation": "Radeon R400 PCIe (X700)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "450 MHz 900 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "14.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Vertex Rate": "637.5 MVertices/s",
+      "Texture Rate": "3.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "RV410 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X850 XT AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R481",
+      "GPU Variant": "R481 XT (215RAFAGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 28th, 2005",
+      "Generation": "Radeon R400 AGP (X850)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "520 MHz",
+      "Memory Clock": "540 MHz 1080 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "34.56 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.320 GPixel/s",
+      "Vertex Rate": "780.0 MVertices/s",
+      "Texture Rate": "8.320 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "69 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R481 GPU Notes": {}
+  },
+  "Radeon X850 XT Platinum AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R481",
+      "GPU Variant": "R481 XTP (215RAFCGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 28th, 2005",
+      "Generation": "Radeon R400 AGP (X850)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "540 MHz",
+      "Memory Clock": "590 MHz 1180 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "37.76 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.640 GPixel/s",
+      "Vertex Rate": "810.0 MVertices/s",
+      "Texture Rate": "8.640 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "186 mm 7.3 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "41 mm 1.6 inches",
+      "TDP": "67 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex",
+      "Board Number": "109-A47501-00"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R481 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "All-In-Wonder X800 XL": {
+    "Graphics Processor": {
+      "GPU Name": "R430",
+      "GPU Variant": "R430 AIW",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "160 million",
+      "Density": "666.7K / mm²",
+      "Die Size": "240 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 21st, 2005",
+      "Generation": "All-In-Wonder (X)",
+      "Production": "End-of-life",
+      "Launch Price": "329 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "490 MHz 980 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "31.36 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.400 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "6.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "None",
+      "Board Number": "A543"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R430 GPU Notes": {}
+  },
+  "Radeon X700 LE": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "GPU Variant": "RV410 LE (215LCAAKA13FL)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 21st, 2004",
+      "Generation": "Radeon R400 PCIe (X700)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "350 MHz 700 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "11.20 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.200 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "A387"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "RV410 GPU Notes": {}
+  },
+  "Radeon X850 XT Platinum": {
+    "Graphics Processor": {
+      "GPU Name": "R480",
+      "GPU Variant": "R480 XT X850 (215RCJAGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 21st, 2004",
+      "Generation": "Radeon R400 PCIe (X850)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "549 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "540 MHz",
+      "Memory Clock": "590 MHz 1180 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "37.76 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.640 GPixel/s",
+      "Vertex Rate": "810.0 MVertices/s",
+      "Texture Rate": "8.640 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "186 mm 7.3 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "41 mm 1.6 inches",
+      "TDP": "67 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-A47401-00, 109-A47401-10"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R480 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (3)": {}
+  },
+  "FireGL V7100": {
+    "Graphics Processor": {
+      "GPU Name": "R423",
+      "GPU Variant": "R423 GL",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "553.6K / mm²",
+      "Die Size": "289 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 1st, 2004",
+      "Generation": "FireGL (Vx100)",
+      "Predecessor": "Fire GL",
+      "Successor": "FirePro Terascale",
+      "Production": "End-of-life",
+      "Launch Price": "1,099 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "493 MHz",
+      "Memory Clock": "475 MHz 950 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "30.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.888 GPixel/s",
+      "Vertex Rate": "739.5 MVertices/s",
+      "Texture Rate": "7.888 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "211 mm 8.3 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "91 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A322"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R423 GPU Notes": {}
+  },
+  "Radeon X800": {
+    "Graphics Processor": {
+      "GPU Name": "R430",
+      "GPU Variant": "R430 (215RBCAKA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "160 million",
+      "Density": "666.7K / mm²",
+      "Die Size": "240 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 1st, 2004",
+      "Generation": "Radeon R400 PCIe (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "249 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "350 MHz 700 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "22.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "6",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "4.800 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "4.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "30 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R430 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X800 XL": {
+    "Graphics Processor": {
+      "GPU Name": "R430",
+      "GPU Variant": "R430 XL (215RBBAKA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "160 million",
+      "Density": "666.7K / mm²",
+      "Die Size": "240 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 1st, 2004",
+      "Generation": "Radeon R400 PCIe (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "349 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "490 MHz 980 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "31.36 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.400 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "6.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "49 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R430 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X800 XT": {
+    "Graphics Processor": {
+      "GPU Name": "R423",
+      "GPU Variant": "R423 XT (215RBJAGA12F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "553.6K / mm²",
+      "Die Size": "289 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 1st, 2004",
+      "Generation": "Radeon R400 PCIe (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.000 GPixel/s",
+      "Vertex Rate": "750.0 MVertices/s",
+      "Texture Rate": "8.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "54 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "A319"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R423 GPU Notes": {}
+  },
+  "Radeon X800 XT Mac Edition": {
+    "Graphics Processor": {
+      "GPU Name": "R423",
+      "GPU Variant": "R423 XT (215RBJAGA12F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "553.6K / mm²",
+      "Die Size": "289 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 1st, 2004",
+      "Generation": "Radeon R400 AGP (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP Pro 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "475 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.600 GPixel/s",
+      "Vertex Rate": "712.5 MVertices/s",
+      "Texture Rate": "7.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "54 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI",
+      "Power Connectors": "None",
+      "Board Number": "109-A35803-00"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R423 GPU Notes": {}
+  },
+  "Radeon X850 PRO": {
+    "Graphics Processor": {
+      "GPU Name": "R480",
+      "GPU Variant": "R480 PRO (215RBPAGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 1st, 2004",
+      "Generation": "Radeon R400 PCIe (X850)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "279 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "507 MHz",
+      "Memory Clock": "520 MHz 1040 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "33.28 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "6",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.084 GPixel/s",
+      "Vertex Rate": "760.5 MVertices/s",
+      "Texture Rate": "6.084 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R480 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X850 XT": {
+    "Graphics Processor": {
+      "GPU Name": "R480",
+      "GPU Variant": "R480 XT X850 (215RCJAGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "538.7K / mm²",
+      "Die Size": "297 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 1st, 2004",
+      "Generation": "Radeon R400 PCIe (X850)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "520 MHz",
+      "Memory Clock": "540 MHz 1080 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "34.56 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.320 GPixel/s",
+      "Vertex Rate": "780.0 MVertices/s",
+      "Texture Rate": "8.320 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "69 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-A47401-10"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R480 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X800 SE": {
+    "Graphics Processor": {
+      "GPU Name": "R423",
+      "GPU Variant": "R423 SE",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "553.6K / mm²",
+      "Die Size": "289 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 4th, 2004",
+      "Generation": "Radeon R400 PCIe (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "350 MHz 700 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "22.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Vertex Rate": "637.5 MVertices/s",
+      "Texture Rate": "3.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "A321"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R423 GPU Notes": {}
+  },
+  "All-In-Wonder X800 GT": {
+    "Graphics Processor": {
+      "GPU Name": "R430",
+      "GPU Variant": "R430 AIW",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "160 million",
+      "Density": "666.7K / mm²",
+      "Die Size": "240 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 21st, 2004",
+      "Generation": "All-In-Wonder (X)",
+      "Production": "End-of-life",
+      "Launch Price": "249 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "398 MHz",
+      "Memory Clock": "492 MHz 984 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "15.74 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.184 GPixel/s",
+      "Vertex Rate": "597.0 MVertices/s",
+      "Texture Rate": "3.184 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "None",
+      "Board Number": "A543"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R430 GPU Notes": {}
+  },
+  "All-In-Wonder X800 XT": {
+    "Graphics Processor": {
+      "GPU Name": "R420",
+      "GPU Variant": "R420 XT (215RADCGA12F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "569.4K / mm²",
+      "Die Size": "281 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 21st, 2004",
+      "Generation": "All-In-Wonder (X)",
+      "Production": "End-of-life",
+      "Launch Price": "179 USD",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.000 GPixel/s",
+      "Vertex Rate": "750.0 MVertices/s",
+      "Texture Rate": "8.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "109-A38304-00",
+      "Part Number": "100-714200"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R420 GPU Notes": {}
+  },
+  "FireGL V5000": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "GPU Variant": "RV410 GL",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 1st, 2004",
+      "Generation": "FireGL (Vx000)",
+      "Predecessor": "Fire GL",
+      "Successor": "FirePro Terascale",
+      "Production": "End-of-life",
+      "Launch Price": "699 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "430 MHz 860 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "13.76 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Vertex Rate": "637.5 MVertices/s",
+      "Texture Rate": "3.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "183 mm 7.2 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "109-A38501-00"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "RV410 GPU Notes": {}
+  },
+  "Radeon X700": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "GPU Variant": "RV410 LE (215LCAAKA13FL)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 1st, 2004",
+      "Generation": "Radeon R400 PCIe (X700)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.200 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "44 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "RV410 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X700 AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 1st, 2004",
+      "Generation": "Radeon R400 AGP (X700)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.200 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "44 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "RV410 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon X700 PRO": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "GPU Variant": "RV410 PRO (215RCAAKA12F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 1st, 2004",
+      "Generation": "Radeon R400 PCIe (X700)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "179 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "430 MHz 860 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "13.76 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Vertex Rate": "637.5 MVertices/s",
+      "Texture Rate": "3.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "190 mm 7.5 inches",
+      "Width": "109 mm 4.3 inches",
+      "Height": "16 mm 0.6 inches",
+      "TDP": "33 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "A379"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "RV410 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X700 PRO AGP": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 1st, 2004",
+      "Generation": "Radeon R400 AGP (X700)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "472 MHz 944 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "15.10 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.400 GPixel/s",
+      "Vertex Rate": "637.5 MVertices/s",
+      "Texture Rate": "3.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "33 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "Floppy"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "RV410 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X700 XT": {
+    "Graphics Processor": {
+      "GPU Name": "RV410",
+      "GPU Variant": "RV410 XT (215LCAAKA13FS)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "120 million",
+      "Density": "769.2K / mm²",
+      "Die Size": "156 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 1st, 2004",
+      "Generation": "Radeon R400 PCIe (X700)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "58 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "475 MHz",
+      "Memory Clock": "525 MHz 1050 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "16.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.800 GPixel/s",
+      "Vertex Rate": "712.5 MVertices/s",
+      "Texture Rate": "3.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "38 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "A379"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "RV410 GPU Notes": {}
+  },
+  "Radeon X800 SE AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R420",
+      "GPU Variant": "R420 LE (215RABCGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "569.4K / mm²",
+      "Die Size": "281 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 1st, 2004",
+      "Generation": "Radeon R400 AGP (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "450 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "25.60 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "6",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.600 GPixel/s",
+      "Vertex Rate": "675.0 MVertices/s",
+      "Texture Rate": "3.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R420 GPU Notes": {}
+  },
+  "Radeon X800 VE AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R420",
+      "GPU Variant": "R420 XT (215RADCGA12F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "569.4K / mm²",
+      "Die Size": "281 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 1st, 2004",
+      "Generation": "Radeon R400 AGP (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "398 MHz 796 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "25.47 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.800 GPixel/s",
+      "Vertex Rate": "637.5 MVertices/s",
+      "Texture Rate": "6.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R420 GPU Notes": {}
+  },
+  "FireGL X3-256": {
+    "Graphics Processor": {
+      "GPU Name": "R420",
+      "GPU Variant": "R420 GL (215RAACGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "569.4K / mm²",
+      "Die Size": "281 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 3rd, 2004",
+      "Generation": "FireGL (9000)",
+      "Predecessor": "Fire GL",
+      "Successor": "FirePro Terascale",
+      "Production": "End-of-life",
+      "Launch Price": "1,099 USD",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "491 MHz",
+      "Memory Clock": "454 MHz 908 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "29.06 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "6",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "5.892 GPixel/s",
+      "Vertex Rate": "736.5 MVertices/s",
+      "Texture Rate": "5.892 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "57 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x Molex",
+      "Board Number": "109-A30101"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R420 GPU Notes": {}
+  },
+  "FireGL V5100": {
+    "Graphics Processor": {
+      "GPU Name": "R423",
+      "GPU Variant": "R423 GL-SE (215RBSAGA12F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "553.6K / mm²",
+      "Die Size": "289 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "May 1st, 2004",
+      "Generation": "FireGL (Vx100)",
+      "Predecessor": "Fire GL",
+      "Successor": "FirePro Terascale",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "450 MHz",
+      "Memory Clock": "350 MHz 700 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "22.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "6",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "5.400 GPixel/s",
+      "Vertex Rate": "675.0 MVertices/s",
+      "Texture Rate": "5.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "211 mm 8.3 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None",
+      "Board Number": "A457-00"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R423 GPU Notes": {}
+  },
+  "Radeon X800 PRO": {
+    "Graphics Processor": {
+      "GPU Name": "R423",
+      "GPU Variant": "R423 PRO (215RBKAGA12FB)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "553.6K / mm²",
+      "Die Size": "289 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "May 1st, 2004",
+      "Generation": "Radeon R400 PCIe (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "399 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "475 MHz",
+      "Memory Clock": "450 MHz 900 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "6",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "5.700 GPixel/s",
+      "Vertex Rate": "712.5 MVertices/s",
+      "Texture Rate": "5.700 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "48 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R423 GPU Notes": {}
+  },
+  "Radeon X800 PRO AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R420",
+      "GPU Variant": "R420 PRO (215RAACGA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "569.4K / mm²",
+      "Die Size": "281 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "May 1st, 2004",
+      "Generation": "Radeon R400 AGP (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "475 MHz",
+      "Memory Clock": "450 MHz 900 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "12",
+      "Vertex Shaders": "6",
+      "TMUs": "12",
+      "ROPs": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "5.700 GPixel/s",
+      "Vertex Rate": "712.5 MVertices/s",
+      "Texture Rate": "5.700 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "48 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R420 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X800 XL AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R430",
+      "GPU Variant": "R430 XL (215RBBAKA11F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "110 nm",
+      "Transistors": "160 million",
+      "Density": "666.7K / mm²",
+      "Die Size": "240 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "May 1st, 2004",
+      "Generation": "Radeon R400 AGP (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.400 GPixel/s",
+      "Vertex Rate": "600.0 MVertices/s",
+      "Texture Rate": "6.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "49 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "Card Notes": {},
+    "R430 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon X800 XT Platinum AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R420",
+      "GPU Variant": "R420 XTP (215RADCGA12F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "569.4K / mm²",
+      "Die Size": "281 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "May 1st, 2004",
+      "Generation": "Radeon R400 AGP (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "520 MHz",
+      "Memory Clock": "560 MHz 1120 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "35.84 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.320 GPixel/s",
+      "Vertex Rate": "780.0 MVertices/s",
+      "Texture Rate": "8.320 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "63 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex",
+      "Board Number": "109-A26100-01"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R420 GPU Notes": {}
+  },
+  "Radeon X800 XT AGP": {
+    "Graphics Processor": {
+      "GPU Name": "R420",
+      "GPU Variant": "R420 XT (215RADCGA12F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "569.4K / mm²",
+      "Die Size": "281 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2004",
+      "Generation": "Radeon R400 AGP (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.000 GPixel/s",
+      "Vertex Rate": "750.0 MVertices/s",
+      "Texture Rate": "8.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "54 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R420 GPU Notes": {}
+  },
+  "Radeon X800 XT Platinum": {
+    "Graphics Processor": {
+      "GPU Name": "R423",
+      "GPU Variant": "R423 XT (215RBJAGA12F)",
+      "Architecture": "R400",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "160 million",
+      "Density": "553.6K / mm²",
+      "Die Size": "289 mm²",
+      "Chip Package": "FCBGA-1265"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2004",
+      "Generation": "Radeon R400 PCIe (X800)",
+      "Predecessor": "Radeon R300",
+      "Successor": "Radeon R500 PCIe",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "226 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "520 MHz",
+      "Memory Clock": "560 MHz 1120 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "35.84 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "16",
+      "Vertex Shaders": "6",
+      "TMUs": "16",
+      "ROPs": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.320 GPixel/s",
+      "Vertex Rate": "780.0 MVertices/s",
+      "Texture Rate": "8.320 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "63 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-A31900-00"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0b (9_2)",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0b",
+      "Vertex Shader": "2.0b"
+    },
+    "R423 GPU Notes": {}
+  }
+}

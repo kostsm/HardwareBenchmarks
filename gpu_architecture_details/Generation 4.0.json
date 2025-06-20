@@ -1,0 +1,260 @@
+{
+  "GMA X3500": {
+    "Graphics Processor": {
+      "GPU Name": "Bearlake",
+      "GPU Variant": "Bearlake (G35)",
+      "Architecture": "Generation 4.0",
+      "Foundry": "Intel",
+      "Process Size": "90 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Aug 1st, 2007",
+      "Generation": "GMA Graphics (GMA 3500 IGP)",
+      "Production": "End-of-life",
+      "Bus Interface": "FSB",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "667 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "8",
+      "Vertex Shaders": "1",
+      "TMUs": "8",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "667.0 MPixel/s",
+      "Vertex Rate": "166.8 MVertices/s",
+      "Texture Rate": "5.336 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "13 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Bearlake GPU Notes": {}
+  },
+  "GMA 3100": {
+    "Graphics Processor": {
+      "GPU Name": "Bearlake",
+      "GPU Variant": "Bearlake-G+ (G33)",
+      "Architecture": "Generation 4.0",
+      "Foundry": "Intel",
+      "Process Size": "90 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "May 9th, 2007",
+      "Generation": "GMA Graphics (GMA 3100 IGP)",
+      "Production": "End-of-life",
+      "Bus Interface": "FSB",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "0",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Texture Rate": "1.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "13 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Card Notes": {},
+    "Bearlake GPU Notes": {}
+  },
+  "GMA 3150": {
+    "Graphics Processor": {
+      "GPU Name": "Pineview",
+      "Architecture": "Generation 4.0",
+      "Foundry": "Intel",
+      "Process Size": "45 nm",
+      "Transistors": "123 million",
+      "Density": "1.9M / mm²",
+      "Die Size": "66 mm²"
+    },
+    "Integrated Graphics": {
+      "Release Date": "May 9th, 2007",
+      "Generation": "GMA Graphics (GMA 3100 IGP)",
+      "Production": "End-of-life",
+      "Bus Interface": "FSB",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "16",
+      "TMUs": "2",
+      "ROPs": "1",
+      "Execution Units": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "400.0 MPixel/s",
+      "Texture Rate": "800.0 MTexel/s",
+      "FP32 (float)": "12.80 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "13 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    }
+  },
+  "GMA 3000": {
+    "Graphics Processor": {
+      "GPU Name": "Broadwater",
+      "GPU Variant": "Broadwater-G (946GZ)",
+      "Architecture": "Generation 4.0",
+      "Foundry": "Intel",
+      "Process Size": "90 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Jun 1st, 2006",
+      "Generation": "GMA Graphics (GMA 3000 IGP)",
+      "Production": "End-of-life",
+      "Bus Interface": "FSB",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "667 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "0",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.668 GPixel/s",
+      "Texture Rate": "2.668 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "13 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Broadwater GPU Notes": {}
+  },
+  "GMA X3000": {
+    "Graphics Processor": {
+      "GPU Name": "Broadwater",
+      "GPU Variant": "Broadwater-G (Q965)",
+      "Architecture": "Generation 4.0",
+      "Foundry": "Intel",
+      "Process Size": "90 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Jun 1st, 2006",
+      "Generation": "GMA Graphics (GMA 3000 IGP)",
+      "Production": "End-of-life",
+      "Bus Interface": "FSB",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "667 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "0",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.668 GPixel/s",
+      "Texture Rate": "2.668 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "13 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0c",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "3.0"
+    },
+    "Broadwater GPU Notes": {}
+  }
+}

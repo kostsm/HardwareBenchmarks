@@ -1,0 +1,126 @@
+{
+  "B100": {
+    "Graphics Processor": {
+      "GPU Name": "GB102",
+      "Architecture": "Blackwell",
+      "Foundry": "TSMC",
+      "Process Type": "4NP FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "104,000 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 2024",
+      "Announced": "Mar 18th, 2024",
+      "Generation": "Server Blackwell (Bxx)",
+      "Predecessor": "Server Hopper",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1665 MHz",
+      "Boost Clock": "1837 MHz",
+      "Memory Clock": "2000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "96 GB",
+      "Memory Type": "HBM3e",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "4.10 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16896",
+      "TMUs": "528",
+      "ROPs": "24",
+      "SM Count": "132",
+      "Tensor Cores": "528",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "44.09 GPixel/s",
+      "Texture Rate": "969.9 GTexel/s",
+      "FP16 (half)": "248.3 TFLOPS (4:1)",
+      "FP32 (float)": "62.08 TFLOPS",
+      "FP64 (double)": "31.04 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "SXM Module",
+      "TDP": "1000 W",
+      "Suggested PSU": "1400 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "10.1",
+      "Shader Model": "N/A"
+    },
+    "Card Notes": {},
+    "GB102 GPU Notes": {}
+  },
+  "B200 SXM 192 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GB100",
+      "Architecture": "Blackwell",
+      "Foundry": "TSMC",
+      "Process Type": "4NP FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "104,000 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "2024",
+      "Announced": "Mar 18th, 2024",
+      "Generation": "Server Blackwell (Bxx)",
+      "Predecessor": "Server Hopper",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1665 MHz",
+      "Boost Clock": "1837 MHz",
+      "Memory Clock": "2000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "96 GB",
+      "Memory Type": "HBM3e",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "4.10 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16896",
+      "TMUs": "528",
+      "ROPs": "24",
+      "SM Count": "132",
+      "Tensor Cores": "528",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "44.09 GPixel/s",
+      "Texture Rate": "969.9 GTexel/s",
+      "FP16 (half)": "248.3 TFLOPS (4:1)",
+      "FP32 (float)": "62.08 TFLOPS",
+      "FP64 (double)": "31.04 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "SXM Module",
+      "TDP": "1000 W",
+      "Suggested PSU": "1400 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "10.0",
+      "Shader Model": "N/A"
+    },
+    "Card Notes": {},
+    "GB100 GPU Notes": {}
+  }
+}

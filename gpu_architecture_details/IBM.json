@@ -1,0 +1,224 @@
+{
+  "Fire GL4": {
+    "Graphics Processor": {
+      "GPU Name": "GT1000",
+      "Architecture": "IBM",
+      "Foundry": "IBM",
+      "Process Size": "180 nm",
+      "Transistors": "unknown",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 14th, 2001",
+      "Generation": "Fire GL",
+      "Predecessor": "Rage GL",
+      "Successor": "FireGL",
+      "Production": "End-of-life",
+      "Launch Price": "1,999 USD",
+      "Bus Interface": "AGP Pro 8x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "150 MHz",
+      "Memory Clock": "150 MHz 300 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "9.600 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "1",
+      "TMUs": "4",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "150.0 MPixel/s",
+      "Vertex Rate": "37.50 MVertices/s",
+      "Texture Rate": "600.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "RC1000 GPU Notes": {}
+  },
+  "Fire GL2": {
+    "Graphics Processor": {
+      "GPU Name": "GT1000",
+      "Architecture": "IBM",
+      "Foundry": "IBM",
+      "Process Size": "180 nm",
+      "Transistors": "unknown",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 1st, 2000",
+      "Generation": "Fire GL",
+      "Predecessor": "Rage GL",
+      "Successor": "FireGL",
+      "Production": "End-of-life",
+      "Launch Price": "1,199 USD",
+      "Bus Interface": "AGP 4x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "120 MHz",
+      "Memory Clock": "120 MHz 240 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "7.680 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "1",
+      "TMUs": "4",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "120.0 MPixel/s",
+      "Vertex Rate": "30.00 MVertices/s",
+      "Texture Rate": "480.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "RC1000 GPU Notes": {}
+  },
+  "Fire GL3": {
+    "Graphics Processor": {
+      "GPU Name": "GT1000",
+      "Architecture": "IBM",
+      "Foundry": "IBM",
+      "Process Size": "180 nm",
+      "Transistors": "unknown",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 1st, 2000",
+      "Generation": "Fire GL",
+      "Predecessor": "Rage GL",
+      "Successor": "FireGL",
+      "Production": "End-of-life",
+      "Launch Price": "1,999 USD",
+      "Bus Interface": "AGP 4x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "120 MHz",
+      "Memory Clock": "125 MHz 250 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "1",
+      "TMUs": "4",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "120.0 MPixel/s",
+      "Vertex Rate": "30.00 MVertices/s",
+      "Texture Rate": "480.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "RC1000 GPU Notes": {}
+  },
+  "Fire GL1": {
+    "Graphics Processor": {
+      "GPU Name": "IBM",
+      "Architecture": "IBM",
+      "Foundry": "IBM",
+      "Process Size": "250 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 1999",
+      "Generation": "Fire GL",
+      "Predecessor": "Rage GL",
+      "Successor": "FireGL",
+      "Production": "End-of-life",
+      "Launch Price": "999 USD",
+      "Bus Interface": "AGP 2x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "45 MHz",
+      "Memory Clock": "100 MHz"
+    },
+    "Memory": {
+      "Memory Size": "32 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "3.200 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "45.00 MPixel/s",
+      "Texture Rate": "45.00 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    }
+  }
+}

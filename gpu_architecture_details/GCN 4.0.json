@@ -1,0 +1,2864 @@
+{
+  "Radeon RX 640 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 23",
+      "GPU Variant": "Polaris 23 XT",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "2,200 million",
+      "Density": "21.4M / mm²",
+      "Die Size": "103 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 9th, 2020",
+      "Generation": "Polaris (RX 600)",
+      "Predecessor": "Polaris",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1295 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "640",
+      "TMUs": "40",
+      "ROPs": "16",
+      "Compute Units": "10",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "20.72 GPixel/s",
+      "Texture Rate": "51.80 GTexel/s",
+      "FP16 (half)": "1.658 TFLOPS (1:1)",
+      "FP32 (float)": "1.658 TFLOPS",
+      "FP64 (double)": "103.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DisplayPort 1.4a 2x mini-DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "109-D09187-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 23 GPU Notes": {}
+  },
+  "Radeon RX 590 GME": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 20",
+      "GPU Variant": "Polaris 20 XTR (215-0910066)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 9th, 2020",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1257 MHz",
+      "Boost Clock": "1420 MHz",
+      "Memory Clock": "2000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "45.44 GPixel/s",
+      "Texture Rate": "204.5 GTexel/s",
+      "FP16 (half)": "6.543 TFLOPS (1:1)",
+      "FP32 (float)": "6.543 TFLOPS",
+      "FP64 (double)": "409.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "175 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "C940"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Card Notes": {},
+    "Polaris 20 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (4)": {}
+  },
+  "Radeon Pro WX 3200": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 23",
+      "GPU Variant": "Polaris 23 XT GL",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "2,200 million",
+      "Density": "21.4M / mm²",
+      "Die Size": "103 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 2nd, 2019",
+      "Generation": "Radeon Pro Polaris (WX x200)",
+      "Predecessor": "Radeon Pro GCN",
+      "Successor": "Radeon Pro Vega",
+      "Production": "Active",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1295 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "640",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "10",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "20.72 GPixel/s",
+      "Texture Rate": "41.44 GTexel/s",
+      "FP16 (half)": "1.658 TFLOPS (1:1)",
+      "FP32 (float)": "1.658 TFLOPS",
+      "FP64 (double)": "103.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "167 mm 6.6 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "4x mini-DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "109-D09187-00B_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 23 GPU Notes": {}
+  },
+  "Radeon 550X": {
+    "Graphics Processor": {
+      "GPU Name": "Lexa",
+      "GPU Variant": "Lexa PRO (215-0904018)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "2,200 million",
+      "Density": "21.4M / mm²",
+      "Die Size": "103 mm²",
+      "Chip Package": "FCBGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 27th, 2019",
+      "Generation": "Polaris (RX 500X)",
+      "Predecessor": "Polaris",
+      "Successor": "Vega",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1082 MHz",
+      "Boost Clock": "1218 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "112.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "19.49 GPixel/s",
+      "Texture Rate": "38.98 GTexel/s",
+      "FP16 (half)": "1,247.2 GFLOPS (1:1)",
+      "FP32 (float)": "1,247.2 GFLOPS",
+      "FP64 (double)": "77.95 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "D090"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Lexa GPU Notes": {}
+  },
+  "Radeon RX 560 XT": {
+    "Graphics Processor": {
+      "GPU Name": "Ellesmere",
+      "GPU Variant": "Polaris 10 LE1",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 13th, 2019",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1074 MHz",
+      "Boost Clock": "1226 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "39.23 GPixel/s",
+      "Texture Rate": "137.3 GTexel/s",
+      "FP16 (half)": "4.394 TFLOPS (1:1)",
+      "FP32 (float)": "4.394 TFLOPS",
+      "FP64 (double)": "274.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Card Notes": {},
+    "Ellesmere GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon RX 550X": {
+    "Graphics Processor": {
+      "GPU Name": "Lexa",
+      "GPU Variant": "Lexa PRO (215-0904018)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "2,200 million",
+      "Density": "21.4M / mm²",
+      "Die Size": "103 mm²",
+      "Chip Package": "FCBGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 16th, 2018",
+      "Generation": "Polaris (RX 500X)",
+      "Predecessor": "Polaris",
+      "Successor": "Vega",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1100 MHz",
+      "Boost Clock": "1183 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "18.93 GPixel/s",
+      "Texture Rate": "37.86 GTexel/s",
+      "FP16 (half)": "1,211.4 GFLOPS (1:1)",
+      "FP32 (float)": "1,211.4 GFLOPS",
+      "FP64 (double)": "75.71 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "D090"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Lexa GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon RX 590": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 30",
+      "GPU Variant": "Polaris 30 XT (215-0922006)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "12 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 15th, 2018",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Launch Price": "279 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "36 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1469 MHz",
+      "Boost Clock": "1545 MHz",
+      "Memory Clock": "2000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "49.44 GPixel/s",
+      "Texture Rate": "222.5 GTexel/s",
+      "FP16 (half)": "7.119 TFLOPS (1:1)",
+      "FP32 (float)": "7.119 TFLOPS",
+      "FP64 (double)": "445.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "175 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "C944-41"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 30 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (22)": {}
+  },
+  "Radeon RX 580 2048SP": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 20",
+      "GPU Variant": "Polaris 20 XL (215-0910052)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 15th, 2018",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "52 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1168 MHz",
+      "Boost Clock": "1284 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "41.09 GPixel/s",
+      "Texture Rate": "164.4 GTexel/s",
+      "FP16 (half)": "5.259 TFLOPS (1:1)",
+      "FP32 (float)": "5.259 TFLOPS",
+      "FP64 (double)": "328.7 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "C940, D000"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Card Notes": {},
+    "Polaris 20 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (12)": {}
+  },
+  "Radeon RX 580G": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 20",
+      "GPU Variant": "Polaris 20 XTX (215-0910038)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 15th, 2018",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "52 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1257 MHz",
+      "Boost Clock": "1330 MHz",
+      "Memory Clock": "2000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "42.56 GPixel/s",
+      "Texture Rate": "191.5 GTexel/s",
+      "FP16 (half)": "6.129 TFLOPS (1:1)",
+      "FP32 (float)": "6.129 TFLOPS",
+      "FP64 (double)": "383.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "185 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "C940, D009-04"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 20 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon 550X 640SP": {
+    "Graphics Processor": {
+      "GPU Name": "Lexa",
+      "GPU Variant": "Lexa PRO (215-0904018)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "2,200 million",
+      "Density": "21.4M / mm²",
+      "Die Size": "103 mm²",
+      "Chip Package": "FCBGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 11th, 2018",
+      "Generation": "Polaris (RX 500X)",
+      "Predecessor": "Polaris",
+      "Successor": "Vega",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1019 MHz",
+      "Boost Clock": "1071 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "48.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "640",
+      "TMUs": "40",
+      "ROPs": "16",
+      "Compute Units": "10",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "17.14 GPixel/s",
+      "Texture Rate": "42.84 GTexel/s",
+      "FP16 (half)": "1,370.9 GFLOPS (1:1)",
+      "FP32 (float)": "1,370.9 GFLOPS",
+      "FP64 (double)": "85.68 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Lexa GPU Notes": {}
+  },
+  "Radeon RX 550X 640SP": {
+    "Graphics Processor": {
+      "GPU Name": "Baffin",
+      "GPU Variant": "Baffin LE",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 11th, 2018",
+      "Generation": "Polaris (RX 500X)",
+      "Predecessor": "Polaris",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1019 MHz",
+      "Boost Clock": "1071 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "640",
+      "TMUs": "40",
+      "ROPs": "16",
+      "Compute Units": "10",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "17.14 GPixel/s",
+      "Texture Rate": "42.84 GTexel/s",
+      "FP16 (half)": "1,370.9 GFLOPS (1:1)",
+      "FP32 (float)": "1,370.9 GFLOPS",
+      "FP64 (double)": "85.68 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "60 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "D090-21"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Baffin GPU Notes": {}
+  },
+  "Radeon RX 560DX": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 21",
+      "GPU Variant": "Polaris 21 XL",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 11th, 2018",
+      "Generation": "Polaris (RX 500X)",
+      "Predecessor": "Polaris",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1090 MHz",
+      "Boost Clock": "1175 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "896",
+      "TMUs": "56",
+      "ROPs": "16",
+      "Compute Units": "14",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "18.80 GPixel/s",
+      "Texture Rate": "65.80 GTexel/s",
+      "FP16 (half)": "2.106 TFLOPS (1:1)",
+      "FP32 (float)": "2.106 TFLOPS",
+      "FP64 (double)": "131.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "170 mm 6.7 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "C994"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 21 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon RX 560X": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 21",
+      "GPU Variant": "Polaris 21 XT (215-0908004)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 11th, 2018",
+      "Generation": "Polaris (RX 500X)",
+      "Predecessor": "Polaris",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1175 MHz",
+      "Boost Clock": "1275 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "112.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "16",
+      "Compute Units": "16",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "20.40 GPixel/s",
+      "Texture Rate": "81.60 GTexel/s",
+      "FP16 (half)": "2.611 TFLOPS (1:1)",
+      "FP32 (float)": "2.611 TFLOPS",
+      "FP64 (double)": "163.2 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "170 mm 6.7 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "C981"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 21 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon RX 570X": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 20",
+      "GPU Variant": "Polaris 20 XL (215-0910052)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 11th, 2018",
+      "Generation": "Polaris (RX 500X)",
+      "Predecessor": "Polaris",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1168 MHz",
+      "Boost Clock": "1244 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "39.81 GPixel/s",
+      "Texture Rate": "159.2 GTexel/s",
+      "FP16 (half)": "5.095 TFLOPS (1:1)",
+      "FP32 (float)": "5.095 TFLOPS",
+      "FP64 (double)": "318.5 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "D000"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 20 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon RX 580X": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 20",
+      "GPU Variant": "Polaris 20 XTX (215-0910038)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 11th, 2018",
+      "Generation": "Polaris (RX 500X)",
+      "Predecessor": "Polaris",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1257 MHz",
+      "Boost Clock": "1340 MHz",
+      "Memory Clock": "2000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "42.88 GPixel/s",
+      "Texture Rate": "193.0 GTexel/s",
+      "FP16 (half)": "6.175 TFLOPS (1:1)",
+      "FP32 (float)": "6.175 TFLOPS",
+      "FP64 (double)": "385.9 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "185 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "C940"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 20 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon RX 550 512SP": {
+    "Graphics Processor": {
+      "GPU Name": "Baffin",
+      "GPU Variant": "Baffin LE",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 13th, 2017",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Launch Price": "79 USD",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "5 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1019 MHz",
+      "Boost Clock": "1071 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "17.14 GPixel/s",
+      "Texture Rate": "34.27 GTexel/s",
+      "FP16 (half)": "1,096.7 GFLOPS (1:1)",
+      "FP32 (float)": "1,096.7 GFLOPS",
+      "FP64 (double)": "68.54 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "D090"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Baffin GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (6)": {}
+  },
+  "Radeon RX 550 640SP": {
+    "Graphics Processor": {
+      "GPU Name": "Baffin",
+      "GPU Variant": "Baffin LE",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 13th, 2017",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "5 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1019 MHz",
+      "Boost Clock": "1071 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "640",
+      "TMUs": "40",
+      "ROPs": "16",
+      "Compute Units": "10",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "17.14 GPixel/s",
+      "Texture Rate": "42.84 GTexel/s",
+      "FP16 (half)": "1,370.9 GFLOPS (1:1)",
+      "FP32 (float)": "1,370.9 GFLOPS",
+      "FP64 (double)": "85.68 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "60 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "D090"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Baffin GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (9)": {}
+  },
+  "Radeon RX 560 896SP": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 21",
+      "GPU Variant": "Polaris 21 XL",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 4th, 2017",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "7 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1090 MHz",
+      "Boost Clock": "1175 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "112.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "896",
+      "TMUs": "56",
+      "ROPs": "16",
+      "Compute Units": "14",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "18.80 GPixel/s",
+      "Texture Rate": "65.80 GTexel/s",
+      "FP16 (half)": "2.106 TFLOPS (1:1)",
+      "FP32 (float)": "2.106 TFLOPS",
+      "FP64 (double)": "131.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "170 mm 6.7 inches",
+      "TDP": "45 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "C981-21 C994-71"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 21 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (5)": {}
+  },
+  "Radeon RX 560D": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 21",
+      "GPU Variant": "Polaris 21 XL",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 4th, 2017",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "7 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1090 MHz",
+      "Boost Clock": "1175 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "896",
+      "TMUs": "56",
+      "ROPs": "16",
+      "Compute Units": "14",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "18.80 GPixel/s",
+      "Texture Rate": "65.80 GTexel/s",
+      "FP16 (half)": "2.106 TFLOPS (1:1)",
+      "FP32 (float)": "2.106 TFLOPS",
+      "FP64 (double)": "131.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "170 mm 6.7 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "C994-57 C994-71"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 21 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (31)": {}
+  },
+  "Radeon Pro WX 3100": {
+    "Graphics Processor": {
+      "GPU Name": "Lexa",
+      "GPU Variant": "Lexa XT",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "2,200 million",
+      "Density": "21.4M / mm²",
+      "Die Size": "103 mm²",
+      "Chip Package": "FCBGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 12th, 2017",
+      "Generation": "Radeon Pro Polaris (WX x100)",
+      "Predecessor": "Radeon Pro GCN",
+      "Successor": "Radeon Pro Vega",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "925 MHz",
+      "Boost Clock": "1219 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "19.50 GPixel/s",
+      "Texture Rate": "39.01 GTexel/s",
+      "FP16 (half)": "1,248.3 GFLOPS (1:1)",
+      "FP32 (float)": "1,248.3 GFLOPS",
+      "FP64 (double)": "78.02 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DisplayPort 1.4a 2x mini-DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "109-D09187-00B_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Lexa GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon Pro WX 2100": {
+    "Graphics Processor": {
+      "GPU Name": "Lexa",
+      "GPU Variant": "Lexa PRO GL",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "2,200 million",
+      "Density": "21.4M / mm²",
+      "Die Size": "103 mm²",
+      "Chip Package": "FCBGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 4th, 2017",
+      "Generation": "Radeon Pro Polaris (WX x100)",
+      "Predecessor": "Radeon Pro GCN",
+      "Successor": "Radeon Pro Vega",
+      "Production": "End-of-life",
+      "Launch Price": "149 USD",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "925 MHz",
+      "Boost Clock": "1219 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "48.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "19.50 GPixel/s",
+      "Texture Rate": "39.01 GTexel/s",
+      "FP16 (half)": "1,248.3 GFLOPS (1:1)",
+      "FP32 (float)": "1,248.3 GFLOPS",
+      "FP64 (double)": "78.02 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "35 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DisplayPort 1.4a 2x mini-DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "109-D09187-00_02, 109-D09187-00B_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Lexa GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon Pro Duo Polaris": {
+    "Graphics Processor": {
+      "GPU Name": "Ellesmere",
+      "GPU Variant": "Ellesmere Gemini GL",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 24th, 2017",
+      "Generation": "Radeon Pro GCN",
+      "Predecessor": "FirePro GCN",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "Active",
+      "Launch Price": "999 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "4 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1243 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "39.78 GPixel/s",
+      "Texture Rate": "179.0 GTexel/s",
+      "FP16 (half)": "5.728 TFLOPS (1:1)",
+      "FP32 (float)": "5.728 TFLOPS",
+      "FP64 (double)": "358.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "305 mm 12 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "109-D08637-00B_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Ellesmere GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon 540": {
+    "Graphics Processor": {
+      "GPU Name": "Lexa",
+      "GPU Variant": "Lexa PRO (215-0904018)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "2,200 million",
+      "Density": "21.4M / mm²",
+      "Die Size": "103 mm²",
+      "Chip Package": "FCBGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 20th, 2017",
+      "Availability": "Oct , 2020",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1183 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "32 bit",
+      "Bandwidth": "24.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "16",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "18.93 GPixel/s",
+      "Texture Rate": "28.39 GTexel/s",
+      "FP16 (half)": "908.5 GFLOPS (1:1)",
+      "FP32 (float)": "908.5 GFLOPS",
+      "FP64 (double)": "56.78 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DisplayPort 1.4a",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Lexa GPU Notes": {}
+  },
+  "Radeon 550": {
+    "Graphics Processor": {
+      "GPU Name": "Lexa",
+      "GPU Variant": "Lexa PRO (215-0904018)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "2,200 million",
+      "Density": "21.4M / mm²",
+      "Die Size": "103 mm²",
+      "Chip Package": "FCBGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 20th, 2017",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "End-of-life",
+      "Launch Price": "79 USD",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "5 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1100 MHz",
+      "Boost Clock": "1183 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "56.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "18.93 GPixel/s",
+      "Texture Rate": "37.86 GTexel/s",
+      "FP16 (half)": "1,211.4 GFLOPS (1:1)",
+      "FP32 (float)": "1,211.4 GFLOPS",
+      "FP64 (double)": "75.71 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "D090-01"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Lexa GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (5)": {}
+  },
+  "Radeon RX 550": {
+    "Graphics Processor": {
+      "GPU Name": "Lexa",
+      "GPU Variant": "Lexa PRO (215-0904018)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "2,200 million",
+      "Density": "21.4M / mm²",
+      "Die Size": "103 mm²",
+      "Chip Package": "FCBGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 20th, 2017",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "End-of-life",
+      "Launch Price": "79 USD",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "5 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1100 MHz",
+      "Boost Clock": "1183 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "112.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "18.93 GPixel/s",
+      "Texture Rate": "37.86 GTexel/s",
+      "FP16 (half)": "1,211.4 GFLOPS (1:1)",
+      "FP32 (float)": "1,211.4 GFLOPS",
+      "FP64 (double)": "75.71 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "D090-01"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Lexa GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (40)": {}
+  },
+  "P30PH": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 20",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Unknown",
+      "Generation": "Mining GPUs",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1120 MHz",
+      "Boost Clock": "1206 MHz",
+      "Memory Clock": "2100 MHz 8.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "268.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "38.59 GPixel/s",
+      "Texture Rate": "154.4 GTexel/s",
+      "FP16 (half)": "4.940 TFLOPS (1:1)",
+      "FP32 (float)": "4.940 TFLOPS",
+      "FP64 (double)": "308.7 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "180 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.0b",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "P010"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 20 GPU Notes": {}
+  },
+  "Radeon RX 560": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 21",
+      "GPU Variant": "Polaris 21 XT (215-0908004)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 18th, 2017",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Launch Price": "99 USD",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "7 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1175 MHz",
+      "Boost Clock": "1275 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "112.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "16",
+      "Compute Units": "16",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "20.40 GPixel/s",
+      "Texture Rate": "81.60 GTexel/s",
+      "FP16 (half)": "2.611 TFLOPS (1:1)",
+      "FP32 (float)": "2.611 TFLOPS",
+      "FP64 (double)": "163.2 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "170 mm 6.7 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "C994"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 21 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (42)": {}
+  },
+  "Radeon RX 570": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 20",
+      "GPU Variant": "Polaris 20 XL (215-0910052)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 18th, 2017",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Launch Price": "169 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "29 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1168 MHz",
+      "Boost Clock": "1244 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "39.81 GPixel/s",
+      "Texture Rate": "159.2 GTexel/s",
+      "FP16 (half)": "5.095 TFLOPS (1:1)",
+      "FP32 (float)": "5.095 TFLOPS",
+      "FP64 (double)": "318.5 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C940, D000"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 20 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (73)": {}
+  },
+  "Radeon RX 570 X2": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 20",
+      "GPU Variant": "Polaris 20 XL (215-0910052)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Unknown",
+      "Generation": "Mining GPUs",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "29 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1120 MHz",
+      "Boost Clock": "1206 MHz",
+      "Memory Clock": "2100 MHz 8.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "268.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "38.59 GPixel/s",
+      "Texture Rate": "154.4 GTexel/s",
+      "FP16 (half)": "4.940 TFLOPS (1:1)",
+      "FP32 (float)": "4.940 TFLOPS",
+      "FP64 (double)": "308.7 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "180 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.0b",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "P010"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 20 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon RX 580": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 20",
+      "GPU Variant": "Polaris 20 XTX (215-0910038)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 18th, 2017",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Launch Price": "229 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "52 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1257 MHz",
+      "Boost Clock": "1340 MHz",
+      "Memory Clock": "2000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "42.88 GPixel/s",
+      "Texture Rate": "193.0 GTexel/s",
+      "FP16 (half)": "6.175 TFLOPS (1:1)",
+      "FP32 (float)": "6.175 TFLOPS",
+      "FP64 (double)": "385.9 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "185 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "C940, D009-04"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Polaris 20 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (103)": {}
+  },
+  "Radeon RX 460 1024SP": {
+    "Graphics Processor": {
+      "GPU Name": "Baffin",
+      "GPU Variant": "Baffin XT",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 17th, 2017",
+      "Generation": "Arctic Islands (RX 400)",
+      "Predecessor": "Pirate Islands",
+      "Successor": "Polaris",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "38 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1090 MHz",
+      "Boost Clock": "1200 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "112.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "16",
+      "Compute Units": "16",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "19.20 GPixel/s",
+      "Texture Rate": "76.80 GTexel/s",
+      "FP16 (half)": "2.458 TFLOPS (1:1)",
+      "FP32 (float)": "2.458 TFLOPS",
+      "FP64 (double)": "153.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "170 mm 6.7 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "C994"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Baffin GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon Instinct MI6": {
+    "Graphics Processor": {
+      "GPU Name": "Ellesmere",
+      "GPU Variant": "Ellesmere XT",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 12th, 2016",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1120 MHz",
+      "Boost Clock": "1233 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "39.46 GPixel/s",
+      "Texture Rate": "177.6 GTexel/s",
+      "FP16 (half)": "5.682 TFLOPS (1:1)",
+      "FP32 (float)": "5.682 TFLOPS",
+      "FP64 (double)": "355.1 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "D122"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Ellesmere GPU Notes": {}
+  },
+  "Radeon Pro WX 5100": {
+    "Graphics Processor": {
+      "GPU Name": "Ellesmere",
+      "GPU Variant": "Polaris 10 PRO GL (215-0876144)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 18th, 2016",
+      "Generation": "Radeon Pro Polaris (WX x100)",
+      "Predecessor": "Radeon Pro GCN",
+      "Successor": "Radeon Pro Vega",
+      "Production": "Active",
+      "Launch Price": "499 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "713 MHz",
+      "Boost Clock": "1086 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "34.75 GPixel/s",
+      "Texture Rate": "121.6 GTexel/s",
+      "FP16 (half)": "3.892 TFLOPS (1:1)",
+      "FP32 (float)": "3.892 TFLOPS",
+      "FP64 (double)": "243.3 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "173 mm 6.8 inches",
+      "Width": "112 mm 4.4 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "4x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "109-C95487-00C_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Ellesmere GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon Pro WX 4100": {
+    "Graphics Processor": {
+      "GPU Name": "Baffin",
+      "GPU Variant": "Baffin XT",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 10th, 2016",
+      "Generation": "Radeon Pro Polaris (WX x100)",
+      "Predecessor": "Radeon Pro GCN",
+      "Successor": "Radeon Pro Vega",
+      "Production": "Active",
+      "Launch Price": "399 USD",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1125 MHz",
+      "Boost Clock": "1201 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "16",
+      "Compute Units": "16",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "19.22 GPixel/s",
+      "Texture Rate": "76.86 GTexel/s",
+      "FP16 (half)": "2.460 TFLOPS (1:1)",
+      "FP32 (float)": "2.460 TFLOPS",
+      "FP64 (double)": "153.7 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "4x mini-DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "109-D01587-00C_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Baffin GPU Notes": {}
+  },
+  "Radeon Pro WX 7100": {
+    "Graphics Processor": {
+      "GPU Name": "Ellesmere",
+      "GPU Variant": "Polaris 10 XT GL",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 10th, 2016",
+      "Generation": "Radeon Pro Polaris (WX x100)",
+      "Predecessor": "Radeon Pro GCN",
+      "Successor": "Radeon Pro Vega",
+      "Production": "Active",
+      "Launch Price": "799 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1188 MHz",
+      "Boost Clock": "1243 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "39.78 GPixel/s",
+      "Texture Rate": "179.0 GTexel/s",
+      "FP16 (half)": "5.728 TFLOPS (1:1)",
+      "FP32 (float)": "5.728 TFLOPS",
+      "FP64 (double)": "358.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "112 mm 4.4 inches",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "4x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-C95487-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Ellesmere GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon RX 470D": {
+    "Graphics Processor": {
+      "GPU Name": "Ellesmere",
+      "GPU Variant": "Polaris 10 PROD",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 21st, 2016",
+      "Generation": "Arctic Islands (RX 400)",
+      "Predecessor": "Pirate Islands",
+      "Successor": "Polaris",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "926 MHz",
+      "Boost Clock": "1206 MHz",
+      "Memory Clock": "1650 MHz 6.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "211.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "38.59 GPixel/s",
+      "Texture Rate": "135.1 GTexel/s",
+      "FP16 (half)": "4.322 TFLOPS (1:1)",
+      "FP32 (float)": "4.322 TFLOPS",
+      "FP64 (double)": "270.1 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "D000"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Card Notes": {},
+    "Ellesmere GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (7)": {}
+  },
+  "Radeon RX 460": {
+    "Graphics Processor": {
+      "GPU Name": "Baffin",
+      "GPU Variant": "Baffin PRO (215-0895088)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 8th, 2016",
+      "Generation": "Arctic Islands (RX 400)",
+      "Predecessor": "Pirate Islands",
+      "Successor": "Polaris",
+      "Production": "Active",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "38 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1090 MHz",
+      "Boost Clock": "1200 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "112.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "896",
+      "TMUs": "56",
+      "ROPs": "16",
+      "Compute Units": "14",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "19.20 GPixel/s",
+      "Texture Rate": "67.20 GTexel/s",
+      "FP16 (half)": "2.150 TFLOPS (1:1)",
+      "FP32 (float)": "2.150 TFLOPS",
+      "FP64 (double)": "134.4 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "170 mm 6.7 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "C994"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Baffin GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (42)": {}
+  },
+  "Radeon RX 470": {
+    "Graphics Processor": {
+      "GPU Name": "Ellesmere",
+      "GPU Variant": "Polaris 10 PRO (215-0876204)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 4th, 2016",
+      "Generation": "Arctic Islands (RX 400)",
+      "Predecessor": "Pirate Islands",
+      "Successor": "Polaris",
+      "Production": "Active",
+      "Launch Price": "179 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "46 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "926 MHz",
+      "Boost Clock": "1206 MHz",
+      "Memory Clock": "1650 MHz 6.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "211.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "38.59 GPixel/s",
+      "Texture Rate": "154.4 GTexel/s",
+      "FP16 (half)": "4.940 TFLOPS (1:1)",
+      "FP32 (float)": "4.940 TFLOPS",
+      "FP64 (double)": "308.7 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "240 mm 9.4 inches",
+      "Width": "95 mm 3.7 inches",
+      "Height": "35 mm 1.4 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C940, 109-D00947-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Ellesmere GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (51)": {}
+  },
+  "Radeon RX 480": {
+    "Graphics Processor": {
+      "GPU Name": "Ellesmere",
+      "GPU Variant": "Polaris 10 XT (215-0876184)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 29th, 2016",
+      "Generation": "Arctic Islands (RX 400)",
+      "Predecessor": "Pirate Islands",
+      "Successor": "Polaris",
+      "Production": "Active",
+      "Launch Price": "229 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "86 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1120 MHz",
+      "Boost Clock": "1266 MHz",
+      "Memory Clock": "2000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "40.51 GPixel/s",
+      "Texture Rate": "182.3 GTexel/s",
+      "FP16 (half)": "5.834 TFLOPS (1:1)",
+      "FP32 (float)": "5.834 TFLOPS",
+      "FP64 (double)": "364.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "240 mm 9.4 inches",
+      "Width": "95 mm 3.7 inches",
+      "Height": "35 mm 1.4 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C940, 109-D00947-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Ellesmere GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (69)": {}
+  },
+  "Radeon RX 580 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Ellesmere",
+      "GPU Variant": "Polaris 10 XT (215-0876184)",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 29th, 2016",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "Active",
+      "Launch Price": "229 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "52 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1120 MHz",
+      "Boost Clock": "1266 MHz",
+      "Memory Clock": "2000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "40.51 GPixel/s",
+      "Texture Rate": "182.3 GTexel/s",
+      "FP16 (half)": "5.834 TFLOPS (1:1)",
+      "FP32 (float)": "5.834 TFLOPS",
+      "FP64 (double)": "364.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C940, D009-04"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Card Notes": {},
+    "Ellesmere GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon Pro V5300X": {
+    "Graphics Processor": {
+      "GPU Name": "Baffin",
+      "GPU Variant": "Baffin XT",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "3,000 million",
+      "Density": "24.4M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "BGA-769"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Radeon Pro GCN (Vx300)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1125 MHz",
+      "Boost Clock": "1201 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "16",
+      "Compute Units": "16",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "19.22 GPixel/s",
+      "Texture Rate": "76.86 GTexel/s",
+      "FP32 (float)": "2.460 TFLOPS",
+      "FP64 (double)": "153.7 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "4x mini-DisplayPort 1.4a",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Baffin GPU Notes": {}
+  },
+  "Radeon Pro V7300X": {
+    "Graphics Processor": {
+      "GPU Name": "Ellesmere",
+      "GPU Variant": "Ellesmere XT",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Radeon Pro GCN (Vx300)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1188 MHz",
+      "Boost Clock": "1243 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "39.78 GPixel/s",
+      "Texture Rate": "179.0 GTexel/s",
+      "FP32 (float)": "5.728 TFLOPS",
+      "FP64 (double)": "358.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "4x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Ellesmere GPU Notes": {}
+  },
+  "Radeon Pro V7350X2": {
+    "Graphics Processor": {
+      "GPU Name": "Ellesmere",
+      "GPU Variant": "Ellesmere Gemini GL",
+      "Architecture": "GCN 4.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "14 nm",
+      "Transistors": "5,700 million",
+      "Density": "24.6M / mm²",
+      "Die Size": "232 mm²",
+      "Chip Package": "BGA-1401"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Radeon Pro GCN (Vx300)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1188 MHz",
+      "Boost Clock": "1243 MHz",
+      "Memory Clock": "1750 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2304",
+      "TMUs": "144",
+      "ROPs": "32",
+      "Compute Units": "36",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "39.78 GPixel/s",
+      "Texture Rate": "179.0 GTexel/s",
+      "FP32 (float)": "5.728 TFLOPS",
+      "FP64 (double)": "358.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "200 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x mini-DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "D087-37"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Ellesmere GPU Notes": {}
+  }
+}

@@ -1,0 +1,1137 @@
+{
+  "GeForce RTX 5080 SUPER": {
+    "Graphics Processor": {
+      "GPU Name": "GB203",
+      "GPU Variant": "GB203-450-A1",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "45,600 million",
+      "Density": "120.6M / mm²",
+      "Die Size": "378 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Unknown",
+      "Announced": "2025",
+      "Generation": "GeForce 50",
+      "Predecessor": "GeForce 40",
+      "Production": "Unreleased",
+      "Launch Price": "999 USD",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2295 MHz",
+      "Boost Clock": "2617 MHz",
+      "Memory Clock": "2000 MHz 32 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "24 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "1.02 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "10752",
+      "TMUs": "336",
+      "ROPs": "112",
+      "SM Count": "84",
+      "Tensor Cores": "336",
+      "RT Cores": "84",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "64 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "293.1 GPixel/s",
+      "Texture Rate": "879.3 GTexel/s",
+      "FP16 (half)": "56.28 TFLOPS (1:1)",
+      "FP32 (float)": "56.28 TFLOPS",
+      "FP64 (double)": "879.3 GFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "304 mm 12 inches",
+      "Width": "137 mm 5.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "360 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "1x HDMI 2.1b 3x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB203 GPU Notes": {}
+  },
+  "GeForce RTX 5060": {
+    "Graphics Processor": {
+      "GPU Name": "GB206",
+      "GPU Variant": "GB206-250-A1",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "21,900 million",
+      "Density": "121.0M / mm²",
+      "Die Size": "181 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "May 19th, 2025",
+      "Announced": "Apr 15th, 2025",
+      "Generation": "GeForce 50",
+      "Predecessor": "GeForce 40",
+      "Production": "Active",
+      "Launch Price": "299 USD",
+      "Bus Interface": "PCIe 5.0 x8",
+      "Reviews": "10 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2280 MHz",
+      "Boost Clock": "2497 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "448.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3840",
+      "TMUs": "120",
+      "ROPs": "48",
+      "SM Count": "30",
+      "Tensor Cores": "120",
+      "RT Cores": "30",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "32 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "119.9 GPixel/s",
+      "Texture Rate": "299.6 GTexel/s",
+      "FP16 (half)": "19.18 TFLOPS (1:1)",
+      "FP32 (float)": "19.18 TFLOPS",
+      "FP64 (double)": "299.6 GFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "145 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x HDMI 2.1b 3x DisplayPort 2.1b",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG152 SKU 25"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB206 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (81)": {}
+  },
+  "GeForce RTX 5060 Ti 16 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GB206",
+      "GPU Variant": "GB206-300-A1",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "21,900 million",
+      "Density": "121.0M / mm²",
+      "Die Size": "181 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 16th, 2025",
+      "Announced": "Apr 15th, 2025",
+      "Generation": "GeForce 50",
+      "Predecessor": "GeForce 40",
+      "Production": "Active",
+      "Launch Price": "429 USD",
+      "Bus Interface": "PCIe 5.0 x8",
+      "Reviews": "40 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2407 MHz",
+      "Boost Clock": "2572 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "448.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4608",
+      "TMUs": "144",
+      "ROPs": "48",
+      "SM Count": "36",
+      "Tensor Cores": "144",
+      "RT Cores": "36",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "32 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "123.5 GPixel/s",
+      "Texture Rate": "370.4 GTexel/s",
+      "FP16 (half)": "23.70 TFLOPS (1:1)",
+      "FP32 (float)": "23.70 TFLOPS",
+      "FP64 (double)": "370.4 GFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "180 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.1b 3x DisplayPort 2.1b",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG152 SKU 10"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB206 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (69)": {}
+  },
+  "GeForce RTX 5060 Ti 8 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GB206",
+      "GPU Variant": "GB206-300-A1",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "21,900 million",
+      "Density": "121.0M / mm²",
+      "Die Size": "181 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 16th, 2025",
+      "Announced": "Apr 15th, 2025",
+      "Generation": "GeForce 50",
+      "Predecessor": "GeForce 40",
+      "Production": "Active",
+      "Launch Price": "379 USD",
+      "Bus Interface": "PCIe 5.0 x8",
+      "Reviews": "40 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2407 MHz",
+      "Boost Clock": "2572 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "448.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4608",
+      "TMUs": "144",
+      "ROPs": "48",
+      "SM Count": "36",
+      "Tensor Cores": "144",
+      "RT Cores": "36",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "32 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "123.5 GPixel/s",
+      "Texture Rate": "370.4 GTexel/s",
+      "FP16 (half)": "23.70 TFLOPS (1:1)",
+      "FP32 (float)": "23.70 TFLOPS",
+      "FP64 (double)": "370.4 GFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "180 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.1b 3x DisplayPort 2.1b",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG152 SKU 10"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB206 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (77)": {}
+  },
+  "RTX PRO 4000 Blackwell": {
+    "Graphics Processor": {
+      "GPU Name": "GB203",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "45,600 million",
+      "Density": "120.6M / mm²",
+      "Die Size": "378 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 18th, 2025",
+      "Announced": "Mar 17th, 2025",
+      "Generation": "Blackwell PRO W (x000)",
+      "Predecessor": "Workstation Ada",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1590 MHz",
+      "Boost Clock": "2617 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "24 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "672.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "8960",
+      "TMUs": "280",
+      "ROPs": "96",
+      "SM Count": "70",
+      "Tensor Cores": "280",
+      "RT Cores": "70",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "48 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "251.2 GPixel/s",
+      "Texture Rate": "732.8 GTexel/s",
+      "FP16 (half)": "46.90 TFLOPS (1:1)",
+      "FP32 (float)": "46.90 TFLOPS",
+      "FP64 (double)": "732.8 GFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "20 mm 0.8 inches",
+      "TDP": "140 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "4x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "GB203 GPU Notes": {}
+  },
+  "RTX PRO 4500 Blackwell": {
+    "Graphics Processor": {
+      "GPU Name": "GB203",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "45,600 million",
+      "Density": "120.6M / mm²",
+      "Die Size": "378 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 18th, 2025",
+      "Announced": "Mar 17th, 2025",
+      "Generation": "Blackwell PRO W (x000)",
+      "Predecessor": "Workstation Ada",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1590 MHz",
+      "Boost Clock": "2617 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "896.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "10496",
+      "TMUs": "328",
+      "ROPs": "112",
+      "SM Count": "82",
+      "Tensor Cores": "328",
+      "RT Cores": "82",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "64 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "293.1 GPixel/s",
+      "Texture Rate": "858.4 GTexel/s",
+      "FP16 (half)": "54.94 TFLOPS (1:1)",
+      "FP32 (float)": "54.94 TFLOPS",
+      "FP64 (double)": "858.4 GFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "200 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "4x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "GB203 GPU Notes": {}
+  },
+  "RTX PRO 5000 Blackwell": {
+    "Graphics Processor": {
+      "GPU Name": "GB202",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "92,200 million",
+      "Density": "122.9M / mm²",
+      "Die Size": "750 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 18th, 2025",
+      "Announced": "Mar 17th, 2025",
+      "Generation": "Blackwell PRO W (x000)",
+      "Predecessor": "Workstation Ada",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1590 MHz",
+      "Boost Clock": "2617 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "48 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "1.34 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "14080",
+      "TMUs": "440",
+      "ROPs": "176",
+      "SM Count": "110",
+      "Tensor Cores": "440",
+      "RT Cores": "110",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "96 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "460.6 GPixel/s",
+      "Texture Rate": "1,151.5 GTexel/s",
+      "FP16 (half)": "73.69 TFLOPS (1:1)",
+      "FP32 (float)": "73.69 TFLOPS",
+      "FP64 (double)": "1,151.5 GFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "4x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "GB202 GPU Notes": {}
+  },
+  "RTX PRO 6000 Blackwell": {
+    "Graphics Processor": {
+      "GPU Name": "GB202",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "92,200 million",
+      "Density": "122.9M / mm²",
+      "Die Size": "750 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 18th, 2025",
+      "Announced": "Mar 17th, 2025",
+      "Generation": "Blackwell PRO W (x000)",
+      "Predecessor": "Workstation Ada",
+      "Production": "Active",
+      "Launch Price": "8,565 USD",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1590 MHz",
+      "Boost Clock": "2617 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "96 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "512 bit",
+      "Bandwidth": "1.79 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "24064",
+      "TMUs": "752",
+      "ROPs": "192",
+      "SM Count": "188",
+      "Tensor Cores": "752",
+      "RT Cores": "188",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "128 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "502.5 GPixel/s",
+      "Texture Rate": "1,968.0 GTexel/s",
+      "FP16 (half)": "126.0 TFLOPS (1:1)",
+      "FP32 (float)": "126.0 TFLOPS",
+      "FP64 (double)": "1.968 TFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "304 mm 12 inches",
+      "Width": "137 mm 5.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "600 W",
+      "Suggested PSU": "1000 W",
+      "Outputs": "4x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin",
+      "Board Number": "PG153 SKU 52"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB202 GPU Notes": {}
+  },
+  "RTX PRO 6000 Blackwell Max-Q": {
+    "Graphics Processor": {
+      "GPU Name": "GB202",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "92,200 million",
+      "Density": "122.9M / mm²",
+      "Die Size": "750 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 18th, 2025",
+      "Announced": "Mar 17th, 2025",
+      "Generation": "Blackwell PRO W (x000)",
+      "Predecessor": "Workstation Ada",
+      "Production": "Active",
+      "Launch Price": "8,565 USD",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1590 MHz",
+      "Boost Clock": "2288 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "96 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "512 bit",
+      "Bandwidth": "1.79 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "24064",
+      "TMUs": "752",
+      "ROPs": "192",
+      "SM Count": "188",
+      "Tensor Cores": "752",
+      "RT Cores": "188",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "128 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "439.3 GPixel/s",
+      "Texture Rate": "1,720.6 GTexel/s",
+      "FP16 (half)": "110.1 TFLOPS (1:1)",
+      "FP32 (float)": "110.1 TFLOPS",
+      "FP64 (double)": "1.721 TFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "4x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin",
+      "Board Number": "PG153 SKU 52"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB202 GPU Notes": {}
+  },
+  "RTX PRO 6000 Blackwell Server": {
+    "Graphics Processor": {
+      "GPU Name": "GB202",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "92,200 million",
+      "Density": "122.9M / mm²",
+      "Die Size": "750 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 18th, 2025",
+      "Announced": "Mar 17th, 2025",
+      "Generation": "Server Blackwell (Bxx)",
+      "Predecessor": "Server Hopper",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1590 MHz",
+      "Boost Clock": "2617 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "96 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "512 bit",
+      "Bandwidth": "1.79 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "24064",
+      "TMUs": "752",
+      "ROPs": "192",
+      "SM Count": "188",
+      "Tensor Cores": "752",
+      "RT Cores": "188",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "128 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "502.5 GPixel/s",
+      "Texture Rate": "1,968.0 GTexel/s",
+      "FP16 (half)": "126.0 TFLOPS (1:1)",
+      "FP32 (float)": "126.0 TFLOPS",
+      "FP64 (double)": "1.968 TFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "600 W",
+      "Suggested PSU": "1000 W",
+      "Outputs": "4x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin",
+      "Board Number": "PG153 SKU 52"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB202 GPU Notes": {}
+  },
+  "GeForce RTX 5070": {
+    "Graphics Processor": {
+      "GPU Name": "GB205",
+      "GPU Variant": "GB205-300-A1",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "31,100 million",
+      "Density": "118.3M / mm²",
+      "Die Size": "263 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 4th, 2025",
+      "Announced": "Jan 6th,  2025",
+      "Generation": "GeForce 50",
+      "Predecessor": "GeForce 40",
+      "Production": "Active",
+      "Launch Price": "549 USD",
+      "Bus Interface": "PCIe 5.0 x16",
+      "Reviews": "40 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2325 MHz",
+      "Boost Clock": "2512 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "672.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "6144",
+      "TMUs": "192",
+      "ROPs": "80",
+      "SM Count": "48",
+      "Tensor Cores": "192",
+      "RT Cores": "48",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "48 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "201.0 GPixel/s",
+      "Texture Rate": "482.3 GTexel/s",
+      "FP16 (half)": "30.87 TFLOPS (1:1)",
+      "FP32 (float)": "30.87 TFLOPS",
+      "FP64 (double)": "482.3 GFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "245 mm 9.6 inches",
+      "Width": "115 mm 4.5 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 2.1b 3x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin",
+      "Board Number": "PG147 SKU 70"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB205 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (94)": {}
+  },
+  "GeForce RTX 5050": {
+    "Graphics Processor": {
+      "GPU Name": "GB207",
+      "GPU Variant": "GB207-300-A1",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "2025",
+      "Availability": "2025",
+      "Generation": "GeForce 50",
+      "Predecessor": "GeForce 40",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2235 MHz",
+      "Boost Clock": "2520 MHz",
+      "Memory Clock": "1750 MHz 14 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "224.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2560",
+      "TMUs": "80",
+      "ROPs": "32",
+      "SM Count": "20",
+      "Tensor Cores": "80",
+      "RT Cores": "20",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "32 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "80.64 GPixel/s",
+      "Texture Rate": "201.6 GTexel/s",
+      "FP16 (half)": "12.90 TFLOPS (1:1)",
+      "FP32 (float)": "12.90 TFLOPS",
+      "FP64 (double)": "201.6 GFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x HDMI 2.1b 3x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin",
+      "Board Number": "PG152 SKU 50"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "GB207 GPU Notes": {}
+  },
+  "GeForce RTX 5070 Ti": {
+    "Graphics Processor": {
+      "GPU Name": "GB203",
+      "GPU Variant": "GB203-300-A1",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "45,600 million",
+      "Density": "120.6M / mm²",
+      "Die Size": "378 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 20th, 2025",
+      "Announced": "Jan 6th,  2025",
+      "Generation": "GeForce 50",
+      "Predecessor": "GeForce 40",
+      "Production": "Active",
+      "Launch Price": "749 USD",
+      "Bus Interface": "PCIe 5.0 x16",
+      "Reviews": "46 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2295 MHz",
+      "Boost Clock": "2452 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "896.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "8960",
+      "TMUs": "280",
+      "ROPs": "96",
+      "SM Count": "70",
+      "Tensor Cores": "280",
+      "RT Cores": "70",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "48 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "235.4 GPixel/s",
+      "Texture Rate": "686.6 GTexel/s",
+      "FP16 (half)": "43.94 TFLOPS (1:1)",
+      "FP32 (float)": "43.94 TFLOPS",
+      "FP64 (double)": "686.6 GFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "304 mm 12 inches",
+      "Width": "137 mm 5.4 inches",
+      "Height": "48 mm 1.9 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "1x HDMI 2.1b 3x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin",
+      "Board Number": "PG147 SKU 60"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB203 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (94)": {}
+  },
+  "GeForce RTX 5080": {
+    "Graphics Processor": {
+      "GPU Name": "GB203",
+      "GPU Variant": "GB203-400-A1",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "45,600 million",
+      "Density": "120.6M / mm²",
+      "Die Size": "378 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 30th, 2025",
+      "Announced": "Jan 6th,  2025",
+      "Generation": "GeForce 50",
+      "Predecessor": "GeForce 40",
+      "Production": "Active",
+      "Launch Price": "999 USD",
+      "Bus Interface": "PCIe 5.0 x16",
+      "Reviews": "59 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2295 MHz",
+      "Boost Clock": "2617 MHz",
+      "Memory Clock": "1875 MHz 30 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "960.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "10752",
+      "TMUs": "336",
+      "ROPs": "112",
+      "SM Count": "84",
+      "Tensor Cores": "336",
+      "RT Cores": "84",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "64 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "293.1 GPixel/s",
+      "Texture Rate": "879.3 GTexel/s",
+      "FP16 (half)": "56.28 TFLOPS (1:1)",
+      "FP32 (float)": "56.28 TFLOPS",
+      "FP64 (double)": "879.3 GFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "304 mm 12 inches",
+      "Width": "137 mm 5.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "360 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "1x HDMI 2.1b 3x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin",
+      "Board Number": "PG147 SKU 45"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB203 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (102)": {}
+  },
+  "GeForce RTX 5090": {
+    "Graphics Processor": {
+      "GPU Name": "GB202",
+      "GPU Variant": "GB202-300-A1",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "92,200 million",
+      "Density": "122.9M / mm²",
+      "Die Size": "750 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 30th, 2025",
+      "Announced": "Jan 6th,  2025",
+      "Generation": "GeForce 50",
+      "Predecessor": "GeForce 40",
+      "Production": "Active",
+      "Launch Price": "1,999 USD",
+      "Bus Interface": "PCIe 5.0 x16",
+      "Reviews": "42 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2017 MHz",
+      "Boost Clock": "2407 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "512 bit",
+      "Bandwidth": "1.79 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "21760",
+      "TMUs": "680",
+      "ROPs": "176",
+      "SM Count": "170",
+      "Tensor Cores": "680",
+      "RT Cores": "170",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "96 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "423.6 GPixel/s",
+      "Texture Rate": "1,636.8 GTexel/s",
+      "FP16 (half)": "104.8 TFLOPS (1:1)",
+      "FP32 (float)": "104.8 TFLOPS",
+      "FP64 (double)": "1.637 TFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "304 mm 12 inches",
+      "Width": "137 mm 5.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "575 W",
+      "Suggested PSU": "950 W",
+      "Outputs": "1x HDMI 2.1b 3x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin",
+      "Board Number": "PG145 SKU 30"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB202 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (51)": {}
+  },
+  "GeForce RTX 5090 D": {
+    "Graphics Processor": {
+      "GPU Name": "GB202",
+      "Architecture": "Blackwell 2.0",
+      "Foundry": "TSMC",
+      "Process Type": "4N FinFET",
+      "Process Size": "5 nm",
+      "Transistors": "92,200 million",
+      "Density": "122.9M / mm²",
+      "Die Size": "750 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 30th, 2025",
+      "Announced": "Jan 7th, 2025",
+      "Generation": "GeForce 50",
+      "Predecessor": "GeForce 40",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16",
+      "Reviews": "42 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2017 MHz",
+      "Boost Clock": "2407 MHz",
+      "Memory Clock": "1750 MHz 28 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 GB",
+      "Memory Type": "GDDR7",
+      "Memory Bus": "512 bit",
+      "Bandwidth": "1.79 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "21760",
+      "TMUs": "680",
+      "ROPs": "176",
+      "SM Count": "170",
+      "Tensor Cores": "680",
+      "RT Cores": "170",
+      "L1 Cache": "128 KB (per SM)",
+      "L2 Cache": "96 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "423.6 GPixel/s",
+      "Texture Rate": "1,636.8 GTexel/s",
+      "FP16 (half)": "104.8 TFLOPS (1:1)",
+      "FP32 (float)": "104.8 TFLOPS",
+      "FP64 (double)": "1.637 TFLOPS (1:64)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "304 mm 12 inches",
+      "Width": "137 mm 5.4 inches",
+      "Height": "48 mm 1.9 inches",
+      "TDP": "575 W",
+      "Suggested PSU": "950 W",
+      "Outputs": "1x HDMI 2.1b 3x DisplayPort 2.1b",
+      "Power Connectors": "1x 16-pin",
+      "Board Number": "PG145 SKU 30"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.4",
+      "CUDA": "12.0",
+      "Shader Model": "6.8"
+    },
+    "GB202 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (34)": {}
+  }
+}

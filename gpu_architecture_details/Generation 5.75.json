@@ -1,0 +1,55 @@
+{
+  "HD Graphics 12EU": {
+    "Graphics Processor": {
+      "GPU Name": "Ironlake",
+      "Architecture": "Generation 5.75",
+      "Foundry": "Intel",
+      "Process Size": "45 nm",
+      "Transistors": "177 million",
+      "Density": "1.6M / mm²",
+      "Die Size": "114 mm²"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Jan 10th, 2010",
+      "Generation": "HD Graphics (Westmere)",
+      "Production": "End-of-life",
+      "Bus Interface": "QPI",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "533 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "12",
+      "ROPs": "2",
+      "Execution Units": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.066 GPixel/s",
+      "Texture Rate": "6.396 GTexel/s",
+      "FP32 (float)": "102.3 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "35 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "10.1",
+      "OpenGL": "2.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "4.1"
+    },
+    "Ironlake GPU Notes": {}
+  }
+}

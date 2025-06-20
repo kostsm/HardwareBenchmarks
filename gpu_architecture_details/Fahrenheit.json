@@ -1,0 +1,463 @@
+{
+  "Vanta LT": {
+    "Graphics Processor": {
+      "GPU Name": "NV5",
+      "GPU Variant": "Vanta LT",
+      "Architecture": "Fahrenheit",
+      "Foundry": "TSMC",
+      "Process Size": "250 nm",
+      "Transistors": "15 million",
+      "Density": "238.1K / mm²",
+      "Die Size": "63 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2000",
+      "Generation": "TNT2",
+      "Predecessor": "Riva",
+      "Successor": "GeForce 256",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 2x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "105 MHz",
+      "Memory Clock": "100 MHz"
+    },
+    "Memory": {
+      "Memory Size": "8 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "800.0 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "210.0 MPixel/s",
+      "Texture Rate": "210.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "Card Notes": {},
+    "NV5 GPU Notes": {}
+  },
+  "Riva TNT2": {
+    "Graphics Processor": {
+      "GPU Name": "NV5",
+      "GPU Variant": "Riva TNT2",
+      "Architecture": "Fahrenheit",
+      "Foundry": "TSMC",
+      "Process Size": "250 nm",
+      "Transistors": "15 million",
+      "Density": "238.1K / mm²",
+      "Die Size": "63 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 12th, 1999",
+      "Generation": "TNT2",
+      "Predecessor": "Riva",
+      "Successor": "GeForce 256",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "125 MHz",
+      "Memory Clock": "150 MHz"
+    },
+    "Memory": {
+      "Memory Size": "16 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "2.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "250.0 MPixel/s",
+      "Texture Rate": "250.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "22230350-005"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "NV5 GPU Notes": {}
+  },
+  "Riva TNT2 M64": {
+    "Graphics Processor": {
+      "GPU Name": "NV5",
+      "GPU Variant": "Riva TNT2",
+      "Architecture": "Fahrenheit",
+      "Foundry": "TSMC",
+      "Process Size": "250 nm",
+      "Transistors": "15 million",
+      "Density": "238.1K / mm²",
+      "Die Size": "63 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 12th, 1999",
+      "Generation": "TNT2",
+      "Predecessor": "Riva",
+      "Successor": "GeForce 256",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "125 MHz",
+      "Memory Clock": "143 MHz"
+    },
+    "Memory": {
+      "Memory Size": "16 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "1.144 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "250.0 MPixel/s",
+      "Texture Rate": "250.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "NV5 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Riva TNT2 PRO": {
+    "Graphics Processor": {
+      "GPU Name": "NV5",
+      "GPU Variant": "Riva TNT2",
+      "Architecture": "Fahrenheit",
+      "Foundry": "TSMC",
+      "Process Size": "250 nm",
+      "Transistors": "15 million",
+      "Density": "238.1K / mm²",
+      "Die Size": "63 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 12th, 1999",
+      "Generation": "TNT2",
+      "Predecessor": "Riva",
+      "Successor": "GeForce 256",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "143 MHz",
+      "Memory Clock": "167 MHz"
+    },
+    "Memory": {
+      "Memory Size": "32 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "2.672 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "286.0 MPixel/s",
+      "Texture Rate": "286.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "NV5 GPU Notes": {}
+  },
+  "Riva TNT2 M64 Vanta": {
+    "Graphics Processor": {
+      "GPU Name": "NV5",
+      "GPU Variant": "Vanta",
+      "Architecture": "Fahrenheit",
+      "Foundry": "TSMC",
+      "Process Size": "250 nm",
+      "Transistors": "15 million",
+      "Density": "238.1K / mm²",
+      "Die Size": "63 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 22nd, 1999",
+      "Generation": "TNT2",
+      "Predecessor": "Riva",
+      "Successor": "GeForce 256",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "100 MHz",
+      "Memory Clock": "133 MHz"
+    },
+    "Memory": {
+      "Memory Size": "16 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "1.064 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "200.0 MPixel/s",
+      "Texture Rate": "200.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "NV5 GPU Notes": {}
+  },
+  "Riva TNT2 M64 Vanta-16": {
+    "Graphics Processor": {
+      "GPU Name": "NV5",
+      "GPU Variant": "Vanta-16",
+      "Architecture": "Fahrenheit",
+      "Foundry": "TSMC",
+      "Process Size": "250 nm",
+      "Transistors": "15 million",
+      "Density": "238.1K / mm²",
+      "Die Size": "63 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 22nd, 1999",
+      "Generation": "TNT2",
+      "Predecessor": "Riva",
+      "Successor": "GeForce 256",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "100 MHz",
+      "Memory Clock": "133 MHz"
+    },
+    "Memory": {
+      "Memory Size": "16 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "1.064 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "200.0 MPixel/s",
+      "Texture Rate": "200.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "NV5 GPU Notes": {}
+  },
+  "Riva TNT2 Ultra": {
+    "Graphics Processor": {
+      "GPU Name": "NV5",
+      "GPU Variant": "Riva TNT2 Ultra",
+      "Architecture": "Fahrenheit",
+      "Foundry": "TSMC",
+      "Process Size": "250 nm",
+      "Transistors": "15 million",
+      "Density": "238.1K / mm²",
+      "Die Size": "63 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 15th, 1999",
+      "Generation": "TNT2",
+      "Predecessor": "Riva",
+      "Successor": "GeForce 256",
+      "Production": "End-of-life",
+      "Launch Price": "299 USD",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "150 MHz",
+      "Memory Clock": "183 MHz"
+    },
+    "Memory": {
+      "Memory Size": "32 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "2.928 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "300.0 MPixel/s",
+      "Texture Rate": "300.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA 2x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "NV5 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Riva TNT": {
+    "Graphics Processor": {
+      "GPU Name": "NV4",
+      "Architecture": "Fahrenheit",
+      "Foundry": "TSMC",
+      "Process Size": "350 nm",
+      "Transistors": "7 million",
+      "Density": "54.7K / mm²",
+      "Die Size": "128 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 23rd, 1998",
+      "Generation": "Riva",
+      "Predecessor": "NV1",
+      "Successor": "TNT2",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 2x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "90 MHz",
+      "Memory Clock": "110 MHz"
+    },
+    "Memory": {
+      "Memory Size": "16 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "1.760 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "180.0 MPixel/s",
+      "Texture Rate": "180.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "5.0",
+      "OpenGL": "1.2",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "N/A",
+      "Vertex Shader": "N/A"
+    },
+    "NV4 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  }
+}

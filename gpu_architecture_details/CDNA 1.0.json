@@ -1,0 +1,68 @@
+{
+  "Radeon Instinct MI100": {
+    "Graphics Processor": {
+      "GPU Name": "Arcturus",
+      "GPU Variant": "Arcturus XL",
+      "Architecture": "CDNA 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "7 nm",
+      "Transistors": "25,600 million",
+      "Density": "34.1M / mm²",
+      "Die Size": "750 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 16th, 2020",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1502 MHz",
+      "SOC Clock": "1091 MHz",
+      "UVD Clock": "1403 MHz",
+      "Memory Clock": "1200 MHz 2.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "1.23 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "7680",
+      "TMUs": "480",
+      "ROPs": "64",
+      "Compute Units": "120",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "8 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "96.13 GPixel/s",
+      "Texture Rate": "721.0 GTexel/s",
+      "FP16 (half)": "184.6 TFLOPS (8:1)",
+      "FP32 (float)": "23.07 TFLOPS",
+      "FP64 (double)": "11.54 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "109-D05187",
+      "BIOS Number": "113-D3430300-025"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "2.1",
+      "Vulkan": "N/A",
+      "Shader Model": "N/A"
+    },
+    "Arcturus GPU Notes": {}
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "Millennium G450 x2 MMS": {
+    "Graphics Processor": {
+      "GPU Name": "Condor",
+      "Architecture": "G400",
+      "Foundry": "UMC",
+      "Process Size": "180 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 19th, 2002",
+      "Generation": "G Series (G4xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "125 MHz",
+      "Memory Clock": "166 MHz 332 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "2.656 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "1",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "250.0 MPixel/s",
+      "Vertex Rate": "31.25 MVertices/s",
+      "Texture Rate": "250.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "165 mm 6.5 inches",
+      "Width": "97 mm 3.8 inches",
+      "Height": "36 mm 1.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x LFH60",
+      "Power Connectors": "None",
+      "Board Number": "G45X2DUAL-BF"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  },
+  "Millennium G450 x4 MMS": {
+    "Graphics Processor": {
+      "GPU Name": "Condor",
+      "Architecture": "G400",
+      "Foundry": "UMC",
+      "Process Size": "180 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 19th, 2002",
+      "Generation": "G Series (G4xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "125 MHz",
+      "Memory Clock": "166 MHz 332 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "2.656 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "1",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "250.0 MPixel/s",
+      "Vertex Rate": "31.25 MVertices/s",
+      "Texture Rate": "250.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "165 mm 6.5 inches",
+      "Width": "97 mm 3.8 inches",
+      "Height": "36 mm 1.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  },
+  "Millennium G450": {
+    "Graphics Processor": {
+      "GPU Name": "Condor",
+      "GPU Variant": "MGA-G450-F",
+      "Architecture": "G400",
+      "Foundry": "UMC",
+      "Process Size": "180 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 2000",
+      "Generation": "G Series (G4xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "125 MHz",
+      "Memory Clock": "166 MHz 332 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "2.656 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "1",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "250.0 MPixel/s",
+      "Vertex Rate": "31.25 MVertices/s",
+      "Texture Rate": "250.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  },
+  "Millennium G450 LP": {
+    "Graphics Processor": {
+      "GPU Name": "Condor",
+      "GPU Variant": "MGA-G450-F",
+      "Architecture": "G400",
+      "Foundry": "UMC",
+      "Process Size": "180 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 2000",
+      "Generation": "G Series (G4xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "125 MHz",
+      "Memory Clock": "166 MHz 332 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "2.656 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "1",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "250.0 MPixel/s",
+      "Vertex Rate": "31.25 MVertices/s",
+      "Texture Rate": "250.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "None",
+      "Board Number": "G45FMLDVA32DBF"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  },
+  "Marvel G400-TV": {
+    "Graphics Processor": {
+      "GPU Name": "Toucan",
+      "Architecture": "G400",
+      "Foundry": "UMC",
+      "Process Size": "250 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "May 20th, 1999",
+      "Generation": "G Series (G4xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "125 MHz",
+      "Memory Clock": "166 MHz"
+    },
+    "Memory": {
+      "Memory Size": "16 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "2.656 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "1",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "250.0 MPixel/s",
+      "Vertex Rate": "31.25 MVertices/s",
+      "Texture Rate": "250.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  },
+  "Millennium G400": {
+    "Graphics Processor": {
+      "GPU Name": "Toucan",
+      "Architecture": "G400",
+      "Foundry": "UMC",
+      "Process Size": "250 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "May 20th, 1999",
+      "Generation": "G Series (G4xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "125 MHz",
+      "Memory Clock": "166 MHz"
+    },
+    "Memory": {
+      "Memory Size": "32 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "2.656 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "1",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "250.0 MPixel/s",
+      "Vertex Rate": "31.25 MVertices/s",
+      "Texture Rate": "250.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  },
+  "Millennium G400 MAX": {
+    "Graphics Processor": {
+      "GPU Name": "Toucan",
+      "GPU Variant": "MGA-G400A-E",
+      "Architecture": "G400",
+      "Foundry": "UMC",
+      "Process Size": "250 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "May 20th, 1999",
+      "Generation": "G Series (G4xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "150 MHz",
+      "Memory Clock": "200 MHz"
+    },
+    "Memory": {
+      "Memory Size": "32 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "3.200 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "1",
+      "TMUs": "2",
+      "ROPs": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "300.0 MPixel/s",
+      "Vertex Rate": "37.50 MVertices/s",
+      "Texture Rate": "300.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "6.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  }
+}

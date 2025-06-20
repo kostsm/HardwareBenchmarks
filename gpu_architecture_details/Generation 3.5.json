@@ -1,0 +1,54 @@
+{
+  "GMA 950": {
+    "Graphics Processor": {
+      "GPU Name": "Lakeport",
+      "Architecture": "Generation 3.5",
+      "Foundry": "Intel",
+      "Process Size": "90 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Jun 1st, 2005",
+      "Generation": "GMA Graphics (GMA 950 IGP)",
+      "Production": "End-of-life",
+      "Bus Interface": "FSB",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "250 MHz",
+      "Boost Clock": "400 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "1",
+      "TMUs": "4",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "400.0 MPixel/s",
+      "Vertex Rate": "62.50 MVertices/s",
+      "Texture Rate": "1.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "7 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0",
+      "OpenGL": "2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "2.0"
+    },
+    "Lakeport GPU Notes": {}
+  }
+}

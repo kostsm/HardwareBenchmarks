@@ -1,0 +1,1752 @@
+{
+  "Switch GPU 16nm": {
+    "Graphics Processor": {
+      "GPU Name": "GM20B",
+      "GPU Variant": "ODNX10-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "2,000 million",
+      "Density": "20.0M / mm²",
+      "Die Size": "100 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 16th, 2019",
+      "Generation": "Console GPU (Nintendo)",
+      "Production": "End-of-life",
+      "Launch Price": "299 USD"
+    },
+    "Clock Speeds": {
+      "Base Clock": "384 MHz",
+      "Boost Clock": "768 MHz",
+      "Memory Clock": "1600 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "DDR4",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "25.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "256",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMM Count": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "12.29 GPixel/s",
+      "Texture Rate": "12.29 GTexel/s",
+      "FP16 (half)": "786.4 GFLOPS (2:1)",
+      "FP32 (float)": "393.2 GFLOPS",
+      "FP64 (double)": "12.29 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Length": "239 mm 9.4 inches",
+      "Width": "101 mm 4 inches",
+      "Height": "28 mm 1.1 inches",
+      "Weight": "0.4 kg (0.88 lbs)",
+      "Storage": "32 GB / 64 GB eMMC",
+      "TDP": "15 W",
+      "Outputs": "1x USB Type-C",
+      "Board Number": "HAC-001-01"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.2",
+      "Vulkan": "1.1",
+      "CUDA": "5.3",
+      "Shader Model": "6.0"
+    },
+    "Console Notes": {},
+    "GM20B GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Switch GPU 20nm": {
+    "Graphics Processor": {
+      "GPU Name": "GM20B",
+      "GPU Variant": "ODNX02-A2",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "20 nm",
+      "Transistors": "2,000 million",
+      "Density": "16.9M / mm²",
+      "Die Size": "118 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 17th, 2017",
+      "Generation": "Console GPU (Nintendo)",
+      "Production": "End-of-life",
+      "Launch Price": "299 USD"
+    },
+    "Clock Speeds": {
+      "Base Clock": "384 MHz",
+      "Boost Clock": "768 MHz",
+      "Memory Clock": "1600 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "DDR4",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "25.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "256",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SMM Count": "2"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "12.29 GPixel/s",
+      "Texture Rate": "12.29 GTexel/s",
+      "FP16 (half)": "786.4 GFLOPS (2:1)",
+      "FP32 (float)": "393.2 GFLOPS",
+      "FP64 (double)": "12.29 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Length": "239 mm 9.4 inches",
+      "Width": "101 mm 4 inches",
+      "Height": "28 mm 1.1 inches",
+      "Weight": "0.4 kg (0.88 lbs)",
+      "Storage": "32 GB eMMC",
+      "TDP": "15 W",
+      "Outputs": "1x USB Type-C",
+      "Board Number": "HAC-001"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "1.2",
+      "Vulkan": "1.1",
+      "CUDA": "5.3",
+      "Shader Model": "6.0"
+    },
+    "Console Notes": {},
+    "GM20B GPU Notes": {}
+  },
+  "Quadro M3000 SE": {
+    "Graphics Processor": {
+      "GPU Name": "GM204",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,200 million",
+      "Density": "13.1M / mm²",
+      "Die Size": "398 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 2nd, 2016",
+      "Generation": "Quadro Maxwell (Mx000)",
+      "Predecessor": "Quadro Kepler",
+      "Successor": "Quadro Pascal",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "823 MHz",
+      "Boost Clock": "924 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "32",
+      "SMM Count": "8",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.57 GPixel/s",
+      "Texture Rate": "59.14 GTexel/s",
+      "FP32 (float)": "1.892 TFLOPS",
+      "FP64 (double)": "59.14 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "MXM Module",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM204 GPU Notes": {}
+  },
+  "Quadro M2000": {
+    "Graphics Processor": {
+      "GPU Name": "GM206",
+      "GPU Variant": "GM206-875-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,940 million",
+      "Density": "12.9M / mm²",
+      "Die Size": "228 mm²",
+      "Chip Package": "BGA-1428"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 8th, 2016",
+      "Generation": "Quadro Maxwell (Mx000)",
+      "Predecessor": "Quadro Kepler",
+      "Successor": "Quadro Pascal",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "796 MHz",
+      "Boost Clock": "1163 MHz",
+      "Memory Clock": "1653 MHz 6.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "105.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "SMM Count": "6",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "37.22 GPixel/s",
+      "Texture Rate": "55.82 GTexel/s",
+      "FP32 (float)": "1.786 TFLOPS",
+      "FP64 (double)": "55.82 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "201 mm 7.9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "4x DisplayPort 1.2",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM206 GPU Notes": {}
+  },
+  "Quadro M6000 24 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GM200",
+      "GPU Variant": "GM200-880-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,000 million",
+      "Density": "13.3M / mm²",
+      "Die Size": "601 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 5th, 2016",
+      "Generation": "Quadro Maxwell (Mx000)",
+      "Predecessor": "Quadro Kepler",
+      "Successor": "Quadro Pascal",
+      "Production": "End-of-life",
+      "Launch Price": "4,999 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "988 MHz",
+      "Boost Clock": "1114 MHz",
+      "Memory Clock": "1653 MHz 6.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "24 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "317.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3072",
+      "TMUs": "192",
+      "ROPs": "96",
+      "SMM Count": "24",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "106.9 GPixel/s",
+      "Texture Rate": "213.9 GTexel/s",
+      "FP32 (float)": "6.844 TFLOPS",
+      "FP64 (double)": "213.9 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x DVI 4x DisplayPort 1.2",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG600 SKU 501"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM200 GPU Notes": {}
+  },
+  "GeForce GTX 950 Low Power": {
+    "Graphics Processor": {
+      "GPU Name": "GM206",
+      "GPU Variant": "GM206-251-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,940 million",
+      "Density": "12.9M / mm²",
+      "Die Size": "228 mm²",
+      "Chip Package": "BGA-1428"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2016",
+      "Generation": "GeForce 900",
+      "Predecessor": "GeForce 700",
+      "Successor": "GeForce 10",
+      "Production": "End-of-life",
+      "Launch Price": "159 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "76 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1026 MHz",
+      "Boost Clock": "1190 MHz",
+      "Memory Clock": "1653 MHz 6.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "105.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "SMM Count": "6",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "38.08 GPixel/s",
+      "Texture Rate": "57.12 GTexel/s",
+      "FP32 (float)": "1.828 TFLOPS",
+      "FP64 (double)": "57.12 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "202 mm 8 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.2",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM206 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (9)": {}
+  },
+  "GeForce GTX 950 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GM206S",
+      "GPU Variant": "950 OEM",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,940 million",
+      "Density": "12.9M / mm²",
+      "Die Size": "228 mm²",
+      "Chip Package": "FCBGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "2016",
+      "Generation": "GeForce 900",
+      "Predecessor": "GeForce 700",
+      "Successor": "GeForce 10",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "76 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "937 MHz",
+      "Boost Clock": "1203 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "80.19 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "32",
+      "SMM Count": "8",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "38.50 GPixel/s",
+      "Texture Rate": "76.99 GTexel/s",
+      "FP32 (float)": "2.464 TFLOPS",
+      "FP64 (double)": "76.99 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "GM206S GPU Notes": {}
+  },
+  "GeForce GTX 960 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "GM206",
+      "GPU Variant": "GTX 960 OEM",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,940 million",
+      "Density": "12.9M / mm²",
+      "Die Size": "228 mm²",
+      "Chip Package": "BGA-1428"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 26th, 2015",
+      "Generation": "GeForce 900",
+      "Predecessor": "GeForce 700",
+      "Successor": "GeForce 10",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1176 MHz",
+      "Boost Clock": "1201 MHz",
+      "Memory Clock": "1753 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "112.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "32",
+      "SMM Count": "8",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "38.43 GPixel/s",
+      "Texture Rate": "76.86 GTexel/s",
+      "FP32 (float)": "2.460 TFLOPS",
+      "FP64 (double)": "76.86 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM206 GPU Notes": {}
+  },
+  "GeForce GTX 750 GM206": {
+    "Graphics Processor": {
+      "GPU Name": "GM206",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,940 million",
+      "Density": "12.9M / mm²",
+      "Die Size": "228 mm²",
+      "Chip Package": "BGA-1428"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 17th, 2015",
+      "Generation": "GeForce 700",
+      "Predecessor": "GeForce 600",
+      "Successor": "GeForce 900",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "10 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1087 MHz",
+      "Boost Clock": "1239 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "80.19 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "32",
+      "SMM Count": "4",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "39.65 GPixel/s",
+      "Texture Rate": "39.65 GTexel/s",
+      "FP32 (float)": "1,268.7 GFLOPS",
+      "FP64 (double)": "39.65 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "60 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x mini-HDMI 2.0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM206 GPU Notes": {}
+  },
+  "Tesla M4": {
+    "Graphics Processor": {
+      "GPU Name": "GM206",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,940 million",
+      "Density": "12.9M / mm²",
+      "Die Size": "228 mm²",
+      "Chip Package": "BGA-1428"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 10th, 2015",
+      "Generation": "Tesla Maxwell (Mxx)",
+      "Predecessor": "Tesla Kepler",
+      "Successor": "Tesla Pascal",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "872 MHz",
+      "Boost Clock": "1072 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "88.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "32",
+      "SMM Count": "8",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "34.30 GPixel/s",
+      "Texture Rate": "68.61 GTexel/s",
+      "FP32 (float)": "2.195 TFLOPS",
+      "FP64 (double)": "68.61 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "No outputs",
+      "Board Number": "PG304 SKU 200"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM206 GPU Notes": {}
+  },
+  "Tesla M40": {
+    "Graphics Processor": {
+      "GPU Name": "GM200",
+      "GPU Variant": "GM200-895-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,000 million",
+      "Density": "13.3M / mm²",
+      "Die Size": "601 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 10th, 2015",
+      "Generation": "Tesla Maxwell (Mxx)",
+      "Predecessor": "Tesla Kepler",
+      "Successor": "Tesla Pascal",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "948 MHz",
+      "Boost Clock": "1112 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3072",
+      "TMUs": "192",
+      "ROPs": "96",
+      "SMM Count": "24",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "106.8 GPixel/s",
+      "Texture Rate": "213.5 GTexel/s",
+      "FP32 (float)": "6.832 TFLOPS",
+      "FP64 (double)": "213.5 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS",
+      "Board Number": "PG600 SKU 202"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM200 GPU Notes": {}
+  },
+  "Tesla M40 24 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GM200",
+      "GPU Variant": "GM200-895-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,000 million",
+      "Density": "13.3M / mm²",
+      "Die Size": "601 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 10th, 2015",
+      "Generation": "Tesla Maxwell (Mxx)",
+      "Predecessor": "Tesla Kepler",
+      "Successor": "Tesla Pascal",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "948 MHz",
+      "Boost Clock": "1112 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "24 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3072",
+      "TMUs": "192",
+      "ROPs": "96",
+      "SMM Count": "24",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "106.8 GPixel/s",
+      "Texture Rate": "213.5 GTexel/s",
+      "FP32 (float)": "6.832 TFLOPS",
+      "FP64 (double)": "213.5 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS",
+      "Board Number": "PG600 SKU 200"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM200 GPU Notes": {}
+  },
+  "GRID M6-8Q": {
+    "Graphics Processor": {
+      "GPU Name": "GM204",
+      "GPU Variant": "GM204-995-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,200 million",
+      "Density": "13.1M / mm²",
+      "Die Size": "398 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 30th, 2015",
+      "Generation": "GRID (Mx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "722 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "96",
+      "ROPs": "64",
+      "SMM Count": "12",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "46.21 GPixel/s",
+      "Texture Rate": "69.31 GTexel/s",
+      "FP32 (float)": "2.218 TFLOPS",
+      "FP64 (double)": "69.31 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "MXM Module",
+      "TDP": "100 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM204 GPU Notes": {}
+  },
+  "GRID M60-1Q": {
+    "Graphics Processor": {
+      "GPU Name": "GM204",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,200 million",
+      "Density": "13.1M / mm²",
+      "Die Size": "398 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 30th, 2015",
+      "Generation": "GRID (Mx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "557 MHz",
+      "Boost Clock": "1178 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "64",
+      "SMM Count": "16",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "75.39 GPixel/s",
+      "Texture Rate": "150.8 GTexel/s",
+      "FP32 (float)": "4.825 TFLOPS",
+      "FP64 (double)": "150.8 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM204 GPU Notes": {}
+  },
+  "GRID M60-2Q": {
+    "Graphics Processor": {
+      "GPU Name": "GM204",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,200 million",
+      "Density": "13.1M / mm²",
+      "Die Size": "398 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 30th, 2015",
+      "Generation": "GRID (Mx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "557 MHz",
+      "Boost Clock": "1178 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "64",
+      "SMM Count": "16",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "75.39 GPixel/s",
+      "Texture Rate": "150.8 GTexel/s",
+      "FP32 (float)": "4.825 TFLOPS",
+      "FP64 (double)": "150.8 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM204 GPU Notes": {}
+  },
+  "GRID M60-4A": {
+    "Graphics Processor": {
+      "GPU Name": "GM204",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,200 million",
+      "Density": "13.1M / mm²",
+      "Die Size": "398 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 30th, 2015",
+      "Generation": "GRID (Mx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "557 MHz",
+      "Boost Clock": "1178 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "64",
+      "SMM Count": "16",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "75.39 GPixel/s",
+      "Texture Rate": "150.8 GTexel/s",
+      "FP32 (float)": "4.825 TFLOPS",
+      "FP64 (double)": "150.8 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM204 GPU Notes": {}
+  },
+  "GRID M60-8Q": {
+    "Graphics Processor": {
+      "GPU Name": "GM204",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,200 million",
+      "Density": "13.1M / mm²",
+      "Die Size": "398 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 30th, 2015",
+      "Generation": "GRID (Mx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "557 MHz",
+      "Boost Clock": "1178 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "64",
+      "SMM Count": "16",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "75.39 GPixel/s",
+      "Texture Rate": "150.8 GTexel/s",
+      "FP32 (float)": "4.825 TFLOPS",
+      "FP64 (double)": "150.8 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM204 GPU Notes": {}
+  },
+  "Tesla M60": {
+    "Graphics Processor": {
+      "GPU Name": "GM204",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,200 million",
+      "Density": "13.1M / mm²",
+      "Die Size": "398 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 30th, 2015",
+      "Generation": "Tesla Maxwell (Mxx)",
+      "Predecessor": "Tesla Kepler",
+      "Successor": "Tesla Pascal",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "557 MHz",
+      "Boost Clock": "1178 MHz",
+      "Memory Clock": "1253 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "64",
+      "SMM Count": "16",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "75.39 GPixel/s",
+      "Texture Rate": "150.8 GTexel/s",
+      "FP32 (float)": "4.825 TFLOPS",
+      "FP64 (double)": "150.8 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG402 SKU 40"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM204 GPU Notes": {}
+  },
+  "GeForce GTX 950": {
+    "Graphics Processor": {
+      "GPU Name": "GM206",
+      "GPU Variant": "GM206-250-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,940 million",
+      "Density": "12.9M / mm²",
+      "Die Size": "228 mm²",
+      "Chip Package": "BGA-1428"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 20th, 2015",
+      "Generation": "GeForce 900",
+      "Predecessor": "GeForce 700",
+      "Successor": "GeForce 10",
+      "Production": "End-of-life",
+      "Launch Price": "159 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "76 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1024 MHz",
+      "Boost Clock": "1188 MHz",
+      "Memory Clock": "1653 MHz 6.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "105.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "SMM Count": "6",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "38.02 GPixel/s",
+      "Texture Rate": "57.02 GTexel/s",
+      "FP32 (float)": "1.825 TFLOPS",
+      "FP64 (double)": "57.02 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "202 mm 8 inches",
+      "TDP": "90 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM206 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (50)": {}
+  },
+  "Quadro M4000": {
+    "Graphics Processor": {
+      "GPU Name": "GM204",
+      "GPU Variant": "GM204-850-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,200 million",
+      "Density": "13.1M / mm²",
+      "Die Size": "398 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 29th, 2015",
+      "Generation": "Quadro Maxwell (Mx000)",
+      "Predecessor": "Quadro Kepler",
+      "Successor": "Quadro Pascal",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "773 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1664",
+      "TMUs": "104",
+      "ROPs": "64",
+      "SMM Count": "13",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "49.47 GPixel/s",
+      "Texture Rate": "80.39 GTexel/s",
+      "FP32 (float)": "2.573 TFLOPS",
+      "FP64 (double)": "80.39 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "4x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG400 SKU 501"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM204 GPU Notes": {}
+  },
+  "Quadro M5000": {
+    "Graphics Processor": {
+      "GPU Name": "GM204",
+      "GPU Variant": "GM204-875-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,200 million",
+      "Density": "13.1M / mm²",
+      "Die Size": "398 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 29th, 2015",
+      "Generation": "Quadro Maxwell (Mx000)",
+      "Predecessor": "Quadro Kepler",
+      "Successor": "Quadro Pascal",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "861 MHz",
+      "Boost Clock": "1038 MHz",
+      "Memory Clock": "1653 MHz 6.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "211.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "64",
+      "SMM Count": "16",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "66.43 GPixel/s",
+      "Texture Rate": "132.9 GTexel/s",
+      "FP32 (float)": "4.252 TFLOPS",
+      "FP64 (double)": "132.9 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 4x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG400 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM204 GPU Notes": {}
+  },
+  "GeForce GTX 980 Ti": {
+    "Graphics Processor": {
+      "GPU Name": "GM200",
+      "GPU Variant": "GM200-310-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,000 million",
+      "Density": "13.3M / mm²",
+      "Die Size": "601 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 2nd, 2015",
+      "Generation": "GeForce 900",
+      "Predecessor": "GeForce 700",
+      "Successor": "GeForce 10",
+      "Production": "End-of-life",
+      "Launch Price": "649 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "169 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1076 MHz",
+      "Memory Clock": "1753 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "336.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2816",
+      "TMUs": "176",
+      "ROPs": "96",
+      "SMM Count": "22",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "103.3 GPixel/s",
+      "Texture Rate": "189.4 GTexel/s",
+      "FP32 (float)": "6.060 TFLOPS",
+      "FP64 (double)": "189.4 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "PG600 SKU 30"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM200 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (70)": {}
+  },
+  "Quadro M6000": {
+    "Graphics Processor": {
+      "GPU Name": "GM200",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,000 million",
+      "Density": "13.3M / mm²",
+      "Die Size": "601 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 21st, 2015",
+      "Generation": "Quadro Maxwell (Mx000)",
+      "Predecessor": "Quadro Kepler",
+      "Successor": "Quadro Pascal",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "988 MHz",
+      "Boost Clock": "1114 MHz",
+      "Memory Clock": "1653 MHz 6.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "317.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3072",
+      "TMUs": "192",
+      "ROPs": "96",
+      "SMM Count": "24",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "106.9 GPixel/s",
+      "Texture Rate": "213.9 GTexel/s",
+      "FP32 (float)": "6.844 TFLOPS",
+      "FP64 (double)": "213.9 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x DVI 4x DisplayPort 1.2",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG600 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM200 GPU Notes": {}
+  },
+  "GeForce GTX TITAN X": {
+    "Graphics Processor": {
+      "GPU Name": "GM200",
+      "GPU Variant": "GM200-400-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,000 million",
+      "Density": "13.3M / mm²",
+      "Die Size": "601 mm²",
+      "Chip Package": "BGA-2152"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 17th, 2015",
+      "Generation": "GeForce 900",
+      "Predecessor": "GeForce 700",
+      "Successor": "GeForce 10",
+      "Production": "End-of-life",
+      "Launch Price": "999 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "29 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1089 MHz",
+      "Memory Clock": "1753 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "336.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3072",
+      "TMUs": "192",
+      "ROPs": "96",
+      "SMM Count": "24",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "104.5 GPixel/s",
+      "Texture Rate": "209.1 GTexel/s",
+      "FP32 (float)": "6.691 TFLOPS",
+      "FP64 (double)": "209.1 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "PG600 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM200 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (18)": {}
+  },
+  "GeForce GTX 960": {
+    "Graphics Processor": {
+      "GPU Name": "GM206",
+      "GPU Variant": "GM206-300-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,940 million",
+      "Density": "12.9M / mm²",
+      "Die Size": "228 mm²",
+      "Chip Package": "BGA-1428"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 22nd, 2015",
+      "Generation": "GeForce 900",
+      "Predecessor": "GeForce 700",
+      "Successor": "GeForce 10",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "124 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1127 MHz",
+      "Boost Clock": "1178 MHz",
+      "Memory Clock": "1753 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "112.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "32",
+      "SMM Count": "8",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "37.70 GPixel/s",
+      "Texture Rate": "75.39 GTexel/s",
+      "FP32 (float)": "2.413 TFLOPS",
+      "FP64 (double)": "75.39 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG301"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM206 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (104)": {}
+  },
+  "GeForce GTX 970": {
+    "Graphics Processor": {
+      "GPU Name": "GM204",
+      "GPU Variant": "GM204-200-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,200 million",
+      "Density": "13.1M / mm²",
+      "Die Size": "398 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 19th, 2014",
+      "Generation": "GeForce 900",
+      "Predecessor": "GeForce 700",
+      "Successor": "GeForce 10",
+      "Production": "End-of-life",
+      "Launch Price": "329 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "111 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1050 MHz",
+      "Boost Clock": "1178 MHz",
+      "Memory Clock": "1753 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1664",
+      "TMUs": "104",
+      "ROPs": "56",
+      "SMM Count": "13",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "65.97 GPixel/s",
+      "Texture Rate": "122.5 GTexel/s",
+      "FP32 (float)": "3.920 TFLOPS",
+      "FP64 (double)": "122.5 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "148 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "PG401"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "GM204 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (78)": {}
+  },
+  "GeForce GTX 980": {
+    "Graphics Processor": {
+      "GPU Name": "GM204",
+      "GPU Variant": "GM204-400-A1",
+      "Architecture": "Maxwell 2.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,200 million",
+      "Density": "13.1M / mm²",
+      "Die Size": "398 mm²",
+      "Chip Package": "BGA-1745"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 19th, 2014",
+      "Generation": "GeForce 900",
+      "Predecessor": "GeForce 700",
+      "Successor": "GeForce 10",
+      "Production": "End-of-life",
+      "Launch Price": "549 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "146 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1127 MHz",
+      "Boost Clock": "1216 MHz",
+      "Memory Clock": "1753 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "224.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "64",
+      "SMM Count": "16",
+      "L1 Cache": "48 KB (per SMM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "77.82 GPixel/s",
+      "Texture Rate": "155.6 GTexel/s",
+      "FP32 (float)": "4.981 TFLOPS",
+      "FP64 (double)": "155.6 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "165 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "PG401"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "5.2",
+      "Shader Model": "6.8"
+    },
+    "GM204 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (72)": {}
+  }
+}

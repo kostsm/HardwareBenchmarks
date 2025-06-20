@@ -1,0 +1,1955 @@
+{
+  "Ryzen Z2 GPU": {
+    "Graphics Processor": {
+      "GPU Name": "Hawk Point",
+      "GPU Variant": "100-000001753",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "4 nm",
+      "Transistors": "25,390 million",
+      "Density": "142.6M / mm²",
+      "Die Size": "178 mm²",
+      "Chip Package": "FP8"
+    },
+    "Graphics Card": {
+      "Release Date": "2025",
+      "Announced": "Jan 6th, 2025",
+      "Generation": "Console GPU (AMD)",
+      "Production": "Active"
+    },
+    "Clock Speeds": {
+      "Base Clock": "800 MHz",
+      "Boost Clock": "2700 MHz",
+      "Memory Clock": "937 MHz 7.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "LPDDR5X",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "119.9 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "Compute Units": "12",
+      "RT Cores": "12",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "8 MB",
+      "L3 Cache": "16 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "86.40 GPixel/s",
+      "Texture Rate": "129.6 GTexel/s",
+      "FP16 (half)": "16.59 TFLOPS (2:1)",
+      "FP32 (float)": "8.294 TFLOPS",
+      "FP64 (double)": "518.4 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "TDP": "28 W",
+      "Outputs": "1x USB Type-C",
+      "Power Connectors": "None",
+      "Weight": "g ( lbs)",
+      "Storage": "GB PCIe 4.0 x4"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Console Notes": {},
+    "Hawk Point GPU Notes": {}
+  },
+  "Radeon RX 7650 GRE": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 33",
+      "Codename": "Hotpink Bonefish",
+      "GPU Variant": "Navi 33 XL (215-163000057)",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "6 nm",
+      "Transistors": "13,300 million",
+      "Density": "65.2M / mm²",
+      "Die Size": "204 mm²",
+      "Chip Package": "Monolithic"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 2025",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "Active",
+      "Launch Price": "279 USD",
+      "Bus Interface": "PCIe 4.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1720 MHz",
+      "Game Clock": "2350 MHz",
+      "Boost Clock": "2695 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "288.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "64",
+      "Compute Units": "32",
+      "RT Cores": "32",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB",
+      "L3 Cache": "32 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "172.5 GPixel/s",
+      "Texture Rate": "345.0 GTexel/s",
+      "FP16 (half)": "44.15 TFLOPS (2:1)",
+      "FP32 (float)": "22.08 TFLOPS",
+      "FP64 (double)": "689.9 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "204 mm 8 inches",
+      "Width": "115 mm 4.5 inches",
+      "TDP": "165 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.1a 3x DisplayPort 2.1",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "109-D74557-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 33 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (7)": {}
+  },
+  "Radeon RX 7700": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 32",
+      "Codename": "Wheat Nas",
+      "GPU Variant": "Navi 32",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "28,100 million",
+      "Density": "81.2M / mm²",
+      "Die Size": "346 mm²",
+      "GCD Size": "200mm²",
+      "MCD Size": "36.6 mm² x4",
+      "Chip Package": "MCM",
+      "Package Size": "40mm × 40mm"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "unknown",
+      "Launch Price": "479 USD",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1900 MHz",
+      "Game Clock": "2400 MHz",
+      "Boost Clock": "2600 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "432.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3072",
+      "TMUs": "192",
+      "ROPs": "96",
+      "Compute Units": "48",
+      "RT Cores": "48",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB",
+      "L3 Cache": "64 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "249.6 GPixel/s",
+      "Texture Rate": "499.2 GTexel/s",
+      "FP16 (half)": "63.90 TFLOPS (2:1)",
+      "FP32 (float)": "31.95 TFLOPS",
+      "FP64 (double)": "998.4 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "135 mm 5.3 inches",
+      "Height": "50 mm 2 inches",
+      "TDP": "200 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x HDMI 2.1a 2x DisplayPort 2.1 1x USB Type-C",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "Navi 32 GPU Notes": {}
+  },
+  "Radeon PRO V710": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 32",
+      "Codename": "Wheat Nas",
+      "GPU Variant": "Navi 32",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "28,100 million",
+      "Density": "81.2M / mm²",
+      "Die Size": "346 mm²",
+      "GCD Size": "200mm²",
+      "MCD Size": "36.6 mm² x4",
+      "Chip Package": "MCM",
+      "Package Size": "40mm × 40mm"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 3rd, 2024",
+      "Availability": "2024",
+      "Generation": "Radeon Pro Navi (Navi III Series)",
+      "Predecessor": "Radeon Pro Vega",
+      "Production": "unknown",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1900 MHz",
+      "Boost Clock": "2000 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "28 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "224 bit",
+      "Bandwidth": "504.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3456",
+      "TMUs": "216",
+      "ROPs": "96",
+      "Compute Units": "54",
+      "RT Cores": "54",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB",
+      "L3 Cache": "54 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "192.0 GPixel/s",
+      "Texture Rate": "432.0 GTexel/s",
+      "FP16 (half)": "55.30 TFLOPS (2:1)",
+      "FP32 (float)": "27.65 TFLOPS",
+      "FP64 (double)": "864.0 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "158 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 32 GPU Notes": {}
+  },
+  "Radeon 740M": {
+    "Graphics Processor": {
+      "GPU Name": "Phoenix2",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "4 nm",
+      "Transistors": "20,900 million",
+      "Density": "152.6M / mm²",
+      "Die Size": "137 mm²",
+      "Chip Package": "FC-LGA1718"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Jan 31st, 2024",
+      "Announced": "Jan 8th,  2024",
+      "Generation": "Navi III IGP (Phoenix)",
+      "Predecessor": "Navi II IGP",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "800 MHz",
+      "Boost Clock": "2800 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "256",
+      "TMUs": "16",
+      "ROPs": "8",
+      "Compute Units": "4",
+      "RT Cores": "4",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "22.40 GPixel/s",
+      "Texture Rate": "44.80 GTexel/s",
+      "FP16 (half)": "5.734 TFLOPS (2:1)",
+      "FP32 (float)": "2.867 TFLOPS",
+      "FP64 (double)": "179.2 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "45 W",
+      "Outputs": "Motherboard Dependent",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Phoenix2 GPU Notes": {}
+  },
+  "Radeon 760M": {
+    "Graphics Processor": {
+      "GPU Name": "Phoenix",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "4 nm",
+      "Transistors": "25,390 million",
+      "Density": "142.6M / mm²",
+      "Die Size": "178 mm²",
+      "Chip Package": "FP8"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Jan 31st, 2024",
+      "Announced": "Jan 8th,  2024",
+      "Generation": "Navi III IGP (Phoenix)",
+      "Predecessor": "Navi II IGP",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "800 MHz",
+      "Boost Clock": "2599 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "RT Cores": "8",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "41.58 GPixel/s",
+      "Texture Rate": "83.17 GTexel/s",
+      "FP16 (half)": "10.65 TFLOPS (2:1)",
+      "FP32 (float)": "5.323 TFLOPS",
+      "FP64 (double)": "332.7 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "15 W",
+      "Outputs": "Motherboard Dependent",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Phoenix GPU Notes": {}
+  },
+  "Radeon 780M": {
+    "Graphics Processor": {
+      "GPU Name": "Phoenix",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "4 nm",
+      "Transistors": "25,390 million",
+      "Density": "142.6M / mm²",
+      "Die Size": "178 mm²",
+      "Chip Package": "FP8"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Jan 31st, 2024",
+      "Announced": "Jan 8th,  2024",
+      "Generation": "Navi III IGP (Phoenix)",
+      "Predecessor": "Navi II IGP",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "800 MHz",
+      "Boost Clock": "2900 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "Compute Units": "12",
+      "RT Cores": "12",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "92.80 GPixel/s",
+      "Texture Rate": "139.2 GTexel/s",
+      "FP16 (half)": "17.82 TFLOPS (2:1)",
+      "FP32 (float)": "8.909 TFLOPS",
+      "FP64 (double)": "556.8 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "15 W",
+      "Outputs": "Motherboard Dependent",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Phoenix GPU Notes": {}
+  },
+  "Radeon RX 7600 XT": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 33",
+      "Codename": "Hotpink Bonefish",
+      "GPU Variant": "Navi 33 XT (215-163000047)",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "6 nm",
+      "Transistors": "13,300 million",
+      "Density": "65.2M / mm²",
+      "Die Size": "204 mm²",
+      "Chip Package": "Monolithic"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 8th, 2024",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "Active",
+      "Launch Price": "329 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 4.0 x8",
+      "Reviews": "22 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1980 MHz",
+      "Game Clock": "2470 MHz",
+      "Boost Clock": "2755 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "288.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "64",
+      "Compute Units": "32",
+      "RT Cores": "32",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB",
+      "L3 Cache": "32 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "176.3 GPixel/s",
+      "Texture Rate": "352.6 GTexel/s",
+      "FP16 (half)": "45.14 TFLOPS (2:1)",
+      "FP32 (float)": "22.57 TFLOPS",
+      "FP64 (double)": "705.3 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "204 mm 8 inches",
+      "Width": "115 mm 4.5 inches",
+      "TDP": "190 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.1a 3x DisplayPort 2.1",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 33 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (10)": {}
+  },
+  "Radeon PRO W7700": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 32",
+      "Codename": "Wheat Nas",
+      "GPU Variant": "Navi 32",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "28,100 million",
+      "Density": "81.2M / mm²",
+      "Die Size": "346 mm²",
+      "GCD Size": "200mm²",
+      "MCD Size": "36.6 mm² x4",
+      "Chip Package": "MCM",
+      "Package Size": "40mm × 40mm"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 13th, 2023",
+      "Availability": "2023",
+      "Generation": "Radeon Pro Navi (Navi III Series)",
+      "Predecessor": "Radeon Pro Vega",
+      "Production": "unknown",
+      "Launch Price": "999 USD",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1900 MHz",
+      "Boost Clock": "2600 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "576.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3072",
+      "TMUs": "192",
+      "ROPs": "96",
+      "Compute Units": "48",
+      "RT Cores": "48",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB",
+      "L3 Cache": "64 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "249.6 GPixel/s",
+      "Texture Rate": "499.2 GTexel/s",
+      "FP16 (half)": "63.90 TFLOPS (2:1)",
+      "FP32 (float)": "31.95 TFLOPS",
+      "FP64 (double)": "998.4 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "190 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "4x DisplayPort 2.1",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 32 GPU Notes": {}
+  },
+  "Radeon RX 7500 XT": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 33",
+      "Codename": "Hotpink Bonefish",
+      "GPU Variant": "Navi 33",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "6 nm",
+      "Transistors": "13,300 million",
+      "Density": "65.2M / mm²",
+      "Die Size": "204 mm²",
+      "Chip Package": "Monolithic"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "unknown",
+      "Bus Interface": "PCIe 4.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1452 MHz",
+      "Game Clock": "2200 MHz",
+      "Boost Clock": "2300 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "96 bit",
+      "Bandwidth": "216.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "32",
+      "Compute Units": "16",
+      "RT Cores": "16",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB",
+      "L3 Cache": "64 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "73.60 GPixel/s",
+      "Texture Rate": "147.2 GTexel/s",
+      "FP16 (half)": "18.84 TFLOPS (2:1)",
+      "FP32 (float)": "9.421 TFLOPS",
+      "FP64 (double)": "294.4 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "100 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x HDMI 2.1a 2x DisplayPort 2.1 1x USB Type-C",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "Navi 33 GPU Notes": {}
+  },
+  "Radeon RX 7990 XTX": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 31",
+      "Codename": "Plum Bonito",
+      "GPU Variant": "Navi 31 XTX+",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "57,700 million",
+      "GCD Transistors": "45,700 million",
+      "MCD Transistors": "2,050 million x6",
+      "Density": "109.1M / mm²",
+      "GCD Density": "150.2M / mm²",
+      "MCD Density": "54.64M / mm²",
+      "Die Size": "529 mm²",
+      "GCD Die Size": "304.35 mm²",
+      "MCD Die Size": "37.52 mm² x6",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x16",
+      "Reviews": "43 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2500 MHz",
+      "Shader Clock": "3300 MHz",
+      "Game Clock": "3300 MHz",
+      "Boost Clock": "3599 MHz",
+      "Memory Clock": "3000 MHz 24 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "24 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "1.15 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "6144",
+      "TMUs": "384",
+      "ROPs": "192",
+      "Compute Units": "96",
+      "RT Cores": "96",
+      "L0 Cache": "64 KB per WGP",
+      "L1 Cache": "256 KB per Array",
+      "L2 Cache": "6 MB",
+      "L3 Cache": "192 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "691.0 GPixel/s",
+      "Texture Rate": "1,382.0 GTexel/s",
+      "FP16 (half)": "176.9 TFLOPS (2:1)",
+      "FP32 (float)": "88.45 TFLOPS",
+      "FP64 (double)": "2.764 TFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Triple-slot",
+      "Length": "287 mm 11.3 inches",
+      "Width": "135 mm 5.3 inches",
+      "Height": "50 mm 2 inches",
+      "TDP": "405 W",
+      "Suggested PSU": "800 W",
+      "Outputs": "1x HDMI 2.1a 2x DisplayPort 2.1 1x USB Type-C",
+      "Power Connectors": "3x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "Navi 31 GPU Notes": {}
+  },
+  "Ryzen Z1 GPU": {
+    "Graphics Processor": {
+      "GPU Name": "Phoenix",
+      "GPU Variant": "100-000001280",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "4 nm",
+      "Transistors": "25,390 million",
+      "Density": "142.6M / mm²",
+      "Die Size": "178 mm²",
+      "Chip Package": "FP8"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 18th, 2023",
+      "Announced": "Apr 25th, 2023",
+      "Generation": "Console GPU (AMD)",
+      "Production": "Active",
+      "Launch Price": "599 USD"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1500 MHz",
+      "Boost Clock": "2500 MHz",
+      "Memory Clock": "800 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "LPDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "25.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "256",
+      "TMUs": "16",
+      "ROPs": "8",
+      "Compute Units": "4",
+      "RT Cores": "4",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "6 MB",
+      "L3 Cache": "16 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "20.00 GPixel/s",
+      "Texture Rate": "40.00 GTexel/s",
+      "FP16 (half)": "5.120 TFLOPS (2:1)",
+      "FP32 (float)": "2.560 TFLOPS",
+      "FP64 (double)": "160.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Length": "280 mm 11 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "21 mm 0.8 inches",
+      "Weight": "608 g (1.34 lbs)",
+      "TDP": "30 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None",
+      "Storage": "256 GB / 512 GB PCIe 4.0 x4"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Console Notes": {},
+    "Phoenix GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon RX 7700 XT": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 32",
+      "Codename": "Wheat Nas",
+      "GPU Variant": "Navi 32 XL (215-180000076)",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "28,100 million",
+      "Density": "81.2M / mm²",
+      "Die Size": "346 mm²",
+      "GCD Size": "200mm²",
+      "MCD Size": "36.6 mm² x4",
+      "Chip Package": "MCM",
+      "Package Size": "40mm × 40mm"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 25th, 2023",
+      "Availability": "Sep 6th, 2023",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "Active",
+      "Launch Price": "449 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 4.0 x16",
+      "Reviews": "24 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1435 MHz",
+      "Game Clock": "2171 MHz",
+      "Boost Clock": "2544 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "432.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3456",
+      "TMUs": "216",
+      "ROPs": "96",
+      "Compute Units": "54",
+      "RT Cores": "54",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB",
+      "L3 Cache": "48 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "244.2 GPixel/s",
+      "Texture Rate": "549.5 GTexel/s",
+      "FP16 (half)": "70.34 TFLOPS (2:1)",
+      "FP32 (float)": "35.17 TFLOPS",
+      "FP64 (double)": "1,099.0 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "135 mm 5.3 inches",
+      "Height": "50 mm 2 inches",
+      "TDP": "245 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x HDMI 2.1a 2x DisplayPort 2.1 1x USB Type-C",
+      "Power Connectors": "2x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 32 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (24)": {}
+  },
+  "Radeon RX 7800 XT": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 32",
+      "Codename": "Wheat Nas",
+      "GPU Variant": "Navi 32 XT (215-180000006)",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "28,100 million",
+      "Density": "81.2M / mm²",
+      "Die Size": "346 mm²",
+      "GCD Size": "200mm²",
+      "MCD Size": "36.6 mm² x4",
+      "Chip Package": "MCM",
+      "Package Size": "40mm × 40mm"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 25th, 2023",
+      "Availability": "Sep  6th, 2023",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "Active",
+      "Launch Price": "499 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 4.0 x16",
+      "Reviews": "44 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1295 MHz",
+      "Game Clock": "2124 MHz",
+      "Boost Clock": "2430 MHz",
+      "Memory Clock": "2438 MHz 19.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "624.1 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3840",
+      "TMUs": "240",
+      "ROPs": "96",
+      "Compute Units": "60",
+      "RT Cores": "60",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "4 MB",
+      "L3 Cache": "64 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "233.3 GPixel/s",
+      "Texture Rate": "583.2 GTexel/s",
+      "FP16 (half)": "74.65 TFLOPS (2:1)",
+      "FP32 (float)": "37.32 TFLOPS",
+      "FP64 (double)": "1,166.4 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "50 mm 2 inches",
+      "TDP": "263 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 2.1a 3x DisplayPort 2.1",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "109-D712A7-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 32 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (29)": {}
+  },
+  "Radeon PRO W7500": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 33",
+      "Codename": "Hotpink Bonefish",
+      "GPU Variant": "Navi 33",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "6 nm",
+      "Transistors": "13,300 million",
+      "Density": "65.2M / mm²",
+      "Die Size": "204 mm²",
+      "Chip Package": "Monolithic"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 3rd, 2023",
+      "Generation": "Radeon Pro Navi (Navi III Series)",
+      "Predecessor": "Radeon Pro Vega",
+      "Production": "Active",
+      "Launch Price": "429 USD",
+      "Bus Interface": "PCIe 4.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1500 MHz",
+      "Boost Clock": "1700 MHz",
+      "Memory Clock": "1344 MHz 10.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "172.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "64",
+      "Compute Units": "28",
+      "RT Cores": "28",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB",
+      "L3 Cache": "32 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "108.8 GPixel/s",
+      "Texture Rate": "190.4 GTexel/s",
+      "FP16 (half)": "24.37 TFLOPS (2:1)",
+      "FP32 (float)": "12.19 TFLOPS",
+      "FP64 (double)": "380.8 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "216 mm 8.5 inches",
+      "Width": "115 mm 4.5 inches",
+      "TDP": "70 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "4x DisplayPort 2.1",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 33 GPU Notes": {}
+  },
+  "Radeon PRO W7600": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 33",
+      "Codename": "Hotpink Bonefish",
+      "GPU Variant": "Navi 33 XL (215-163000057)",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "6 nm",
+      "Transistors": "13,300 million",
+      "Density": "65.2M / mm²",
+      "Die Size": "204 mm²",
+      "Chip Package": "Monolithic"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 3rd, 2023",
+      "Generation": "Radeon Pro Navi (Navi III Series)",
+      "Predecessor": "Radeon Pro Vega",
+      "Production": "Active",
+      "Launch Price": "599 USD",
+      "Bus Interface": "PCIe 4.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1720 MHz",
+      "Boost Clock": "2440 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "288.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "64",
+      "Compute Units": "32",
+      "RT Cores": "32",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB",
+      "L3 Cache": "32 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "156.2 GPixel/s",
+      "Texture Rate": "312.3 GTexel/s",
+      "FP16 (half)": "39.98 TFLOPS (2:1)",
+      "FP32 (float)": "19.99 TFLOPS",
+      "FP64 (double)": "624.6 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "115 mm 4.5 inches",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "4x DisplayPort 2.1",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-D74987-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 33 GPU Notes": {}
+  },
+  "Radeon RX 7900 GRE": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 31",
+      "Codename": "Plum Bonito",
+      "GPU Variant": "Navi 31 XL (215-145000206)",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "57,700 million",
+      "GCD Transistors": "45,400 million",
+      "MCD Transistors": "2,050 million x6",
+      "Density": "109.1M / mm²",
+      "GCD Density": "150.2M / mm²",
+      "MCD Density": "54.64M / mm²",
+      "Die Size": "529 mm²",
+      "GCD Die Size": "304.35 mm²",
+      "MCD Die Size": "37.52 mm² x6",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 27th, 2023",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "Active",
+      "Launch Price": "549 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 4.0 x16",
+      "Reviews": "34 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1287 MHz",
+      "Shader Clock": "1880 MHz",
+      "Game Clock": "1880 MHz",
+      "Boost Clock": "2245 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "576.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "5120",
+      "TMUs": "320",
+      "ROPs": "160",
+      "Compute Units": "80",
+      "RT Cores": "80",
+      "L0 Cache": "64 KB per WGP",
+      "L1 Cache": "256 KB per Array",
+      "L2 Cache": "6 MB",
+      "L3 Cache": "64 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "359.2 GPixel/s",
+      "Texture Rate": "718.4 GTexel/s",
+      "FP16 (half)": "91.96 TFLOPS (2:1)",
+      "FP32 (float)": "45.98 TFLOPS",
+      "FP64 (double)": "1,436.8 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "276 mm 10.9 inches",
+      "Width": "110 mm 4.3 inches",
+      "Height": "51 mm 2 inches",
+      "TDP": "260 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 2.1a 2x DisplayPort 2.1 1x USB Type-C",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "109-D712A7-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 31 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (14)": {}
+  },
+  "Ryzen Z1 Extreme GPU": {
+    "Graphics Processor": {
+      "GPU Name": "Phoenix",
+      "GPU Variant": "100-000001278",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "4 nm",
+      "Transistors": "25,390 million",
+      "Density": "142.6M / mm²",
+      "Die Size": "178 mm²",
+      "Chip Package": "FP8"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 13th, 2023",
+      "Announced": "Apr 25th, 2023",
+      "Generation": "Console GPU (AMD)",
+      "Production": "Active",
+      "Launch Price": "699 USD"
+    },
+    "Clock Speeds": {
+      "Base Clock": "800 MHz",
+      "Boost Clock": "2700 MHz",
+      "Memory Clock": "800 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "LPDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "25.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "Compute Units": "12",
+      "RT Cores": "12",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "8 MB",
+      "L3 Cache": "16 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "86.40 GPixel/s",
+      "Texture Rate": "129.6 GTexel/s",
+      "FP16 (half)": "16.59 TFLOPS (2:1)",
+      "FP32 (float)": "8.294 TFLOPS",
+      "FP64 (double)": "518.4 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Length": "280 mm 11 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "21 mm 0.8 inches",
+      "Weight": "608 g (1.34 lbs)",
+      "TDP": "30 W",
+      "Outputs": "1x USB Type-C",
+      "Power Connectors": "None",
+      "Storage": "256 GB / 512 GB PCIe 4.0 x4"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Console Notes": {},
+    "Phoenix GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon RX 7600": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 33",
+      "Codename": "Hotpink Bonefish",
+      "GPU Variant": "Navi 33 XL (215-163000057)",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "6 nm",
+      "Transistors": "13,300 million",
+      "Density": "65.2M / mm²",
+      "Die Size": "204 mm²",
+      "Chip Package": "Monolithic"
+    },
+    "Graphics Card": {
+      "Release Date": "May 24th, 2023",
+      "Availability": "May 25th, 2023",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "Active",
+      "Launch Price": "269 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 4.0 x8",
+      "Reviews": "35 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1720 MHz",
+      "Game Clock": "2250 MHz",
+      "Boost Clock": "2655 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "288.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "64",
+      "Compute Units": "32",
+      "RT Cores": "32",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "2 MB",
+      "L3 Cache": "32 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "169.9 GPixel/s",
+      "Texture Rate": "339.8 GTexel/s",
+      "FP16 (half)": "43.50 TFLOPS (2:1)",
+      "FP32 (float)": "21.75 TFLOPS",
+      "FP64 (double)": "679.7 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "204 mm 8 inches",
+      "Width": "115 mm 4.5 inches",
+      "TDP": "165 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 2.1a 3x DisplayPort 2.1",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "109-D74557-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 33 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (25)": {}
+  },
+  "Radeon PRO W7800": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 31",
+      "Codename": "Plum Bonito",
+      "GPU Variant": "Navi 31",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "57,700 million",
+      "GCD Transistors": "45,400 million",
+      "MCD Transistors": "2,050 million x6",
+      "Density": "109.1M / mm²",
+      "GCD Density": "150.2M / mm²",
+      "MCD Density": "54.64M / mm²",
+      "Die Size": "529 mm²",
+      "GCD Die Size": "304.35 mm²",
+      "MCD Die Size": "37.52 mm² x6",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 13th, 2023",
+      "Availability": "2023",
+      "Generation": "Radeon Pro Navi (Navi III Series)",
+      "Predecessor": "Radeon Pro Vega",
+      "Production": "Active",
+      "Launch Price": "2,499 USD",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1895 MHz",
+      "Boost Clock": "2525 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "576.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4480",
+      "TMUs": "280",
+      "ROPs": "128",
+      "Compute Units": "70",
+      "RT Cores": "70",
+      "L0 Cache": "64 KB per WGP",
+      "L1 Cache": "256 KB per Array",
+      "L2 Cache": "6 MB",
+      "L3 Cache": "64 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "323.2 GPixel/s",
+      "Texture Rate": "707.0 GTexel/s",
+      "FP16 (half)": "90.50 TFLOPS (2:1)",
+      "FP32 (float)": "45.25 TFLOPS",
+      "FP64 (double)": "1,414.0 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "280 mm 11 inches",
+      "Width": "110 mm 4.3 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "260 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "3x DisplayPort 2.1 1x mini-DisplayPort 2.1",
+      "Power Connectors": "2x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 31 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon PRO W7800 48 GB": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 31",
+      "Codename": "Plum Bonito",
+      "GPU Variant": "Navi 31",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "57,700 million",
+      "GCD Transistors": "45,400 million",
+      "MCD Transistors": "2,050 million x6",
+      "Density": "109.1M / mm²",
+      "GCD Density": "150.2M / mm²",
+      "MCD Density": "54.64M / mm²",
+      "Die Size": "529 mm²",
+      "GCD Die Size": "304.35 mm²",
+      "MCD Die Size": "37.52 mm² x6",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 13th, 2023",
+      "Availability": "2023",
+      "Generation": "Radeon Pro Navi (Navi III Series)",
+      "Predecessor": "Radeon Pro Vega",
+      "Production": "Active",
+      "Launch Price": "2,499 USD",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1895 MHz",
+      "Boost Clock": "2525 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "48 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "864.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4480",
+      "TMUs": "280",
+      "ROPs": "128",
+      "Compute Units": "70",
+      "RT Cores": "70",
+      "L0 Cache": "64 KB per WGP",
+      "L1 Cache": "256 KB per Array",
+      "L2 Cache": "6 MB",
+      "L3 Cache": "96 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "323.2 GPixel/s",
+      "Texture Rate": "707.0 GTexel/s",
+      "FP16 (half)": "90.50 TFLOPS (2:1)",
+      "FP32 (float)": "45.25 TFLOPS",
+      "FP64 (double)": "1,414.0 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "280 mm 11 inches",
+      "Width": "110 mm 4.3 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "281 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "3x DisplayPort 2.1 1x mini-DisplayPort 2.1",
+      "Power Connectors": "2x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 31 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon PRO W7900": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 31",
+      "Codename": "Plum Bonito",
+      "GPU Variant": "Navi 31",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "57,700 million",
+      "GCD Transistors": "45,400 million",
+      "MCD Transistors": "2,050 million x6",
+      "Density": "109.1M / mm²",
+      "GCD Density": "150.2M / mm²",
+      "MCD Density": "54.64M / mm²",
+      "Die Size": "529 mm²",
+      "GCD Die Size": "304.35 mm²",
+      "MCD Die Size": "37.52 mm² x6",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 13th, 2023",
+      "Availability": "2023",
+      "Generation": "Radeon Pro Navi (Navi III Series)",
+      "Predecessor": "Radeon Pro Vega",
+      "Production": "Active",
+      "Launch Price": "3,999 USD",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1855 MHz",
+      "Boost Clock": "2495 MHz",
+      "Memory Clock": "2250 MHz 18 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "48 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "864.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "6144",
+      "TMUs": "384",
+      "ROPs": "192",
+      "Compute Units": "96",
+      "RT Cores": "96",
+      "L0 Cache": "64 KB per WGP",
+      "L1 Cache": "256 KB per Array",
+      "L2 Cache": "6 MB",
+      "L3 Cache": "96 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "479.0 GPixel/s",
+      "Texture Rate": "958.1 GTexel/s",
+      "FP16 (half)": "122.6 TFLOPS (2:1)",
+      "FP32 (float)": "61.32 TFLOPS",
+      "FP64 (double)": "1.916 TFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Triple-slot",
+      "Length": "280 mm 11 inches",
+      "Width": "110 mm 4.3 inches",
+      "Height": "51 mm 2 inches",
+      "TDP": "295 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "3x DisplayPort 2.1 1x mini-DisplayPort 2.1",
+      "Power Connectors": "2x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 31 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon RX 7900 XT": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 31",
+      "Codename": "Plum Bonito",
+      "GPU Variant": "Navi 31 XT (215-145000156)",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "57,700 million",
+      "GCD Transistors": "45,400 million",
+      "MCD Transistors": "2,050 million x6",
+      "Density": "109.1M / mm²",
+      "GCD Density": "150.2M / mm²",
+      "MCD Density": "54.64M / mm²",
+      "Die Size": "529 mm²",
+      "GCD Die Size": "304.35 mm²",
+      "MCD Die Size": "37.52 mm² x6",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 3rd, 2022",
+      "Availability": "Dec 13th, 2022",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "Active",
+      "Launch Price": "899 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 4.0 x16",
+      "Reviews": "23 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1387 MHz",
+      "Shader Clock": "2025 MHz",
+      "Game Clock": "2025 MHz",
+      "Boost Clock": "2394 MHz",
+      "Memory Clock": "2500 MHz 20 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "20 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "800.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "5376",
+      "TMUs": "336",
+      "ROPs": "192",
+      "Compute Units": "84",
+      "RT Cores": "84",
+      "L0 Cache": "64 KB per WGP",
+      "L1 Cache": "256 KB per Array",
+      "L2 Cache": "6 MB",
+      "L3 Cache": "80 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "459.6 GPixel/s",
+      "Texture Rate": "804.4 GTexel/s",
+      "FP16 (half)": "103.0 TFLOPS (2:1)",
+      "FP32 (float)": "51.48 TFLOPS",
+      "FP64 (double)": "1.609 TFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "276 mm 10.9 inches",
+      "Width": "110 mm 4.3 inches",
+      "Height": "51 mm 2 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "1x HDMI 2.1a 2x DisplayPort 2.1 1x USB Type-C",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "109-D704A7-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 31 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (30)": {}
+  },
+  "Radeon RX 7900 XTX": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 31",
+      "Codename": "Plum Bonito",
+      "GPU Variant": "Navi 31 XTX (215-145000146)",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "57,700 million",
+      "GCD Transistors": "45,400 million",
+      "MCD Transistors": "2,050 million x6",
+      "Density": "109.1M / mm²",
+      "GCD Density": "150.2M / mm²",
+      "MCD Density": "54.64M / mm²",
+      "Die Size": "529 mm²",
+      "GCD Die Size": "304.35 mm²",
+      "MCD Die Size": "37.52 mm² x6",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 3rd, 2022",
+      "Availability": "Dec 13th, 2022",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "Active",
+      "Launch Price": "999 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 4.0 x16",
+      "Reviews": "43 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1929 MHz",
+      "Shader Clock": "2365 MHz",
+      "Game Clock": "2365 MHz",
+      "Boost Clock": "2498 MHz",
+      "Memory Clock": "2500 MHz 20 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "24 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "960.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "6144",
+      "TMUs": "384",
+      "ROPs": "192",
+      "Compute Units": "96",
+      "RT Cores": "96",
+      "L0 Cache": "64 KB per WGP",
+      "L1 Cache": "256 KB per Array",
+      "L2 Cache": "6 MB",
+      "L3 Cache": "96 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "479.6 GPixel/s",
+      "Texture Rate": "959.2 GTexel/s",
+      "FP16 (half)": "122.8 TFLOPS (2:1)",
+      "FP32 (float)": "61.39 TFLOPS",
+      "FP64 (double)": "1.918 TFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "287 mm 11.3 inches",
+      "Width": "110 mm 4.3 inches",
+      "Height": "51 mm 2 inches",
+      "TDP": "355 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "1x HDMI 2.1a 2x DisplayPort 2.1 1x USB Type-C",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "109-D702A7-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 31 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (34)": {}
+  },
+  "Radeon RX 7950 XT": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 31",
+      "Codename": "Plum Bonito",
+      "GPU Variant": "Navi 31 XT+",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "57,700 million",
+      "GCD Transistors": "45,700 million",
+      "MCD Transistors": "2,050 million x6",
+      "Density": "109.1M / mm²",
+      "GCD Density": "150.2M / mm²",
+      "MCD Density": "54.64M / mm²",
+      "Die Size": "529 mm²",
+      "GCD Die Size": "304.35 mm²",
+      "MCD Die Size": "37.52 mm² x6",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2000 MHz",
+      "Shader Clock": "2600 MHz",
+      "Game Clock": "2600 MHz",
+      "Boost Clock": "3000 MHz",
+      "Memory Clock": "2500 MHz 20 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "20 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "800.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "5376",
+      "TMUs": "336",
+      "ROPs": "192",
+      "Compute Units": "84",
+      "RT Cores": "84",
+      "L0 Cache": "64 KB per WGP",
+      "L1 Cache": "256 KB per Array",
+      "L2 Cache": "6 MB",
+      "L3 Cache": "80 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "576.0 GPixel/s",
+      "Texture Rate": "1,008.0 GTexel/s",
+      "FP16 (half)": "129.0 TFLOPS (2:1)",
+      "FP32 (float)": "64.51 TFLOPS",
+      "FP64 (double)": "2.016 TFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "276 mm 10.9 inches",
+      "Width": "135 mm 5.3 inches",
+      "Height": "51 mm 2 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "1x HDMI 2.1a 2x DisplayPort 2.1 1x USB Type-C",
+      "Power Connectors": "2x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 31 GPU Notes": {}
+  },
+  "Radeon RX 7950 XTX": {
+    "Graphics Processor": {
+      "GPU Name": "Navi 31",
+      "Codename": "Plum Bonito",
+      "GPU Variant": "Navi 31 XTX+",
+      "Architecture": "RDNA 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "MCD Process": "6 nm",
+      "Process Type": "N5 / N6 FinFET",
+      "Transistors": "57,700 million",
+      "GCD Transistors": "45,700 million",
+      "MCD Transistors": "2,050 million x6",
+      "Density": "109.1M / mm²",
+      "GCD Density": "150.2M / mm²",
+      "MCD Density": "54.64M / mm²",
+      "Die Size": "529 mm²",
+      "GCD Die Size": "304.35 mm²",
+      "MCD Die Size": "37.52 mm² x6",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Navi III (RX 7000)",
+      "Predecessor": "Navi II",
+      "Successor": "Navi IV",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "2200 MHz",
+      "Shader Clock": "3000 MHz",
+      "Game Clock": "3000 MHz",
+      "Boost Clock": "3300 MHz",
+      "Memory Clock": "2500 MHz 20 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "24 GB",
+      "Memory Type": "GDDR6",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "960.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "6144",
+      "TMUs": "384",
+      "ROPs": "192",
+      "Compute Units": "96",
+      "RT Cores": "96",
+      "L0 Cache": "64 KB per WGP",
+      "L1 Cache": "256 KB per Array",
+      "L2 Cache": "6 MB",
+      "L3 Cache": "96 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "633.6 GPixel/s",
+      "Texture Rate": "1,267.2 GTexel/s",
+      "FP16 (half)": "162.2 TFLOPS (2:1)",
+      "FP32 (float)": "81.10 TFLOPS",
+      "FP64 (double)": "2.534 TFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "287 mm 11.3 inches",
+      "Width": "135 mm 5.3 inches",
+      "Height": "51 mm 2 inches",
+      "TDP": "355 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "1x HDMI 2.1a 2x DisplayPort 2.1 1x USB Type-C",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "D702-A7"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.2",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Navi 31 GPU Notes": {}
+  }
+}

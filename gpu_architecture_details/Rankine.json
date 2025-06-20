@@ -1,0 +1,2600 @@
+{
+  "Quadro NVS 55 PCI": {
+    "Graphics Processor": {
+      "GPU Name": "NV34B",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "494.5K / mm²",
+      "Die Size": "91 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "May 31st, 2005",
+      "Generation": "Quadro NVS",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "250 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "3.200 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Vertex Rate": "125.0 MVertices/s",
+      "Texture Rate": "1.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "10 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34B GPU Notes": {}
+  },
+  "GeForce FX 5700 EP": {
+    "Graphics Processor": {
+      "GPU Name": "NV36",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "82 million",
+      "Density": "616.5K / mm²",
+      "Die Size": "133 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 1st, 2004",
+      "Generation": "GeForce FX (5700)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "6 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "3.200 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.700 GPixel/s",
+      "Vertex Rate": "318.8 MVertices/s",
+      "Texture Rate": "1.700 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV36 GPU Notes": {}
+  },
+  "GeForce FX 5700 VE": {
+    "Graphics Processor": {
+      "GPU Name": "NV36",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "82 million",
+      "Density": "616.5K / mm²",
+      "Die Size": "133 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 1st, 2004",
+      "Generation": "GeForce FX (5700)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "6 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "250 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Vertex Rate": "187.5 MVertices/s",
+      "Texture Rate": "1.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV36 GPU Notes": {}
+  },
+  "Quadro FX 1300": {
+    "Graphics Processor": {
+      "GPU Name": "NV38",
+      "GPU Variant": "NV38 GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "135 million",
+      "Density": "652.2K / mm²",
+      "Die Size": "207 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 9th, 2004",
+      "Generation": "Quadro FX Rankine (x300)",
+      "Predecessor": "Quadro4 Celcius",
+      "Successor": "Quadro FX Curie",
+      "Production": "End-of-life",
+      "Launch Price": "599 USD",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "350 MHz",
+      "Memory Clock": "275 MHz 550 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "17.60 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.400 GPixel/s",
+      "Vertex Rate": "262.5 MVertices/s",
+      "Texture Rate": "2.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "55 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV38 GPU Notes": {}
+  },
+  "Quadro FX 330": {
+    "Graphics Processor": {
+      "GPU Name": "NV37",
+      "GPU Variant": "NV37 GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "494.5K / mm²",
+      "Die Size": "91 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 28th, 2004",
+      "Generation": "Quadro FX Rankine (x300)",
+      "Predecessor": "Quadro4 Celcius",
+      "Successor": "Quadro FX Curie",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "250 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "3.200 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Vertex Rate": "125.0 MVertices/s",
+      "Texture Rate": "1.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "21 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV37 GPU Notes": {}
+  },
+  "Quadro NVS 280 AGP": {
+    "Graphics Processor": {
+      "GPU Name": "NV34",
+      "GPU Variant": "NV34 GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "362.9K / mm²",
+      "Die Size": "124 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "May 25th, 2004",
+      "Generation": "Quadro NVS",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "275 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.100 GPixel/s",
+      "Vertex Rate": "137.5 MVertices/s",
+      "Texture Rate": "1.100 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "13 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DMS-59",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34 GPU Notes": {}
+  },
+  "Quadro NVS 280 PCIe": {
+    "Graphics Processor": {
+      "GPU Name": "NV37",
+      "GPU Variant": "NV37 GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "494.5K / mm²",
+      "Die Size": "91 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "May 25th, 2004",
+      "Generation": "Quadro NVS",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "275 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.100 GPixel/s",
+      "Vertex Rate": "137.5 MVertices/s",
+      "Texture Rate": "1.100 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "13 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DMS-59",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV37 GPU Notes": {}
+  },
+  "Quadro FX 1100": {
+    "Graphics Processor": {
+      "GPU Name": "NV36B",
+      "GPU Variant": "FX 1100",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "82 million",
+      "Density": "616.5K / mm²",
+      "Die Size": "133 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 1st, 2004",
+      "Generation": "Quadro FX Rankine (x100)",
+      "Predecessor": "Quadro4 Celcius",
+      "Successor": "Quadro FX Curie",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "325 MHz 650 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "10.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.700 GPixel/s",
+      "Vertex Rate": "318.8 MVertices/s",
+      "Texture Rate": "1.700 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV36B GPU Notes": {}
+  },
+  "GeForce FX 5500": {
+    "Graphics Processor": {
+      "GPU Name": "NV34B",
+      "GPU Variant": "FX 5500",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "494.5K / mm²",
+      "Die Size": "91 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 17th, 2004",
+      "Generation": "GeForce FX (5500)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "270 MHz",
+      "Memory Clock": "166 MHz 332 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "5.312 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.080 GPixel/s",
+      "Vertex Rate": "135.0 MVertices/s",
+      "Texture Rate": "1.080 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "152 mm 6 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "Card Notes": {},
+    "NV34B GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (3)": {}
+  },
+  "GeForce FX 5500 PCI": {
+    "Graphics Processor": {
+      "GPU Name": "NV34B",
+      "GPU Variant": "FX 5500 NPB",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "494.5K / mm²",
+      "Die Size": "91 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 17th, 2004",
+      "Generation": "GeForce FX (5500)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "270 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.080 GPixel/s",
+      "Vertex Rate": "135.0 MVertices/s",
+      "Texture Rate": "1.080 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "165 mm 6.5 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34B GPU Notes": {}
+  },
+  "Quadro FX 600 PCI": {
+    "Graphics Processor": {
+      "GPU Name": "NV34",
+      "GPU Variant": "NV34 GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "362.9K / mm²",
+      "Die Size": "124 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 17th, 2004",
+      "Generation": "Quadro FX Rankine (x000)",
+      "Predecessor": "Quadro4 Celcius",
+      "Successor": "Quadro FX Curie",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "270 MHz",
+      "Memory Clock": "240 MHz 480 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "7.680 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.080 GPixel/s",
+      "Vertex Rate": "135.0 MVertices/s",
+      "Texture Rate": "1.080 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "165 mm 6.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34 GPU Notes": {}
+  },
+  "Quadro FX 700": {
+    "Graphics Processor": {
+      "GPU Name": "NV35",
+      "GPU Variant": "NV35 GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "135 million",
+      "Density": "652.2K / mm²",
+      "Die Size": "207 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 17th, 2004",
+      "Generation": "Quadro FX Rankine (x000)",
+      "Predecessor": "Quadro4 Celcius",
+      "Successor": "Quadro FX Curie",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "275 MHz",
+      "Memory Clock": "275 MHz 550 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.800 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.100 GPixel/s",
+      "Vertex Rate": "206.3 MVertices/s",
+      "Texture Rate": "2.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "229 mm 9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV35 GPU Notes": {}
+  },
+  "GeForce FX 5700 LE": {
+    "Graphics Processor": {
+      "GPU Name": "NV36",
+      "GPU Variant": "FX 5700LE",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "82 million",
+      "Density": "616.5K / mm²",
+      "Die Size": "133 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2004",
+      "Generation": "GeForce FX (5700)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "6 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "250 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "3.200 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Vertex Rate": "187.5 MVertices/s",
+      "Texture Rate": "1.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "Card Notes": {},
+    "NV36 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "GeForce PCX 5300": {
+    "Graphics Processor": {
+      "GPU Name": "NV37",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "494.5K / mm²",
+      "Die Size": "91 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 17th, 2004",
+      "Generation": "GeForce PCX",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "250 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Vertex Rate": "125.0 MVertices/s",
+      "Texture Rate": "1.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV37 GPU Notes": {}
+  },
+  "GeForce PCX 5750": {
+    "Graphics Processor": {
+      "GPU Name": "NV39",
+      "GPU Variant": "FX 5700",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "82 million",
+      "Density": "656.0K / mm²",
+      "Die Size": "125 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 17th, 2004",
+      "Generation": "GeForce PCX",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "8 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "275 MHz 550 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.800 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.700 GPixel/s",
+      "Vertex Rate": "318.8 MVertices/s",
+      "Texture Rate": "1.700 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV39 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce PCX 5950": {
+    "Graphics Processor": {
+      "GPU Name": "NV38",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "135 million",
+      "Density": "652.2K / mm²",
+      "Die Size": "207 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 17th, 2004",
+      "Generation": "GeForce PCX",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "475 MHz",
+      "Memory Clock": "425 MHz 850 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "27.20 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.900 GPixel/s",
+      "Vertex Rate": "356.3 MVertices/s",
+      "Texture Rate": "3.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "57 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV38 GPU Notes": {}
+  },
+  "Quadro NVS 280 PCI": {
+    "Graphics Processor": {
+      "GPU Name": "NV34B",
+      "GPU Variant": "NV34 GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "494.5K / mm²",
+      "Die Size": "91 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 28th, 2003",
+      "Generation": "Quadro NVS",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "275 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "4.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.100 GPixel/s",
+      "Vertex Rate": "137.5 MVertices/s",
+      "Texture Rate": "1.100 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "13 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DMS-59",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34B GPU Notes": {}
+  },
+  "GeForce FX 5700": {
+    "Graphics Processor": {
+      "GPU Name": "NV36B",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "82 million",
+      "Density": "616.5K / mm²",
+      "Die Size": "133 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 23rd, 2003",
+      "Generation": "GeForce FX (5700)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "6 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.700 GPixel/s",
+      "Vertex Rate": "318.8 MVertices/s",
+      "Texture Rate": "1.700 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "25 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "Card Notes": {},
+    "NV36B GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce FX 5700 Ultra": {
+    "Graphics Processor": {
+      "GPU Name": "NV36B",
+      "GPU Variant": "FX 5700 Ultra",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "82 million",
+      "Density": "616.5K / mm²",
+      "Die Size": "133 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 23rd, 2003",
+      "Generation": "GeForce FX (5700)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "6 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "475 MHz",
+      "Memory Clock": "453 MHz 906 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "14.50 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.900 GPixel/s",
+      "Vertex Rate": "356.3 MVertices/s",
+      "Texture Rate": "1.900 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "229 mm 9 inches",
+      "TDP": "46 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV36B GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "GeForce FX 5900 Ultra": {
+    "Graphics Processor": {
+      "GPU Name": "NV35",
+      "GPU Variant": "FX 5900 Ultra",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "135 million",
+      "Density": "652.2K / mm²",
+      "Die Size": "207 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 23rd, 2003",
+      "Generation": "GeForce FX (5900)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "11 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "450 MHz",
+      "Memory Clock": "425 MHz 850 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "27.20 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.800 GPixel/s",
+      "Vertex Rate": "337.5 MVertices/s",
+      "Texture Rate": "3.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "218 mm 8.6 inches",
+      "TDP": "59 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex",
+      "Board Number": "P172"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV35 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce FX 5950 Ultra": {
+    "Graphics Processor": {
+      "GPU Name": "NV38",
+      "GPU Variant": "FX 5950 Ultra",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "135 million",
+      "Density": "652.2K / mm²",
+      "Die Size": "207 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 23rd, 2003",
+      "Generation": "GeForce FX (5900)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "475 MHz",
+      "Memory Clock": "475 MHz 950 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "30.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.900 GPixel/s",
+      "Vertex Rate": "356.3 MVertices/s",
+      "Texture Rate": "3.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "229 mm 9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "74 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV38 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (3)": {}
+  },
+  "GeForce FX 5700 Engineering Sample": {
+    "Graphics Processor": {
+      "GPU Name": "NV36S",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "82 million",
+      "Density": "616.5K / mm²",
+      "Die Size": "133 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 18th, 2003",
+      "Generation": "GeForce FX (5700)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "6 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "425 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.700 GPixel/s",
+      "Vertex Rate": "318.8 MVertices/s",
+      "Texture Rate": "1.700 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "25 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV36S GPU Notes": {}
+  },
+  "Quadro FX 3000": {
+    "Graphics Processor": {
+      "GPU Name": "NV35",
+      "GPU Variant": "NV35 GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "135 million",
+      "Density": "652.2K / mm²",
+      "Die Size": "207 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 22nd, 2003",
+      "Generation": "Quadro FX Rankine (x000)",
+      "Predecessor": "Quadro4 Celcius",
+      "Successor": "Quadro FX Curie",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "425 MHz 850 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "27.20 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "229 mm 9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x Molex",
+      "Board Number": "P171"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV35 GPU Notes": {}
+  },
+  "Quadro FX 3000G": {
+    "Graphics Processor": {
+      "GPU Name": "NV35",
+      "GPU Variant": "NV35 GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "135 million",
+      "Density": "652.2K / mm²",
+      "Die Size": "207 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 22nd, 2003",
+      "Generation": "Quadro FX Rankine (x000)",
+      "Predecessor": "Quadro4 Celcius",
+      "Successor": "Quadro FX Curie",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "425 MHz 850 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "27.20 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "229 mm 9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video 1x SDI",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "Card Notes": {},
+    "NV35 GPU Notes": {}
+  },
+  "Quadro FX 500": {
+    "Graphics Processor": {
+      "GPU Name": "NV34",
+      "GPU Variant": "NV34 GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "362.9K / mm²",
+      "Die Size": "124 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "May 21st, 2003",
+      "Generation": "Quadro FX Rankine (x000)",
+      "Predecessor": "Quadro4 Celcius",
+      "Successor": "Quadro FX Curie",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "270 MHz",
+      "Memory Clock": "240 MHz 480 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "7.680 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.080 GPixel/s",
+      "Vertex Rate": "135.0 MVertices/s",
+      "Texture Rate": "1.080 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "152 mm 6 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34 GPU Notes": {}
+  },
+  "GeForce FX 5900": {
+    "Graphics Processor": {
+      "GPU Name": "NV35",
+      "GPU Variant": "FX 5900",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "135 million",
+      "Density": "652.2K / mm²",
+      "Die Size": "207 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "May 12th, 2003",
+      "Generation": "GeForce FX (5900)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Launch Price": "399 USD",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "11 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "425 MHz 850 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "27.20 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "218 mm 8.6 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV35 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (3)": {}
+  },
+  "GeForce FX 5900 XT": {
+    "Graphics Processor": {
+      "GPU Name": "NV35",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "135 million",
+      "Density": "652.2K / mm²",
+      "Die Size": "207 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "May 12th, 2003",
+      "Generation": "GeForce FX (5900)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "11 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "350 MHz 700 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "22.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "35 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV35 GPU Notes": {}
+  },
+  "GeForce FX 5900 ZT": {
+    "Graphics Processor": {
+      "GPU Name": "NV35",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "135 million",
+      "Density": "652.2K / mm²",
+      "Die Size": "207 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "May 12th, 2003",
+      "Generation": "GeForce FX (5900)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "11 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "325 MHz",
+      "Memory Clock": "350 MHz 700 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "22.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.300 GPixel/s",
+      "Vertex Rate": "243.8 MVertices/s",
+      "Texture Rate": "2.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV35 GPU Notes": {}
+  },
+  "GeForce FX 5200 LE": {
+    "Graphics Processor": {
+      "GPU Name": "NV34",
+      "GPU Variant": "NV34 5200",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "362.9K / mm²",
+      "Die Size": "124 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 17th, 2003",
+      "Generation": "GeForce FX (5200)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "250 MHz",
+      "Memory Clock": "166 MHz 332 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "2.656 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Vertex Rate": "125.0 MVertices/s",
+      "Texture Rate": "1.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34 GPU Notes": {}
+  },
+  "GeForce FX 5600 Ultra": {
+    "Graphics Processor": {
+      "GPU Name": "NV31",
+      "GPU Variant": "GF-FX-5600-U-A1",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "80 million",
+      "Density": "661.2K / mm²",
+      "Die Size": "121 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 17th, 2003",
+      "Generation": "GeForce FX (5600)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "2 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "200.0 MVertices/s",
+      "Texture Rate": "1.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "190 mm 7.5 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV31 GPU Notes": {}
+  },
+  "GeForce FX 5600 XT": {
+    "Graphics Processor": {
+      "GPU Name": "NV31",
+      "GPU Variant": "NV31 5600 XT",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "80 million",
+      "Density": "661.2K / mm²",
+      "Die Size": "121 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 17th, 2003",
+      "Generation": "GeForce FX (5600)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "2 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "235 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "940.0 MPixel/s",
+      "Vertex Rate": "117.5 MVertices/s",
+      "Texture Rate": "940.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV31 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce FX 5600 XT PCI": {
+    "Graphics Processor": {
+      "GPU Name": "NV31",
+      "GPU Variant": "NV31 5600 XT",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "80 million",
+      "Density": "661.2K / mm²",
+      "Die Size": "121 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 17th, 2003",
+      "Generation": "GeForce FX (5600)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "2 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "235 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "940.0 MPixel/s",
+      "Vertex Rate": "117.5 MVertices/s",
+      "Texture Rate": "940.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV31 GPU Notes": {}
+  },
+  "GeForce PCX 5900": {
+    "Graphics Processor": {
+      "GPU Name": "NV35",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "135 million",
+      "Density": "652.2K / mm²",
+      "Die Size": "207 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 17th, 2003",
+      "Generation": "GeForce PCX",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 PCIe",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "11 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "350 MHz",
+      "Memory Clock": "275 MHz 550 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "17.60 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.400 GPixel/s",
+      "Vertex Rate": "262.5 MVertices/s",
+      "Texture Rate": "2.800 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "Card Notes": {},
+    "NV35 GPU Notes": {}
+  },
+  "GeForce FX 5100": {
+    "Graphics Processor": {
+      "GPU Name": "NV34",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "362.9K / mm²",
+      "Die Size": "124 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 6th, 2003",
+      "Generation": "GeForce FX (5100)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "200 MHz",
+      "Memory Clock": "166 MHz 332 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "2.656 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "800.0 MPixel/s",
+      "Vertex Rate": "100.0 MVertices/s",
+      "Texture Rate": "800.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34 GPU Notes": {}
+  },
+  "GeForce FX 5200": {
+    "Graphics Processor": {
+      "GPU Name": "NV34",
+      "GPU Variant": "NV34 5200",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "362.9K / mm²",
+      "Die Size": "124 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 6th, 2003",
+      "Generation": "GeForce FX (5200)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "250 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Vertex Rate": "125.0 MVertices/s",
+      "Texture Rate": "1.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (5)": {}
+  },
+  "GeForce FX 5200 PCI": {
+    "Graphics Processor": {
+      "GPU Name": "NV34B",
+      "GPU Variant": "FX 5200 NPB",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "494.5K / mm²",
+      "Die Size": "91 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 6th, 2003",
+      "Generation": "GeForce FX (5200)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "250 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "256 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Vertex Rate": "125.0 MVertices/s",
+      "Texture Rate": "1.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "152 mm 6 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34B GPU Notes": {}
+  },
+  "GeForce FX 5200 Rev. 2": {
+    "Graphics Processor": {
+      "GPU Name": "NV34B",
+      "GPU Variant": "FX 5200",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "494.5K / mm²",
+      "Die Size": "91 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 6th, 2003",
+      "Generation": "GeForce FX (5200)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "250 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "3.200 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Vertex Rate": "125.0 MVertices/s",
+      "Texture Rate": "1.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34B GPU Notes": {}
+  },
+  "GeForce FX 5200 Ultra": {
+    "Graphics Processor": {
+      "GPU Name": "NV34",
+      "GPU Variant": "NV34 5200 Ultra",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "362.9K / mm²",
+      "Die Size": "124 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 6th, 2003",
+      "Generation": "GeForce FX (5200)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Launch Price": "149 USD",
+      "Bus Interface": "AGP 8x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "325 MHz",
+      "Memory Clock": "325 MHz 650 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "10.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.300 GPixel/s",
+      "Vertex Rate": "162.5 MVertices/s",
+      "Texture Rate": "1.300 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "171 mm 6.7 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34 GPU Notes": {}
+  },
+  "GeForce FX 5200 Ultra Mac Edition": {
+    "Graphics Processor": {
+      "GPU Name": "NV34",
+      "GPU Variant": "NV34 5200 Ultra",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "45 million",
+      "Density": "362.9K / mm²",
+      "Die Size": "124 mm²",
+      "Chip Package": "BGA-555"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 6th, 2003",
+      "Generation": "GeForce FX (5200)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP Pro 8x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "325 MHz",
+      "Memory Clock": "325 MHz 650 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "10.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.300 GPixel/s",
+      "Vertex Rate": "162.5 MVertices/s",
+      "Texture Rate": "1.300 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "171 mm 6.7 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV34 GPU Notes": {}
+  },
+  "GeForce FX 5600": {
+    "Graphics Processor": {
+      "GPU Name": "NV31",
+      "GPU Variant": "NV31 5600",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "80 million",
+      "Density": "661.2K / mm²",
+      "Die Size": "121 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 6th, 2003",
+      "Generation": "GeForce FX (5600)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "2 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "325 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.300 GPixel/s",
+      "Vertex Rate": "162.5 MVertices/s",
+      "Texture Rate": "1.300 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "37 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV31 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce FX 5800": {
+    "Graphics Processor": {
+      "GPU Name": "NV30",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "125 million",
+      "Density": "628.1K / mm²",
+      "Die Size": "199 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 6th, 2003",
+      "Generation": "GeForce FX (5800)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Launch Price": "299 USD",
+      "Bus Interface": "AGP 8x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "213 mm 8.4 inches",
+      "TDP": "44 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV30 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce FX 5800 Ultra": {
+    "Graphics Processor": {
+      "GPU Name": "NV30",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "125 million",
+      "Density": "628.1K / mm²",
+      "Die Size": "199 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 6th, 2003",
+      "Generation": "GeForce FX (5800)",
+      "Predecessor": "GeForce 4 Ti",
+      "Successor": "GeForce 6 AGP",
+      "Production": "End-of-life",
+      "Launch Price": "399 USD",
+      "Bus Interface": "AGP 8x"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "500 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "GDDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "16.00 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.000 GPixel/s",
+      "Vertex Rate": "375.0 MVertices/s",
+      "Texture Rate": "4.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "213 mm 8.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV30 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Quadro FX 1000": {
+    "Graphics Processor": {
+      "GPU Name": "NV30",
+      "GPU Variant": "NV30GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "125 million",
+      "Density": "628.1K / mm²",
+      "Die Size": "199 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 21st, 2003",
+      "Generation": "Quadro FX Rankine (x000)",
+      "Predecessor": "Quadro4 Celcius",
+      "Successor": "Quadro FX Curie",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "300 MHz",
+      "Memory Clock": "300 MHz 600 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "9.600 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.200 GPixel/s",
+      "Vertex Rate": "225.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "229 mm 9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV30 GPU Notes": {}
+  },
+  "Quadro FX 2000": {
+    "Graphics Processor": {
+      "GPU Name": "NV30",
+      "GPU Variant": "NV30GL",
+      "Architecture": "Rankine",
+      "Foundry": "TSMC",
+      "Process Size": "130 nm",
+      "Transistors": "125 million",
+      "Density": "628.1K / mm²",
+      "Die Size": "199 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 21st, 2003",
+      "Generation": "Quadro FX Rankine (x000)",
+      "Predecessor": "Quadro4 Celcius",
+      "Successor": "Quadro FX Curie",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "400 MHz",
+      "Memory Clock": "400 MHz 800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR2",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "12.80 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "3",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.600 GPixel/s",
+      "Vertex Rate": "300.0 MVertices/s",
+      "Texture Rate": "3.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "229 mm 9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "1x Molex"
+    },
+    "Graphics Features": {
+      "DirectX": "9.0a",
+      "OpenGL": "1.5 (full) 2.0 (partial)",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "2.0a",
+      "Vertex Shader": "2.0a"
+    },
+    "NV30 GPU Notes": {}
+  }
+}

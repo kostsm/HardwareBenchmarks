@@ -1,0 +1,57 @@
+{
+  "Playstation Vita GPU": {
+    "Graphics Processor": {
+      "GPU Name": "SGX543 MP4+",
+      "GPU Variant": "CXD5315GG",
+      "Architecture": "PowerVR Series5XT",
+      "Foundry": "Samsung",
+      "Process Size": "32 nm",
+      "Transistors": "unknown",
+      "Die Size": "6 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 11th, 2011",
+      "Generation": "Console GPU (Sony)",
+      "Production": "End-of-life",
+      "Launch Price": "249 USD"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "200 MHz",
+      "Memory Clock": "400 MHz"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "CDRAM",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "3.200 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "800.0 MPixel/s",
+      "Vertex Rate": "100.0 MVertices/s",
+      "Texture Rate": "1.600 GTexel/s"
+    },
+    "Board Design": {
+      "Length": "182 mm 7.2 inches",
+      "Width": "19 mm 0.7 inches",
+      "Height": "84 mm 3.3 inches",
+      "Weight": "260 g (0.57 lbs)",
+      "TDP": "4 W",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "10.1",
+      "OpenGL": "ES 2.0",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "4.1"
+    },
+    "Console Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (3)": {}
+  }
+}

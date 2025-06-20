@@ -1,0 +1,1166 @@
+{
+  "Radeon 625 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Polaris 24",
+      "GPU Variant": "Polaris 24 XT (216-0915006)",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,550 million",
+      "Density": "12.4M / mm²",
+      "Die Size": "125 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "May 13th, 2019",
+      "Generation": "Polaris (RX 600)",
+      "Predecessor": "Polaris",
+      "Successor": "Vega",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1024 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "36.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.192 GPixel/s",
+      "Texture Rate": "24.58 GTexel/s",
+      "FP16 (half)": "786.4 GFLOPS (1:1)",
+      "FP32 (float)": "786.4 GFLOPS",
+      "FP64 (double)": "49.15 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "35 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Polaris 24 GPU Notes": {}
+  },
+  "Radeon R5 Graphics": {
+    "Graphics Processor": {
+      "GPU Name": "Wani",
+      "Architecture": "GCN 3.0",
+      "Foundry": "GlobalFoundries",
+      "Process Size": "28 nm",
+      "Transistors": "1,200 million",
+      "Density": "9.6M / mm²",
+      "Die Size": "125 mm²",
+      "Chip Package": "µPGA / µBGA"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Sep 5th, 2017",
+      "Generation": "GCN 3.0 IGP (Bristol Ridge)",
+      "Predecessor": "GCN 2.0 IGP",
+      "Successor": "Vega IGP",
+      "Production": "End-of-life",
+      "Bus Interface": "IGP"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "200 MHz",
+      "Boost Clock": "900 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.200 GPixel/s",
+      "Texture Rate": "21.60 GTexel/s",
+      "FP16 (half)": "691.2 GFLOPS (1:1)",
+      "FP32 (float)": "691.2 GFLOPS",
+      "FP64 (double)": "345.6 GFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "15 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Wani GPU Notes": {}
+  },
+  "Radeon Instinct MI8": {
+    "Graphics Processor": {
+      "GPU Name": "Fiji",
+      "GPU Variant": "Fiji XT CA (215-0862120)",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,900 million",
+      "Density": "14.9M / mm²",
+      "Die Size": "596 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 12th, 2016",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1000 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "HBM",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "512.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4096",
+      "TMUs": "256",
+      "ROPs": "64",
+      "Compute Units": "64",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "64.00 GPixel/s",
+      "Texture Rate": "256.0 GTexel/s",
+      "FP16 (half)": "8.192 TFLOPS (1:1)",
+      "FP32 (float)": "8.192 TFLOPS",
+      "FP64 (double)": "512.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "152 mm 6 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "175 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Fiji GPU Notes": {}
+  },
+  "Radeon Pro SSG": {
+    "Graphics Processor": {
+      "GPU Name": "Fiji",
+      "GPU Variant": "Fiji XT C0/CC",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,900 million",
+      "Density": "14.9M / mm²",
+      "Die Size": "596 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 26th, 2016",
+      "Generation": "Radeon Pro GCN",
+      "Predecessor": "FirePro GCN",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "Active",
+      "Launch Price": "9,999 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1050 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "HBM",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "512.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4096",
+      "TMUs": "256",
+      "ROPs": "64",
+      "Compute Units": "64",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "67.20 GPixel/s",
+      "Texture Rate": "268.8 GTexel/s",
+      "FP16 (half)": "17.20 TFLOPS (2:1)",
+      "FP32 (float)": "8.602 TFLOPS",
+      "FP64 (double)": "537.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "260 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 1.4a 3x mini-DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "109-D06937-00B_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Card Notes": {},
+    "Fiji GPU Notes": {}
+  },
+  "Radeon Pro Duo": {
+    "Graphics Processor": {
+      "GPU Name": "Capsaicin",
+      "GPU Variant": "Capsaicin XT C9",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,900 million",
+      "Density": "14.9M / mm²",
+      "Die Size": "596 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 26th, 2016",
+      "Generation": "Radeon Pro GCN",
+      "Predecessor": "FirePro GCN",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Launch Price": "1,499 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "6 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1000 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "HBM",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "512.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4096",
+      "TMUs": "256",
+      "ROPs": "64",
+      "Compute Units": "64",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "64.00 GPixel/s",
+      "Texture Rate": "256.0 GTexel/s",
+      "FP16 (half)": "8.192 TFLOPS (1:1)",
+      "FP32 (float)": "8.192 TFLOPS",
+      "FP64 (double)": "512.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "277 mm 10.9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "350 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "1x HDMI 1.4a 3x DisplayPort 1.2",
+      "Power Connectors": "3x 8-pin",
+      "Board Number": "109-C88837-00C_02, 109-C88837-01_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Capsaicin GPU Notes": {}
+  },
+  "FirePro S9300 X2": {
+    "Graphics Processor": {
+      "GPU Name": "Capsaicin",
+      "GPU Variant": "Capsaicin XT C1",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,900 million",
+      "Density": "14.9M / mm²",
+      "Die Size": "596 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 31st, 2016",
+      "Generation": "FirePro Server (Sx300)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro GCN",
+      "Production": "End-of-life",
+      "Launch Price": "5,999 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "975 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "HBM",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "512.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4096",
+      "TMUs": "256",
+      "ROPs": "64",
+      "Compute Units": "64",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "62.40 GPixel/s",
+      "Texture Rate": "249.6 GTexel/s",
+      "FP32 (float)": "7.987 TFLOPS",
+      "FP64 (double)": "499.2 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "109-C99337-00_03"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Capsaicin GPU Notes": {}
+  },
+  "FirePro S7150": {
+    "Graphics Processor": {
+      "GPU Name": "Tonga",
+      "GPU Variant": "Tonga XT GL",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,000 million",
+      "Density": "13.7M / mm²",
+      "Die Size": "366 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 1st, 2016",
+      "Generation": "FirePro Server (Sx100)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro GCN",
+      "Production": "End-of-life",
+      "Launch Price": "2,399 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "920 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.44 GPixel/s",
+      "Texture Rate": "117.8 GTexel/s",
+      "FP16 (half)": "7.537 TFLOPS (2:1)",
+      "FP32 (float)": "3.768 TFLOPS",
+      "FP64 (double)": "235.5 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Tonga GPU Notes": {}
+  },
+  "FirePro S7150 x2": {
+    "Graphics Processor": {
+      "GPU Name": "Tonga",
+      "GPU Variant": "Cloudy Tau",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,000 million",
+      "Density": "13.7M / mm²",
+      "Die Size": "366 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 1st, 2016",
+      "Generation": "FirePro Server (Sx100)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro GCN",
+      "Production": "End-of-life",
+      "Launch Price": "3,999 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "920 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.44 GPixel/s",
+      "Texture Rate": "103.0 GTexel/s",
+      "FP16 (half)": "3.297 TFLOPS (1:1)",
+      "FP32 (float)": "3.297 TFLOPS",
+      "FP64 (double)": "206.1 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "265 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "C763"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Tonga GPU Notes": {}
+  },
+  "Radeon R9 380X": {
+    "Graphics Processor": {
+      "GPU Name": "Antigua",
+      "GPU Variant": "Antigua XT (215-0877016)",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,000 million",
+      "Density": "13.7M / mm²",
+      "Die Size": "366 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 19th, 2015",
+      "Generation": "Pirate Islands (R9 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Launch Price": "229 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "36 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "970 MHz",
+      "Memory Clock": "1425 MHz 5.7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "182.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "31.04 GPixel/s",
+      "Texture Rate": "124.2 GTexel/s",
+      "FP16 (half)": "3.973 TFLOPS (1:1)",
+      "FP32 (float)": "3.973 TFLOPS",
+      "FP64 (double)": "248.3 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "221 mm 8.7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "190 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "C766, C784"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Antigua GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (13)": {}
+  },
+  "Radeon R9 Nano": {
+    "Graphics Processor": {
+      "GPU Name": "Fiji",
+      "GPU Variant": "Fiji XT CA (215-0862120)",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,900 million",
+      "Density": "14.9M / mm²",
+      "Die Size": "596 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 27th, 2015",
+      "Generation": "Pirate Islands (R9 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Launch Price": "649 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "28 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1000 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "HBM",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "512.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4096",
+      "TMUs": "256",
+      "ROPs": "64",
+      "Compute Units": "64",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "64.00 GPixel/s",
+      "Texture Rate": "256.0 GTexel/s",
+      "FP16 (half)": "8.192 TFLOPS (1:1)",
+      "FP32 (float)": "8.192 TFLOPS",
+      "FP64 (double)": "512.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "154 mm 6.1 inches",
+      "Width": "112 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "175 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x HDMI 1.4a 3x DisplayPort 1.2",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "109-C88237-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Fiji GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (12)": {}
+  },
+  "Radeon R9 FURY": {
+    "Graphics Processor": {
+      "GPU Name": "Fiji",
+      "GPU Variant": "Fiji PRO CB (215-0862046)",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,900 million",
+      "Density": "14.9M / mm²",
+      "Die Size": "596 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 10th, 2015",
+      "Generation": "Pirate Islands (R9 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Launch Price": "549 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "38 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1000 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "HBM",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "512.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3584",
+      "TMUs": "224",
+      "ROPs": "64",
+      "Compute Units": "56",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "64.00 GPixel/s",
+      "Texture Rate": "224.0 GTexel/s",
+      "FP16 (half)": "7.168 TFLOPS (1:1)",
+      "FP32 (float)": "7.168 TFLOPS",
+      "FP64 (double)": "448.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "195 mm 7.7 inches",
+      "Width": "115 mm 4.5 inches",
+      "Height": "39 mm 1.5 inches",
+      "TDP": "275 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 1.4a 3x DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "109-C88037-00_04"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Fiji GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (8)": {}
+  },
+  "Radeon R9 FURY X": {
+    "Graphics Processor": {
+      "GPU Name": "Fiji",
+      "GPU Variant": "Fiji XT C8 (215-0862040)",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,900 million",
+      "Density": "14.9M / mm²",
+      "Die Size": "596 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 24th, 2015",
+      "Generation": "Pirate Islands (R9 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Launch Price": "649 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "33 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1050 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "HBM",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "512.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4096",
+      "TMUs": "256",
+      "ROPs": "64",
+      "Compute Units": "64",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "67.20 GPixel/s",
+      "Texture Rate": "268.8 GTexel/s",
+      "FP16 (half)": "8.602 TFLOPS (1:1)",
+      "FP32 (float)": "8.602 TFLOPS",
+      "FP64 (double)": "537.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "195 mm 7.7 inches",
+      "Width": "115 mm 4.5 inches",
+      "Height": "39 mm 1.5 inches",
+      "TDP": "275 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 1.4a 3x DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "109-C88037-00_04"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Fiji GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (10)": {}
+  },
+  "Radeon R9 380": {
+    "Graphics Processor": {
+      "GPU Name": "Antigua",
+      "GPU Variant": "Antigua PRO (215-0877000)",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,000 million",
+      "Density": "13.7M / mm²",
+      "Die Size": "366 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 18th, 2015",
+      "Generation": "Pirate Islands (R9 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "39 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "970 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "176.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "31.04 GPixel/s",
+      "Texture Rate": "108.6 GTexel/s",
+      "FP16 (half)": "3.476 TFLOPS (1:1)",
+      "FP32 (float)": "3.476 TFLOPS",
+      "FP64 (double)": "217.3 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "221 mm 8.7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "190 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "C766"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Antigua GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (26)": {}
+  },
+  "Radeon R9 380 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Antigua",
+      "GPU Variant": "Antigua PRO (215-0877000)",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,000 million",
+      "Density": "13.7M / mm²",
+      "Die Size": "366 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "May 5th, 2015",
+      "Generation": "Pirate Islands (R9 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "918 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "176.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.38 GPixel/s",
+      "Texture Rate": "102.8 GTexel/s",
+      "FP16 (half)": "3.290 TFLOPS (1:1)",
+      "FP32 (float)": "3.290 TFLOPS",
+      "FP64 (double)": "205.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "221 mm 8.7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "190 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "C766"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Antigua GPU Notes": {}
+  },
+  "Radeon R9 FURY X2": {
+    "Graphics Processor": {
+      "GPU Name": "Capsaicin",
+      "GPU Variant": "Capsaicin XT C9",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "8,900 million",
+      "Density": "14.9M / mm²",
+      "Die Size": "596 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Pirate Islands (R9 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1050 MHz",
+      "Memory Clock": "500 MHz 1000 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "HBM",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "512.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4096",
+      "TMUs": "256",
+      "ROPs": "64",
+      "Compute Units": "64",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "67.20 GPixel/s",
+      "Texture Rate": "268.8 GTexel/s",
+      "FP32 (float)": "8.602 TFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x HDMI 1.4a 3x DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "109-C88837-00C_02, 109-C88837-01_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Capsaicin GPU Notes": {}
+  },
+  "Radeon R9 285": {
+    "Graphics Processor": {
+      "GPU Name": "Tonga",
+      "GPU Variant": "Tonga PRO (215-0851128)",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,000 million",
+      "Density": "13.7M / mm²",
+      "Die Size": "366 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 2nd, 2014",
+      "Generation": "Volcanic Islands (R9 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Launch Price": "249 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "59 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "918 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "176.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.38 GPixel/s",
+      "Texture Rate": "102.8 GTexel/s",
+      "FP16 (half)": "3.290 TFLOPS (1:1)",
+      "FP32 (float)": "3.290 TFLOPS",
+      "FP64 (double)": "205.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "221 mm 8.7 inches",
+      "Width": "109 mm 4.3 inches",
+      "Height": "36 mm 1.4 inches",
+      "TDP": "190 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "C766"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Tonga GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (14)": {}
+  },
+  "Radeon R9 285X": {
+    "Graphics Processor": {
+      "GPU Name": "Tonga",
+      "GPU Variant": "Tonga XT (215-0851313)",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,000 million",
+      "Density": "13.7M / mm²",
+      "Die Size": "366 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Volcanic Islands (R9 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1002 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "264.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "32.06 GPixel/s",
+      "Texture Rate": "128.3 GTexel/s",
+      "FP32 (float)": "4.104 TFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "200 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "C765"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Tonga GPU Notes": {}
+  },
+  "FirePro W7100": {
+    "Graphics Processor": {
+      "GPU Name": "Tonga",
+      "GPU Variant": "Tonga PRO GL",
+      "Architecture": "GCN 3.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,000 million",
+      "Density": "13.7M / mm²",
+      "Die Size": "366 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 12th, 2014",
+      "Generation": "FirePro GCN (Wx100)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "920 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "160.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.44 GPixel/s",
+      "Texture Rate": "103.0 GTexel/s",
+      "FP16 (half)": "3.297 TFLOPS (1:1)",
+      "FP32 (float)": "3.297 TFLOPS",
+      "FP64 (double)": "206.1 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "4x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C767"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_0)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5"
+    },
+    "Tonga GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  }
+}

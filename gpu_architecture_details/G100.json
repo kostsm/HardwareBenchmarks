@@ -1,0 +1,57 @@
+{
+  "Productiva G100": {
+    "Graphics Processor": {
+      "GPU Name": "Twister",
+      "GPU Variant": "MGA-G100A-E",
+      "Architecture": "G100",
+      "Foundry": "UMC",
+      "Process Size": "350 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "1998",
+      "Generation": "G Series (G1xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 2x",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "41 MHz",
+      "Memory Clock": "62 MHz"
+    },
+    "Memory": {
+      "Memory Size": "2 MB",
+      "Memory Type": "SGR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "496.0 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "1",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "41.00 MPixel/s",
+      "Vertex Rate": "10.25 MVertices/s",
+      "Texture Rate": "41.00 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "3.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  }
+}

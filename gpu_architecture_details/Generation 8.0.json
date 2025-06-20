@@ -1,0 +1,160 @@
+{
+  "HD Graphics P5700": {
+    "Graphics Processor": {
+      "GPU Name": "Broadwell GT2",
+      "Architecture": "Generation 8.0",
+      "Foundry": "Intel",
+      "Process Size": "14 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Sep 5th, 2014",
+      "Generation": "HD Graphics-W (Broadwell)",
+      "Production": "End-of-life",
+      "Bus Interface": "Ring Bus",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "700 MHz",
+      "Boost Clock": "1000 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "192",
+      "TMUs": "24",
+      "ROPs": "3",
+      "Execution Units": "24"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "3.000 GPixel/s",
+      "Texture Rate": "24.00 GTexel/s",
+      "FP32 (float)": "384.0 GFLOPS",
+      "FP64 (double)": "96.00 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "15 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.4",
+      "OpenCL": "3.0",
+      "Vulkan": "1.0",
+      "Shader Model": "5.1"
+    }
+  },
+  "Iris Pro Graphics 6200": {
+    "Graphics Processor": {
+      "GPU Name": "Broadwell GT3e",
+      "Architecture": "Generation 8.0",
+      "Foundry": "Intel",
+      "Process Size": "14 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Sep 5th, 2014",
+      "Generation": "HD Graphics (Broadwell)",
+      "Production": "End-of-life",
+      "Bus Interface": "Ring Bus",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "300 MHz",
+      "Boost Clock": "1100 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "48",
+      "ROPs": "6",
+      "Execution Units": "48"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.600 GPixel/s",
+      "Texture Rate": "52.80 GTexel/s",
+      "FP32 (float)": "844.8 GFLOPS",
+      "FP64 (double)": "211.2 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "15 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.4",
+      "OpenCL": "3.0",
+      "Vulkan": "1.0",
+      "Shader Model": "5.1"
+    }
+  },
+  "Iris Pro Graphics P6300": {
+    "Graphics Processor": {
+      "GPU Name": "Broadwell GT3e",
+      "Architecture": "Generation 8.0",
+      "Foundry": "Intel",
+      "Process Size": "14 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Sep 5th, 2014",
+      "Generation": "HD Graphics-W (Broadwell)",
+      "Production": "End-of-life",
+      "Bus Interface": "Ring Bus",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "300 MHz",
+      "Boost Clock": "800 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "48",
+      "ROPs": "6",
+      "Execution Units": "48"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "4.800 GPixel/s",
+      "Texture Rate": "38.40 GTexel/s",
+      "FP32 (float)": "614.4 GFLOPS",
+      "FP64 (double)": "153.6 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "15 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.4",
+      "OpenCL": "3.0",
+      "Vulkan": "1.0",
+      "Shader Model": "5.1"
+    }
+  }
+}

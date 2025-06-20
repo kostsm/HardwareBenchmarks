@@ -1,0 +1,107 @@
+{
+  "Extreme Graphics 2": {
+    "Graphics Processor": {
+      "GPU Name": "Springdale",
+      "GPU Variant": "Springdale-G (865G)",
+      "Architecture": "Generation 2.0",
+      "Foundry": "Intel",
+      "Process Size": "130 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Dec 3rd, 2003",
+      "Generation": "Extreme Graphics 2 (IGP)",
+      "Production": "End-of-life",
+      "Bus Interface": "FSB",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "200 MHz",
+      "Boost Clock": "266 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "2",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "266.0 MPixel/s",
+      "Texture Rate": "532.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "7.0",
+      "OpenGL": "1.3",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.4",
+      "Vertex Shader": "1.1"
+    },
+    "Springdale GPU Notes": {}
+  },
+  "Extreme Graphics": {
+    "Graphics Processor": {
+      "GPU Name": "Brookdale",
+      "GPU Variant": "Brookdale-G (845G)",
+      "Architecture": "Generation 2.0",
+      "Foundry": "Intel",
+      "Process Size": "150 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Integrated Graphics": {
+      "Release Date": "2002",
+      "Generation": "Extreme Graphics (IGP)",
+      "Production": "End-of-life",
+      "Bus Interface": "FSB",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "200 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Pixel Shaders": "2",
+      "Vertex Shaders": "0",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "200.0 MPixel/s",
+      "Texture Rate": "200.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "7.0",
+      "OpenGL": "1.3",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.4",
+      "Vertex Shader": "1.1"
+    },
+    "Brookdale GPU Notes": {}
+  }
+}

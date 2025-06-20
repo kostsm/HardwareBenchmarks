@@ -1,0 +1,132 @@
+{
+  "Radeon Instinct MI350X": {
+    "Graphics Processor": {
+      "GPU Name": "CDNA Next",
+      "Architecture": "CDNA 4.0",
+      "Foundry": "TSMC",
+      "Process Size": "3 nm",
+      "Transistors": "185,000 million",
+      "Density": "181.9M / mm²",
+      "Die Size": "1017 mm²",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "2025",
+      "Announced": "June 11th, 2025",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "Unreleased",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "2200 MHz",
+      "Memory Clock": "2000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "288 GB",
+      "Memory Type": "HBM3e",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "8.19 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16384",
+      "TMUs": "1024",
+      "ROPs": "0",
+      "Compute Units": "256",
+      "MCM": "2",
+      "Tensor Cores": "1024",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "16 MB",
+      "L3 Cache": "256 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "2,252.8 GTexel/s",
+      "FP16 (half)": "576.7 TFLOPS (8:1)",
+      "FP32 (float)": "72.09 TFLOPS",
+      "FP64 (double)": "72.09 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Slot Width": "OAM Module",
+      "TDP": "1000 W",
+      "Suggested PSU": "1400 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "N/A"
+    },
+    "Card Notes": {},
+    "CDNA Next GPU Notes": {}
+  },
+  "Radeon Instinct MI355X": {
+    "Graphics Processor": {
+      "GPU Name": "CDNA Next",
+      "Architecture": "CDNA 4.0",
+      "Foundry": "TSMC",
+      "Process Size": "3 nm",
+      "Transistors": "185,000 million",
+      "Density": "181.9M / mm²",
+      "Die Size": "1017 mm²",
+      "Chip Package": "MCM"
+    },
+    "Graphics Card": {
+      "Release Date": "2025",
+      "Announced": "June 11th, 2025",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "Unreleased",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "2400 MHz",
+      "Memory Clock": "2000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "288 GB",
+      "Memory Type": "HBM3e",
+      "Memory Bus": "8192 bit",
+      "Bandwidth": "8.19 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16384",
+      "TMUs": "1024",
+      "ROPs": "0",
+      "Compute Units": "256",
+      "MCM": "2",
+      "Tensor Cores": "1024",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "16 MB",
+      "L3 Cache": "256 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "0 MPixel/s",
+      "Texture Rate": "2,457.6 GTexel/s",
+      "FP16 (half)": "629.1 TFLOPS (8:1)",
+      "FP32 (float)": "78.64 TFLOPS",
+      "FP64 (double)": "78.64 TFLOPS (1:1)"
+    },
+    "Board Design": {
+      "Slot Width": "OAM Module",
+      "TDP": "1400 W",
+      "Suggested PSU": "1800 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "Shader Model": "N/A"
+    },
+    "Card Notes": {},
+    "CDNA Next GPU Notes": {}
+  }
+}

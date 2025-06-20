@@ -1,0 +1,161 @@
+{
+  "HD Graphics 2000": {
+    "Graphics Processor": {
+      "GPU Name": "Sandy Bridge GT1",
+      "Architecture": "Generation 6.0",
+      "Foundry": "Intel",
+      "Process Size": "32 nm",
+      "Transistors": "504 million",
+      "Density": "3.8M / mm²",
+      "Die Size": "131 mm²"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Feb 1st, 2011",
+      "Generation": "HD Graphics (Sandy Bridge)",
+      "Production": "End-of-life",
+      "Bus Interface": "Ring Bus",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "650 MHz",
+      "Boost Clock": "1000 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "48",
+      "TMUs": "6",
+      "ROPs": "1",
+      "Execution Units": "6"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Texture Rate": "6.000 GTexel/s",
+      "FP32 (float)": "96.00 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "11.1 (10_1)",
+      "OpenGL": "3.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "4.1"
+    }
+  },
+  "HD Graphics 3000": {
+    "Graphics Processor": {
+      "GPU Name": "Sandy Bridge GT2+",
+      "Architecture": "Generation 6.0",
+      "Foundry": "Intel",
+      "Process Size": "32 nm",
+      "Transistors": "1,160 million",
+      "Density": "5.4M / mm²",
+      "Die Size": "216 mm²"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Feb 1st, 2011",
+      "Generation": "HD Graphics (Sandy Bridge)",
+      "Production": "End-of-life",
+      "Bus Interface": "Ring Bus",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "850 MHz",
+      "Boost Clock": "1350 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "12",
+      "ROPs": "2",
+      "Execution Units": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.700 GPixel/s",
+      "Texture Rate": "16.20 GTexel/s",
+      "FP32 (float)": "259.2 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "11.1 (10_1)",
+      "OpenGL": "3.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "4.1"
+    }
+  },
+  "HD Graphics P3000": {
+    "Graphics Processor": {
+      "GPU Name": "Sandy Bridge GT2",
+      "Architecture": "Generation 6.0",
+      "Foundry": "Intel",
+      "Process Size": "32 nm",
+      "Transistors": "624 million",
+      "Density": "4.2M / mm²",
+      "Die Size": "149 mm²"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Feb 1st, 2011",
+      "Generation": "HD Graphics-W (Sandy Bridge)",
+      "Production": "End-of-life",
+      "Bus Interface": "Ring Bus",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "850 MHz",
+      "Boost Clock": "1350 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "96",
+      "TMUs": "12",
+      "ROPs": "2",
+      "Execution Units": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.700 GPixel/s",
+      "Texture Rate": "16.20 GTexel/s",
+      "FP32 (float)": "259.2 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "11.1 (10_1)",
+      "OpenGL": "3.1",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Shader Model": "4.1"
+    }
+  }
+}

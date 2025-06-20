@@ -1,0 +1,885 @@
+{
+  "GeForce4 Ti 4800": {
+    "Graphics Processor": {
+      "GPU Name": "NV28",
+      "GPU Variant": "Ti 4800",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "63 million",
+      "Density": "443.7K / mm²",
+      "Die Size": "142 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 15th, 2003",
+      "Generation": "GeForce 4 Ti",
+      "Predecessor": "GeForce 4 MX",
+      "Successor": "GeForce FX",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "300 MHz",
+      "Memory Clock": "325 MHz 650 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "10.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.200 GPixel/s",
+      "Vertex Rate": "150.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "216 mm 8.5 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.3",
+      "Vertex Shader": "1.1"
+    },
+    "NV28 GPU Notes": {}
+  },
+  "GeForce4 Ti 4800 SE": {
+    "Graphics Processor": {
+      "GPU Name": "NV28",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "63 million",
+      "Density": "443.7K / mm²",
+      "Die Size": "142 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 16th, 2003",
+      "Generation": "GeForce 4 Ti",
+      "Predecessor": "GeForce 4 MX",
+      "Successor": "GeForce FX",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "275 MHz",
+      "Memory Clock": "275 MHz 550 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.800 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.100 GPixel/s",
+      "Vertex Rate": "137.5 MVertices/s",
+      "Texture Rate": "2.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "216 mm 8.5 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.3",
+      "Vertex Shader": "1.1"
+    },
+    "NV28 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Quadro4 980 XGL": {
+    "Graphics Processor": {
+      "GPU Name": "NV28",
+      "GPU Variant": "NV28GL A2",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "63 million",
+      "Density": "443.7K / mm²",
+      "Die Size": "142 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 12th, 2002",
+      "Generation": "Quadro4 Celcius (x80)",
+      "Predecessor": "Quadro2 Celcius",
+      "Successor": "Quadro FX Rankine",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "300 MHz",
+      "Memory Clock": "325 MHz 650 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "10.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.200 GPixel/s",
+      "Vertex Rate": "150.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.3",
+      "Vertex Shader": "1.1"
+    },
+    "NV28 GPU Notes": {}
+  },
+  "Quadro4 700 XGL": {
+    "Graphics Processor": {
+      "GPU Name": "NV25",
+      "GPU Variant": "NV25 GL",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "63 million",
+      "Density": "443.7K / mm²",
+      "Die Size": "142 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 19th, 2002",
+      "Generation": "Quadro4 Celcius (x00)",
+      "Predecessor": "Quadro2 Celcius",
+      "Successor": "Quadro FX Rankine",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "275 MHz",
+      "Memory Clock": "225 MHz 450 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "7.200 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.200 GPixel/s",
+      "Vertex Rate": "137.5 MVertices/s",
+      "Texture Rate": "2.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.3",
+      "Vertex Shader": "1.1"
+    },
+    "NV25 GPU Notes": {}
+  },
+  "Quadro4 750 XGL": {
+    "Graphics Processor": {
+      "GPU Name": "NV25",
+      "GPU Variant": "NV25 GL",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "63 million",
+      "Density": "443.7K / mm²",
+      "Die Size": "142 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 19th, 2002",
+      "Generation": "Quadro4 Celcius (x50)",
+      "Predecessor": "Quadro2 Celcius",
+      "Successor": "Quadro FX Rankine",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "275 MHz",
+      "Memory Clock": "225 MHz 450 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "7.200 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.200 GPixel/s",
+      "Vertex Rate": "137.5 MVertices/s",
+      "Texture Rate": "2.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.3",
+      "Vertex Shader": "1.1"
+    },
+    "NV25 GPU Notes": {}
+  },
+  "Quadro4 900 XGL": {
+    "Graphics Processor": {
+      "GPU Name": "NV25",
+      "GPU Variant": "NV25 GL",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "63 million",
+      "Density": "443.7K / mm²",
+      "Die Size": "142 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 19th, 2002",
+      "Generation": "Quadro4 Celcius (x00)",
+      "Predecessor": "Quadro2 Celcius",
+      "Successor": "Quadro FX Rankine",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "300 MHz",
+      "Memory Clock": "325 MHz 650 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "10.40 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.400 GPixel/s",
+      "Vertex Rate": "150.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DVI 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.3",
+      "Vertex Shader": "1.1"
+    },
+    "NV25 GPU Notes": {}
+  },
+  "GeForce4 Ti 4200": {
+    "Graphics Processor": {
+      "GPU Name": "NV25",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "63 million",
+      "Density": "443.7K / mm²",
+      "Die Size": "142 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 6th, 2002",
+      "Generation": "GeForce 4 Ti",
+      "Predecessor": "GeForce 4 MX",
+      "Successor": "GeForce FX",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "250 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "4.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Vertex Rate": "125.0 MVertices/s",
+      "Texture Rate": "2.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.3",
+      "Vertex Shader": "1.1"
+    },
+    "Card Notes": {},
+    "NV25 GPU Notes": {}
+  },
+  "GeForce4 Ti 4200-8X": {
+    "Graphics Processor": {
+      "GPU Name": "NV28",
+      "GPU Variant": "Ti 4200-8X",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "63 million",
+      "Density": "443.7K / mm²",
+      "Die Size": "142 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 6th, 2002",
+      "Generation": "GeForce 4 Ti",
+      "Predecessor": "GeForce 4 MX",
+      "Successor": "GeForce FX",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 8x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "250 MHz",
+      "Memory Clock": "250 MHz"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "4.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.000 GPixel/s",
+      "Vertex Rate": "125.0 MVertices/s",
+      "Texture Rate": "2.000 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.3",
+      "Vertex Shader": "1.1"
+    },
+    "Card Notes": {},
+    "NV28 GPU Notes": {}
+  },
+  "GeForce4 Ti 4400": {
+    "Graphics Processor": {
+      "GPU Name": "NV25",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "63 million",
+      "Density": "443.7K / mm²",
+      "Die Size": "142 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 6th, 2002",
+      "Generation": "GeForce 4 Ti",
+      "Predecessor": "GeForce 4 MX",
+      "Successor": "GeForce FX",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "275 MHz",
+      "Memory Clock": "275 MHz 550 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.800 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.100 GPixel/s",
+      "Vertex Rate": "137.5 MVertices/s",
+      "Texture Rate": "2.200 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "216 mm 8.5 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.3",
+      "Vertex Shader": "1.1"
+    },
+    "NV25 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce4 Ti 4600": {
+    "Graphics Processor": {
+      "GPU Name": "NV25",
+      "GPU Variant": "Ti 4600",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "63 million",
+      "Density": "443.7K / mm²",
+      "Die Size": "142 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 6th, 2002",
+      "Generation": "GeForce 4 Ti",
+      "Predecessor": "GeForce 4 MX",
+      "Successor": "GeForce FX",
+      "Production": "End-of-life",
+      "Launch Price": "399 USD",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "300 MHz",
+      "Memory Clock": "324 MHz 648 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "128 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "10.37 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.200 GPixel/s",
+      "Vertex Rate": "150.0 MVertices/s",
+      "Texture Rate": "2.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "216 mm 8.5 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.3",
+      "Vertex Shader": "1.1"
+    },
+    "NV25 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (4)": {}
+  },
+  "Xbox GPU": {
+    "Graphics Processor": {
+      "GPU Name": "NV2A",
+      "GPU Variant": "XGPU",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "57 million",
+      "Density": "401.4K / mm²",
+      "Die Size": "142 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 15th, 2001",
+      "Generation": "Console GPU (Microsoft)",
+      "Production": "End-of-life",
+      "Launch Price": "299 USD"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "233 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "2",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "932.0 MPixel/s",
+      "Vertex Rate": "116.5 MVertices/s",
+      "Texture Rate": "1.864 GTexel/s"
+    },
+    "Board Design": {
+      "Length": "320 mm 12.6 inches",
+      "Width": "100 mm 3.9 inches",
+      "Height": "260 mm 10.2 inches",
+      "Weight": "3.9 kg (8.5 lbs)",
+      "TDP": "unknown",
+      "Outputs": "No outputs"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.4",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.1",
+      "Vertex Shader": "1.1"
+    },
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce3 Ti200": {
+    "Graphics Processor": {
+      "GPU Name": "NV20",
+      "GPU Variant": "NV20 Ti200",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "57 million",
+      "Density": "445.3K / mm²",
+      "Die Size": "128 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2001",
+      "Generation": "GeForce 3",
+      "Predecessor": "GeForce 2",
+      "Successor": "GeForce 4 MX",
+      "Production": "End-of-life",
+      "Launch Price": "149 USD",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "175 MHz",
+      "Memory Clock": "200 MHz 400 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "6.400 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "1",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "700.0 MPixel/s",
+      "Vertex Rate": "43.75 MVertices/s",
+      "Texture Rate": "1.400 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "183 mm 7.2 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.1",
+      "Vertex Shader": "1.1"
+    },
+    "Card Notes": {},
+    "NV20 GPU Notes": {}
+  },
+  "GeForce3 Ti500": {
+    "Graphics Processor": {
+      "GPU Name": "NV20",
+      "GPU Variant": "NV20 Ti500",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "57 million",
+      "Density": "445.3K / mm²",
+      "Die Size": "128 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2001",
+      "Generation": "GeForce 3",
+      "Predecessor": "GeForce 2",
+      "Successor": "GeForce 4 MX",
+      "Production": "End-of-life",
+      "Launch Price": "349 USD",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "240 MHz",
+      "Memory Clock": "250 MHz 500 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "8.000 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "1",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "960.0 MPixel/s",
+      "Vertex Rate": "60.00 MVertices/s",
+      "Texture Rate": "1.920 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "183 mm 7.2 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.1",
+      "Vertex Shader": "1.1"
+    },
+    "NV20 GPU Notes": {}
+  },
+  "Quadro DCC": {
+    "Graphics Processor": {
+      "GPU Name": "NV20",
+      "GPU Variant": "NV20GL A5",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "57 million",
+      "Density": "445.3K / mm²",
+      "Die Size": "128 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "May 14th, 2001",
+      "Generation": "Quadro2 Celcius",
+      "Predecessor": "Quadro Celsius",
+      "Successor": "Quadro4 Celcius",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "26 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "200 MHz",
+      "Memory Clock": "230 MHz"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "3.680 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "1",
+      "TMUs": "4",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "800.0 MPixel/s",
+      "Vertex Rate": "50.00 MVertices/s",
+      "Texture Rate": "800.0 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA 1x S-Video",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.1",
+      "Vertex Shader": "1.1"
+    },
+    "NV20 GPU Notes": {}
+  },
+  "GeForce3": {
+    "Graphics Processor": {
+      "GPU Name": "NV20",
+      "GPU Variant": "NV20 A5",
+      "Architecture": "Kelvin",
+      "Foundry": "TSMC",
+      "Process Size": "150 nm",
+      "Transistors": "57 million",
+      "Density": "445.3K / mm²",
+      "Die Size": "128 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 27th, 2001",
+      "Generation": "GeForce 3",
+      "Predecessor": "GeForce 2",
+      "Successor": "GeForce 4 MX",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD",
+      "Bus Interface": "AGP 4x",
+      "Reviews": "1 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "200 MHz",
+      "Memory Clock": "230 MHz 460 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 MB",
+      "Memory Type": "DDR",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "7.360 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "4",
+      "Vertex Shaders": "1",
+      "TMUs": "8",
+      "ROPs": "4"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "800.0 MPixel/s",
+      "Vertex Rate": "50.00 MVertices/s",
+      "Texture Rate": "1.600 GTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "165 mm 6.5 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x VGA 1x DB13W3",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "8.1",
+      "OpenGL": "1.5",
+      "OpenCL": "N/A",
+      "Vulkan": "N/A",
+      "Pixel Shader": "1.1",
+      "Vertex Shader": "1.1"
+    },
+    "NV20 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  }
+}

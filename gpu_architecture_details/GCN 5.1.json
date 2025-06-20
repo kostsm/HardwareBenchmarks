@@ -1,0 +1,637 @@
+{
+  "Radeon Graphics 384SP": {
+    "Graphics Processor": {
+      "GPU Name": "Cezanne",
+      "Architecture": "GCN 5.1",
+      "Foundry": "TSMC",
+      "Process Size": "7 nm",
+      "Transistors": "9,800 million",
+      "Density": "54.4M / mm²",
+      "Die Size": "180 mm²",
+      "Chip Package": "µOPGA-1331"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Apr 13th, 2021",
+      "Generation": "Vega II IGP (Cezanne)",
+      "Predecessor": "Vega IGP",
+      "Successor": "Navi II IGP",
+      "Production": "Active",
+      "Bus Interface": "IGP"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "300 MHz",
+      "Boost Clock": "1700 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "13.60 GPixel/s",
+      "Texture Rate": "40.80 GTexel/s",
+      "FP16 (half)": "2.611 TFLOPS (2:1)",
+      "FP32 (float)": "1,305.6 GFLOPS",
+      "FP64 (double)": "81.60 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "45 W",
+      "Outputs": "Motherboard Dependent",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Cezanne GPU Notes": {}
+  },
+  "Radeon Graphics 448SP": {
+    "Graphics Processor": {
+      "GPU Name": "Renoir",
+      "Architecture": "GCN 5.1",
+      "Foundry": "TSMC",
+      "Process Size": "7 nm",
+      "Transistors": "9,800 million",
+      "Density": "62.8M / mm²",
+      "Die Size": "156 mm²",
+      "Chip Package": "µOPGA-1331"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Jan 6th, 2020",
+      "Generation": "Vega II IGP (Renoir)",
+      "Predecessor": "Vega IGP",
+      "Successor": "Navi II IGP",
+      "Production": "Active",
+      "Bus Interface": "IGP"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "400 MHz",
+      "Boost Clock": "1900 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "448",
+      "TMUs": "28",
+      "ROPs": "8",
+      "Compute Units": "7"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "15.20 GPixel/s",
+      "Texture Rate": "53.20 GTexel/s",
+      "FP16 (half)": "3.405 TFLOPS (2:1)",
+      "FP32 (float)": "1.702 TFLOPS",
+      "FP64 (double)": "106.4 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "15 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Renoir GPU Notes": {}
+  },
+  "Radeon Graphics 512SP": {
+    "Graphics Processor": {
+      "GPU Name": "Renoir",
+      "Architecture": "GCN 5.1",
+      "Foundry": "TSMC",
+      "Process Size": "7 nm",
+      "Transistors": "9,800 million",
+      "Density": "62.8M / mm²",
+      "Die Size": "156 mm²",
+      "Chip Package": "µOPGA-1331"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Mar 7th, 2020",
+      "Generation": "Vega II IGP (Renoir)",
+      "Predecessor": "Vega IGP",
+      "Successor": "Navi II IGP",
+      "Production": "Active",
+      "Bus Interface": "IGP"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "400 MHz",
+      "Boost Clock": "2100 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "8",
+      "Compute Units": "8"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.80 GPixel/s",
+      "Texture Rate": "67.20 GTexel/s",
+      "FP16 (half)": "4.301 TFLOPS (2:1)",
+      "FP32 (float)": "2.150 TFLOPS",
+      "FP64 (double)": "134.4 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "15 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Renoir GPU Notes": {}
+  },
+  "Radeon Pro VII": {
+    "Graphics Processor": {
+      "GPU Name": "Vega 20",
+      "GPU Variant": "Vega 20 GLXT WS (215-0914026)",
+      "Architecture": "GCN 5.1",
+      "Foundry": "TSMC",
+      "Process Size": "7 nm",
+      "Transistors": "13,230 million",
+      "Density": "40.0M / mm²",
+      "Die Size": "331 mm²",
+      "Chip Package": "BGA-1933"
+    },
+    "Graphics Card": {
+      "Release Date": "May 13th, 2020",
+      "Generation": "Radeon Pro Vega (Vega II Series)",
+      "Predecessor": "Radeon Pro Polaris",
+      "Successor": "Radeon Pro Navi",
+      "Production": "Active",
+      "Launch Price": "1,899 USD",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1400 MHz",
+      "Boost Clock": "1700 MHz",
+      "Memory Clock": "1000 MHz 2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "1.02 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3840",
+      "TMUs": "240",
+      "ROPs": "64",
+      "Compute Units": "60",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "108.8 GPixel/s",
+      "Texture Rate": "408.0 GTexel/s",
+      "FP16 (half)": "26.11 TFLOPS (2:1)",
+      "FP32 (float)": "13.06 TFLOPS",
+      "FP64 (double)": "6.528 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "305 mm 12 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "6x mini-DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "D164-06"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Vega 20 GPU Notes": {}
+  },
+  "Radeon Pro Vega II": {
+    "Graphics Processor": {
+      "GPU Name": "Vega 20",
+      "GPU Variant": "Vega 20 XT",
+      "Architecture": "GCN 5.1",
+      "Foundry": "TSMC",
+      "Process Size": "7 nm",
+      "Transistors": "13,230 million",
+      "Density": "40.0M / mm²",
+      "Die Size": "331 mm²",
+      "Chip Package": "BGA-1933"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 3rd, 2019",
+      "Generation": "Radeon Pro Mac (Vega Series)",
+      "Production": "Active",
+      "Launch Price": "2,199 USD",
+      "Bus Interface": "Apple MPX"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1574 MHz",
+      "Boost Clock": "1720 MHz",
+      "Memory Clock": "806 MHz 1612 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "825.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4096",
+      "TMUs": "256",
+      "ROPs": "64",
+      "Compute Units": "64",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "110.1 GPixel/s",
+      "Texture Rate": "440.3 GTexel/s",
+      "FP16 (half)": "28.18 TFLOPS (2:1)",
+      "FP32 (float)": "14.09 TFLOPS",
+      "FP64 (double)": "7.045 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Quad-slot",
+      "TDP": "475 W",
+      "Suggested PSU": "850 W",
+      "Outputs": "1x HDMI 2.0b 4x Thunderbolt",
+      "Board Number": "MW672ZM/A"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Vega 20 GPU Notes": {}
+  },
+  "Radeon Pro Vega II Duo": {
+    "Graphics Processor": {
+      "GPU Name": "Vega 20",
+      "GPU Variant": "Vega 20 XT",
+      "Architecture": "GCN 5.1",
+      "Foundry": "TSMC",
+      "Process Size": "7 nm",
+      "Transistors": "13,230 million",
+      "Density": "40.0M / mm²",
+      "Die Size": "331 mm²",
+      "Chip Package": "BGA-1933"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 3rd, 2019",
+      "Generation": "Radeon Pro Mac (Vega Series)",
+      "Production": "Active",
+      "Launch Price": "4,399 USD",
+      "Bus Interface": "Apple MPX"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1400 MHz",
+      "Boost Clock": "1720 MHz",
+      "Memory Clock": "1000 MHz 2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "1.02 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4096",
+      "TMUs": "256",
+      "ROPs": "64",
+      "Compute Units": "64",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "110.1 GPixel/s",
+      "Texture Rate": "440.3 GTexel/s",
+      "FP16 (half)": "28.18 TFLOPS (2:1)",
+      "FP32 (float)": "14.09 TFLOPS",
+      "FP64 (double)": "7.045 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Quad-slot",
+      "TDP": "475 W",
+      "Suggested PSU": "850 W",
+      "Outputs": "1x HDMI 2.0b 4x Thunderbolt",
+      "Board Number": "MW732ZM/A"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Vega 20 GPU Notes": {}
+  },
+  "Radeon VII": {
+    "Graphics Processor": {
+      "GPU Name": "Vega 20",
+      "GPU Variant": "Vega 20 XT",
+      "Architecture": "GCN 5.1",
+      "Foundry": "TSMC",
+      "Process Size": "7 nm",
+      "Transistors": "13,230 million",
+      "Density": "40.0M / mm²",
+      "Die Size": "331 mm²",
+      "Chip Package": "BGA-1933"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 7th, 2019",
+      "Generation": "Vega II (Radeon VII)",
+      "Predecessor": "Vega",
+      "Successor": "Navi",
+      "Production": "Active",
+      "Launch Price": "699 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1400 MHz",
+      "Boost Clock": "1750 MHz",
+      "Peak Clock": "1802 MHz",
+      "Memory Clock": "1000 MHz 2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "1.02 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3840",
+      "TMUs": "240",
+      "ROPs": "64",
+      "Compute Units": "60",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "112.0 GPixel/s",
+      "Texture Rate": "420.0 GTexel/s",
+      "FP16 (half)": "26.88 TFLOPS (2:1)",
+      "FP32 (float)": "13.44 TFLOPS",
+      "FP64 (double)": "3.360 TFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "280 mm 11 inches",
+      "Width": "125 mm 4.9 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "295 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 2.0b 3x DisplayPort 1.4a",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "109-D36037-00_04",
+      "BIOS Number": "113-D3600200-105"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Vega 20 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (13)": {}
+  },
+  "Radeon Instinct MI50": {
+    "Graphics Processor": {
+      "GPU Name": "Vega 20",
+      "GPU Variant": "Vega 20 GLXT",
+      "Architecture": "GCN 5.1",
+      "Foundry": "TSMC",
+      "Process Size": "7 nm",
+      "Transistors": "13,230 million",
+      "Density": "40.0M / mm²",
+      "Die Size": "331 mm²",
+      "Chip Package": "BGA-1933"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 18th, 2018",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1200 MHz",
+      "Boost Clock": "1746 MHz",
+      "Memory Clock": "1000 MHz 2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "1.02 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3840",
+      "TMUs": "240",
+      "ROPs": "64",
+      "Compute Units": "60",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "111.7 GPixel/s",
+      "Texture Rate": "419.0 GTexel/s",
+      "FP16 (half)": "26.82 TFLOPS (2:1)",
+      "FP32 (float)": "13.41 TFLOPS",
+      "FP64 (double)": "6.705 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "1x mini-DisplayPort 1.4a",
+      "Power Connectors": "2x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Vega 20 GPU Notes": {}
+  },
+  "Radeon Instinct MI60": {
+    "Graphics Processor": {
+      "GPU Name": "Vega 20",
+      "GPU Variant": "Vega 20 GL",
+      "Architecture": "GCN 5.1",
+      "Foundry": "TSMC",
+      "Process Size": "7 nm",
+      "Transistors": "13,230 million",
+      "Density": "40.0M / mm²",
+      "Die Size": "331 mm²",
+      "Chip Package": "BGA-1933"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 18th, 2018",
+      "Generation": "Radeon Instinct (MIx)",
+      "Predecessor": "FirePro Data Center",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1200 MHz",
+      "Boost Clock": "1800 MHz",
+      "Memory Clock": "1000 MHz 2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "1.02 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4096",
+      "TMUs": "256",
+      "ROPs": "64",
+      "Compute Units": "64",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "115.2 GPixel/s",
+      "Texture Rate": "460.8 GTexel/s",
+      "FP16 (half)": "29.49 TFLOPS (2:1)",
+      "FP32 (float)": "14.75 TFLOPS",
+      "FP64 (double)": "7.373 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "1x mini-DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Vega 20 GPU Notes": {}
+  },
+  "Radeon Pro V420": {
+    "Graphics Processor": {
+      "GPU Name": "Vega 20",
+      "GPU Variant": "Vega 20 GLXT WS (215-0914026)",
+      "Architecture": "GCN 5.1",
+      "Foundry": "TSMC",
+      "Process Size": "7 nm",
+      "Transistors": "13,230 million",
+      "Density": "40.0M / mm²",
+      "Die Size": "331 mm²",
+      "Chip Package": "BGA-1933"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "Radeon Pro Vega (Vega II Series)",
+      "Predecessor": "Radeon Pro Polaris",
+      "Successor": "Radeon Pro Navi",
+      "Production": "Active",
+      "Bus Interface": "PCIe 4.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "800 MHz",
+      "Boost Clock": "1700 MHz",
+      "Memory Clock": "800 MHz 1600 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "32 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "819.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "4096",
+      "TMUs": "256",
+      "ROPs": "64",
+      "Compute Units": "64",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "108.8 GPixel/s",
+      "Texture Rate": "435.2 GTexel/s",
+      "FP16 (half)": "27.85 TFLOPS (2:1)",
+      "FP32 (float)": "13.93 TFLOPS",
+      "FP64 (double)": "6.963 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "6x mini-DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "D164"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.7"
+    },
+    "Card Notes": {},
+    "Vega 20 GPU Notes": {}
+  }
+}

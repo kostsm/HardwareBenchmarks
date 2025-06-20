@@ -1,0 +1,704 @@
+{
+  "H200 NVL": {
+    "Graphics Processor": {
+      "GPU Name": "GH100",
+      "Architecture": "Hopper",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "80,000 million",
+      "Density": "98.3M / mm²",
+      "Die Size": "814 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 18th, 2024",
+      "Generation": "Server Hopper (Hxx)",
+      "Predecessor": "Server Ada",
+      "Successor": "Server Blackwell",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1365 MHz",
+      "Boost Clock": "1785 MHz",
+      "Memory Clock": "1593 MHz 6.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "141 GB",
+      "Memory Type": "HBM3e",
+      "Memory Bus": "6144 bit",
+      "Bandwidth": "4.89 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16896",
+      "TMUs": "528",
+      "ROPs": "24",
+      "SM Count": "132",
+      "Tensor Cores": "528",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "42.84 GPixel/s",
+      "Texture Rate": "942.5 GTexel/s",
+      "FP16 (half)": "241.3 TFLOPS (4:1)",
+      "FP32 (float)": "60.32 TFLOPS",
+      "FP64 (double)": "30.16 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "600 W",
+      "Suggested PSU": "1000 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "9.0",
+      "Shader Model": "N/A"
+    },
+    "GH100 GPU Notes": {}
+  },
+  "H200 SXM 141 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GH100",
+      "Architecture": "Hopper",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "80,000 million",
+      "Density": "98.3M / mm²",
+      "Die Size": "814 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 18th, 2024",
+      "Generation": "Server Hopper (Hxx)",
+      "Predecessor": "Server Ada",
+      "Successor": "Server Blackwell",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1500 MHz",
+      "Boost Clock": "1980 MHz",
+      "Memory Clock": "1593 MHz 6.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "141 GB",
+      "Memory Type": "HBM3e",
+      "Memory Bus": "6144 bit",
+      "Bandwidth": "4.89 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16896",
+      "TMUs": "528",
+      "ROPs": "24",
+      "SM Count": "132",
+      "Tensor Cores": "528",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "47.52 GPixel/s",
+      "Texture Rate": "1,045.4 GTexel/s",
+      "FP16 (half)": "267.6 TFLOPS (4:1)",
+      "FP32 (float)": "66.91 TFLOPS",
+      "FP64 (double)": "33.45 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "SXM Module",
+      "TDP": "700 W",
+      "Suggested PSU": "1100 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "9.0",
+      "Shader Model": "N/A"
+    },
+    "GH100 GPU Notes": {}
+  },
+  "H100 CNX": {
+    "Graphics Processor": {
+      "GPU Name": "GH100",
+      "Architecture": "Hopper",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "80,000 million",
+      "Density": "98.3M / mm²",
+      "Die Size": "814 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 21st, 2023",
+      "Generation": "Server Hopper (Hxx)",
+      "Predecessor": "Server Ada",
+      "Successor": "Server Blackwell",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "690 MHz",
+      "Boost Clock": "1845 MHz",
+      "Memory Clock": "1593 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "80 GB",
+      "Memory Type": "HBM2e",
+      "Memory Bus": "5120 bit",
+      "Bandwidth": "2.04 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "14592",
+      "TMUs": "456",
+      "ROPs": "24",
+      "SM Count": "114",
+      "Tensor Cores": "456",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "44.28 GPixel/s",
+      "Texture Rate": "841.3 GTexel/s",
+      "FP16 (half)": "215.4 TFLOPS (4:1)",
+      "FP32 (float)": "53.84 TFLOPS",
+      "FP64 (double)": "26.92 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "350 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS",
+      "Board Number": "P1010"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "9.0",
+      "Shader Model": "N/A"
+    },
+    "GH100 GPU Notes": {}
+  },
+  "H100 PCIe 96 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GH100",
+      "Architecture": "Hopper",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "80,000 million",
+      "Density": "98.3M / mm²",
+      "Die Size": "814 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 21st, 2023",
+      "Generation": "Server Hopper (Hxx)",
+      "Predecessor": "Server Ada",
+      "Successor": "Server Blackwell",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1665 MHz",
+      "Boost Clock": "1837 MHz",
+      "Memory Clock": "1313 MHz 5.3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "96 GB",
+      "Memory Type": "HBM3",
+      "Memory Bus": "5120 bit",
+      "Bandwidth": "3.36 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16896",
+      "TMUs": "528",
+      "ROPs": "24",
+      "SM Count": "132",
+      "Tensor Cores": "528",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "44.09 GPixel/s",
+      "Texture Rate": "969.9 GTexel/s",
+      "FP16 (half)": "248.3 TFLOPS (4:1)",
+      "FP32 (float)": "62.08 TFLOPS",
+      "FP64 (double)": "31.04 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "268 mm 10.6 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "700 W",
+      "Suggested PSU": "1100 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS",
+      "Board Number": "PG520"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "9.0",
+      "Shader Model": "N/A"
+    },
+    "GH100 GPU Notes": {}
+  },
+  "H100 SXM5 64 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GH100",
+      "Architecture": "Hopper",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "80,000 million",
+      "Density": "98.3M / mm²",
+      "Die Size": "814 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 21st, 2023",
+      "Generation": "Server Hopper (Hxx)",
+      "Predecessor": "Server Ada",
+      "Successor": "Server Blackwell",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1665 MHz",
+      "Boost Clock": "1980 MHz",
+      "Memory Clock": "1313 MHz 5.3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "64 GB",
+      "Memory Type": "HBM3",
+      "Memory Bus": "3072 bit",
+      "Bandwidth": "2.02 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16896",
+      "TMUs": "528",
+      "ROPs": "24",
+      "SM Count": "132",
+      "Tensor Cores": "528",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "30 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "47.52 GPixel/s",
+      "Texture Rate": "1,045.4 GTexel/s",
+      "FP16 (half)": "267.6 TFLOPS (4:1)",
+      "FP32 (float)": "66.91 TFLOPS",
+      "FP64 (double)": "33.45 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "SXM Module",
+      "TDP": "700 W",
+      "Suggested PSU": "1100 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS",
+      "Board Number": "PG520"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "9.0",
+      "Shader Model": "N/A"
+    },
+    "GH100 GPU Notes": {}
+  },
+  "H100 SXM5 94 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GH100",
+      "Architecture": "Hopper",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "80,000 million",
+      "Density": "98.3M / mm²",
+      "Die Size": "814 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 21st, 2023",
+      "Generation": "Server Hopper (Hxx)",
+      "Predecessor": "Server Ada",
+      "Successor": "Server Blackwell",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1350 MHz",
+      "Boost Clock": "1980 MHz",
+      "Memory Clock": "1313 MHz 5.3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "94 GB",
+      "Memory Type": "HBM3",
+      "Memory Bus": "5120 bit",
+      "Bandwidth": "3.36 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16896",
+      "TMUs": "528",
+      "ROPs": "24",
+      "SM Count": "132",
+      "Tensor Cores": "528",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "47.52 GPixel/s",
+      "Texture Rate": "1,045.4 GTexel/s",
+      "FP16 (half)": "267.6 TFLOPS (4:1)",
+      "FP32 (float)": "66.91 TFLOPS",
+      "FP64 (double)": "33.45 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "SXM Module",
+      "TDP": "700 W",
+      "Suggested PSU": "1100 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS",
+      "Board Number": "PG520"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "9.0",
+      "Shader Model": "N/A"
+    },
+    "Card Notes": {},
+    "GH100 GPU Notes": {}
+  },
+  "H100 SXM5 96 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GH100",
+      "Architecture": "Hopper",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "80,000 million",
+      "Density": "98.3M / mm²",
+      "Die Size": "814 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 21st, 2023",
+      "Generation": "Server Hopper (Hxx)",
+      "Predecessor": "Server Ada",
+      "Successor": "Server Blackwell",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1350 MHz",
+      "Boost Clock": "1980 MHz",
+      "Memory Clock": "1313 MHz 5.3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "96 GB",
+      "Memory Type": "HBM3",
+      "Memory Bus": "5120 bit",
+      "Bandwidth": "3.36 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16896",
+      "TMUs": "528",
+      "ROPs": "24",
+      "SM Count": "132",
+      "Tensor Cores": "528",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "47.52 GPixel/s",
+      "Texture Rate": "1,045.4 GTexel/s",
+      "FP16 (half)": "267.6 TFLOPS (4:1)",
+      "FP32 (float)": "66.91 TFLOPS",
+      "FP64 (double)": "33.45 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "SXM Module",
+      "TDP": "700 W",
+      "Suggested PSU": "1100 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS",
+      "Board Number": "PG520"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "9.0",
+      "Shader Model": "N/A"
+    },
+    "GH100 GPU Notes": {}
+  },
+  "H800 PCIe 80 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GH100",
+      "Architecture": "Hopper",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "80,000 million",
+      "Density": "98.3M / mm²",
+      "Die Size": "814 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 21st, 2023",
+      "Generation": "Server Hopper (Hxx)",
+      "Predecessor": "Server Ada",
+      "Successor": "Server Blackwell",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1095 MHz",
+      "Boost Clock": "1755 MHz",
+      "Memory Clock": "1593 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "80 GB",
+      "Memory Type": "HBM2e",
+      "Memory Bus": "5120 bit",
+      "Bandwidth": "2.04 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "14592",
+      "TMUs": "456",
+      "ROPs": "24",
+      "SM Count": "114",
+      "Tensor Cores": "456",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "42.12 GPixel/s",
+      "Texture Rate": "800.3 GTexel/s",
+      "FP16 (half)": "204.9 TFLOPS (4:1)",
+      "FP32 (float)": "51.22 TFLOPS",
+      "FP64 (double)": "25.61 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "268 mm 10.6 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "350 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 16-pin",
+      "Board Number": "P1010 SKU 200"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "9.0",
+      "Shader Model": "N/A"
+    },
+    "GH100 GPU Notes": {}
+  },
+  "H800 SXM5": {
+    "Graphics Processor": {
+      "GPU Name": "GH100",
+      "Architecture": "Hopper",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "80,000 million",
+      "Density": "98.3M / mm²",
+      "Die Size": "814 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 21st, 2023",
+      "Generation": "Server Hopper (Hxx)",
+      "Predecessor": "Server Ada",
+      "Successor": "Server Blackwell",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1095 MHz",
+      "Boost Clock": "1755 MHz",
+      "Memory Clock": "1313 MHz 5.3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "80 GB",
+      "Memory Type": "HBM3",
+      "Memory Bus": "5120 bit",
+      "Bandwidth": "3.36 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16896",
+      "TMUs": "528",
+      "ROPs": "24",
+      "SM Count": "132",
+      "Tensor Cores": "528",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "42.12 GPixel/s",
+      "Texture Rate": "926.6 GTexel/s",
+      "FP16 (half)": "237.2 TFLOPS (4:1)",
+      "FP32 (float)": "59.30 TFLOPS",
+      "FP64 (double)": "29.65 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "SXM Module",
+      "TDP": "700 W",
+      "Suggested PSU": "1100 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS",
+      "Board Number": "PG520"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "9.0",
+      "Shader Model": "N/A"
+    },
+    "GH100 GPU Notes": {}
+  },
+  "H100 PCIe 80 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GH100",
+      "Architecture": "Hopper",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "80,000 million",
+      "Density": "98.3M / mm²",
+      "Die Size": "814 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 2022",
+      "Generation": "Server Hopper (Hxx)",
+      "Predecessor": "Server Ada",
+      "Successor": "Server Blackwell",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1095 MHz",
+      "Boost Clock": "1755 MHz",
+      "Memory Clock": "1593 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "80 GB",
+      "Memory Type": "HBM2e",
+      "Memory Bus": "5120 bit",
+      "Bandwidth": "2.04 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "14592",
+      "TMUs": "456",
+      "ROPs": "24",
+      "SM Count": "114",
+      "Tensor Cores": "456",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "42.12 GPixel/s",
+      "Texture Rate": "800.3 GTexel/s",
+      "FP16 (half)": "204.9 TFLOPS (4:1)",
+      "FP32 (float)": "51.22 TFLOPS",
+      "FP64 (double)": "25.61 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "268 mm 10.6 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "350 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 16-pin",
+      "Board Number": "P1010 SKU 200"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "9.0",
+      "Shader Model": "N/A"
+    },
+    "GH100 GPU Notes": {}
+  },
+  "H100 SXM5 80 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GH100",
+      "Architecture": "Hopper",
+      "Foundry": "TSMC",
+      "Process Size": "5 nm",
+      "Transistors": "80,000 million",
+      "Density": "98.3M / mm²",
+      "Die Size": "814 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 2022",
+      "Generation": "Server Hopper (Hxx)",
+      "Predecessor": "Server Ada",
+      "Successor": "Server Blackwell",
+      "Production": "Active",
+      "Bus Interface": "PCIe 5.0 x16"
+    },
+    "Clock Speeds": {
+      "Base Clock": "1590 MHz",
+      "Boost Clock": "1980 MHz",
+      "Memory Clock": "1313 MHz 5.3 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "80 GB",
+      "Memory Type": "HBM3",
+      "Memory Bus": "5120 bit",
+      "Bandwidth": "3.36 TB/s"
+    },
+    "Render Config": {
+      "Shading Units": "16896",
+      "TMUs": "528",
+      "ROPs": "24",
+      "SM Count": "132",
+      "Tensor Cores": "528",
+      "L1 Cache": "256 KB (per SM)",
+      "L2 Cache": "50 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "47.52 GPixel/s",
+      "Texture Rate": "1,045.4 GTexel/s",
+      "FP16 (half)": "267.6 TFLOPS (4:1)",
+      "FP32 (float)": "66.91 TFLOPS",
+      "FP64 (double)": "33.45 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "SXM Module",
+      "TDP": "700 W",
+      "Suggested PSU": "1100 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None",
+      "Board Number": "PG520"
+    },
+    "Graphics Features": {
+      "DirectX": "N/A",
+      "OpenGL": "N/A",
+      "OpenCL": "3.0",
+      "Vulkan": "N/A",
+      "CUDA": "9.0",
+      "Shader Model": "N/A"
+    },
+    "GH100 GPU Notes": {}
+  }
+}

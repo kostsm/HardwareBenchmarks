@@ -1,0 +1,165 @@
+{
+  "HD Graphics 4000": {
+    "Graphics Processor": {
+      "GPU Name": "Ivy Bridge GT2",
+      "Architecture": "Generation 7.0",
+      "Foundry": "Intel",
+      "Process Size": "22 nm",
+      "Transistors": "1,200 million",
+      "Density": "9.0M / mm²",
+      "Die Size": "133 mm²"
+    },
+    "Integrated Graphics": {
+      "Release Date": "May 14th, 2012",
+      "Generation": "HD Graphics (Ivy Bridge)",
+      "Production": "End-of-life",
+      "Bus Interface": "Ring Bus",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "650 MHz",
+      "Boost Clock": "1050 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "128",
+      "TMUs": "16",
+      "ROPs": "2",
+      "Execution Units": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "2.100 GPixel/s",
+      "Texture Rate": "16.80 GTexel/s",
+      "FP32 (float)": "268.8 GFLOPS",
+      "FP64 (double)": "67.20 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "11.1 (11_0)",
+      "OpenGL": "4.0",
+      "OpenCL": "1.2",
+      "Vulkan": "1.0",
+      "Shader Model": "5.0"
+    }
+  },
+  "HD Graphics P4000": {
+    "Graphics Processor": {
+      "GPU Name": "Ivy Bridge GT2",
+      "Architecture": "Generation 7.0",
+      "Foundry": "Intel",
+      "Process Size": "22 nm",
+      "Transistors": "1,200 million",
+      "Density": "9.0M / mm²",
+      "Die Size": "133 mm²"
+    },
+    "Integrated Graphics": {
+      "Release Date": "May 14th, 2012",
+      "Generation": "HD Graphics-W (Ivy Bridge)",
+      "Production": "End-of-life",
+      "Bus Interface": "Ring Bus",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "650 MHz",
+      "Boost Clock": "1250 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "128",
+      "TMUs": "16",
+      "ROPs": "1",
+      "Execution Units": "16"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.250 GPixel/s",
+      "Texture Rate": "20.00 GTexel/s",
+      "FP32 (float)": "320.0 GFLOPS",
+      "FP64 (double)": "80.00 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "45 W",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "11.1 (11_0)",
+      "OpenGL": "4.0",
+      "OpenCL": "1.2",
+      "Vulkan": "1.0",
+      "Shader Model": "5.0"
+    }
+  },
+  "HD Graphics 6EU": {
+    "Graphics Processor": {
+      "GPU Name": "Ivy Bridge GT1",
+      "GPU Variant": "Ivy Bridge-H-2",
+      "Architecture": "Generation 7.0",
+      "Foundry": "Intel",
+      "Process Size": "22 nm",
+      "Transistors": "392 million",
+      "Density": "4.2M / mm²",
+      "Die Size": "94 mm²"
+    },
+    "Integrated Graphics": {
+      "Release Date": "Apr 1st, 2012",
+      "Generation": "HD Graphics (Ivy Bridge)",
+      "Production": "End-of-life",
+      "Bus Interface": "Ring Bus",
+      "Reviews": "3 in our database"
+    },
+    "Clock Speeds": {
+      "Base Clock": "650 MHz",
+      "Boost Clock": "1050 MHz",
+      "Memory Clock": "System Shared"
+    },
+    "IGP Variants": {},
+    "Memory": {
+      "Memory Size": "System Shared",
+      "Memory Type": "System Shared",
+      "Memory Bus": "System Shared",
+      "Bandwidth": "System Dependent"
+    },
+    "Render Config": {
+      "Shading Units": "48",
+      "TMUs": "6",
+      "ROPs": "1",
+      "Execution Units": "6"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "1.050 GPixel/s",
+      "Texture Rate": "6.300 GTexel/s",
+      "FP32 (float)": "100.8 GFLOPS",
+      "FP64 (double)": "25.20 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "unknown",
+      "Outputs": "Motherboard Dependent"
+    },
+    "Graphics Features": {
+      "DirectX": "11.1 (11_0)",
+      "OpenGL": "4.0",
+      "OpenCL": "1.2",
+      "Vulkan": "1.0",
+      "Shader Model": "5.0"
+    }
+  }
+}

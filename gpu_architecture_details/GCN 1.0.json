@@ -1,0 +1,5683 @@
+{
+  "AeroBox GPU": {
+    "Graphics Processor": {
+      "GPU Name": "Kryptos",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "unknown",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 13th, 2020",
+      "Generation": "Console GPU (Chuwi)",
+      "Production": "End-of-life"
+    },
+    "Clock Speeds": {
+      "Base Clock": "935 MHz",
+      "Boost Clock": "985 MHz",
+      "Memory Clock": "1066 MHz 2.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "68.22 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "896",
+      "TMUs": "56",
+      "ROPs": "16",
+      "Compute Units": "14"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "15.76 GPixel/s",
+      "Texture Rate": "55.16 GTexel/s",
+      "FP16 (half)": "3.530 TFLOPS (2:1)",
+      "FP32 (float)": "1.765 TFLOPS",
+      "FP64 (double)": "110.3 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Length": "289 mm 11.4 inches",
+      "Width": "238 mm 9.4 inches",
+      "Height": "56 mm 2.2 inches",
+      "Weight": "1.4 kg (3.1 lbs)",
+      "TDP": "100 W",
+      "Outputs": "1x DVI"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "N/A",
+      "OpenCL": "1.2",
+      "Vulkan": "1.2",
+      "Shader Model": "5.1"
+    },
+    "Console Notes": {},
+    "Kryptos GPU Notes": {}
+  },
+  "Radeon R7 350 640SP": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde XT (215-0825117)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 7th, 2019",
+      "Generation": "Pirate Islands (R7 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "925 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "640",
+      "TMUs": "40",
+      "ROPs": "16",
+      "Compute Units": "10",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "14.80 GPixel/s",
+      "Texture Rate": "37.00 GTexel/s",
+      "FP32 (float)": "1,184.0 GFLOPS",
+      "FP64 (double)": "74.00 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "55 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Cape Verde GPU Notes": {}
+  },
+  "Radeon 520 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Banks",
+      "GPU Variant": "Banks S3 PRO (216-0890010)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "690 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "56 mm²",
+      "Chip Package": "FCBGA-631"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 18th, 2017",
+      "Generation": "Polaris (RX 500)",
+      "Predecessor": "Arctic Islands",
+      "Successor": "Vega",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1030 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "36.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "320",
+      "TMUs": "20",
+      "ROPs": "8",
+      "Compute Units": "5",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.240 GPixel/s",
+      "Texture Rate": "20.60 GTexel/s",
+      "FP32 (float)": "659.2 GFLOPS",
+      "FP64 (double)": "41.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "IGP",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None",
+      "Board Number": "109-D03457-00A_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Banks GPU Notes": {}
+  },
+  "Xbox One S GPU": {
+    "Graphics Processor": {
+      "GPU Name": "Durango 2",
+      "GPU Variant": "M1004145-001",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "5,000 million",
+      "Density": "20.8M / mm²",
+      "Die Size": "240 mm²",
+      "Chip Package": "BGA-515"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 2nd, 2016",
+      "Generation": "Console GPU (Microsoft)",
+      "Production": "End-of-life",
+      "Launch Price": "399 USD"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "914 MHz",
+      "Memory Clock": "1066 MHz 2.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "68.22 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "16",
+      "Compute Units": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "14.62 GPixel/s",
+      "Texture Rate": "43.87 GTexel/s",
+      "FP32 (float)": "1,403.9 GFLOPS"
+    },
+    "Board Design": {
+      "Length": "295 mm 11.6 inches",
+      "Width": "230 mm 9.1 inches",
+      "Height": "64 mm 2.5 inches",
+      "Weight": "2.9 kg (6.4 lbs)",
+      "Storage": "1 TB HDD",
+      "TDP": "95 W",
+      "Outputs": "1x HDMI 2.0a",
+      "Inputs": "1x HDMI 1.4b"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "N/A",
+      "OpenCL": "1.2",
+      "Vulkan": "1.1",
+      "Shader Model": "5.1"
+    },
+    "Durango 2 GPU Notes": {}
+  },
+  "Radeon R7 350": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde PRO MOCHA",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 6th, 2016",
+      "Generation": "Pirate Islands (R7 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "800 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "12.80 GPixel/s",
+      "Texture Rate": "25.60 GTexel/s",
+      "FP32 (float)": "819.2 GFLOPS",
+      "FP64 (double)": "51.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "55 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "C445"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Cape Verde GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon R5 430 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "GPU Variant": "Oland PRO (215-0837015)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 30th, 2016",
+      "Generation": "Arctic Islands (R5 400)",
+      "Predecessor": "Pirate Islands",
+      "Successor": "Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "730 MHz",
+      "Boost Clock": "780 MHz",
+      "Memory Clock": "1150 MHz 4.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "36.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.240 GPixel/s",
+      "Texture Rate": "18.72 GTexel/s",
+      "FP32 (float)": "599.0 GFLOPS",
+      "FP64 (double)": "37.44 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "109-C86957-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon R5 435 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Banks",
+      "GPU Variant": "Banks S3 PRO (216-0890010)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "690 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "56 mm²",
+      "Chip Package": "FCBGA-631"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 30th, 2016",
+      "Generation": "Arctic Islands (R5 400)",
+      "Predecessor": "Pirate Islands",
+      "Successor": "Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1030 MHz",
+      "Memory Clock": "1125 MHz 2.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "18.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "320",
+      "TMUs": "20",
+      "ROPs": "8",
+      "Compute Units": "5",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.240 GPixel/s",
+      "Texture Rate": "20.60 GTexel/s",
+      "FP32 (float)": "659.2 GFLOPS",
+      "FP64 (double)": "41.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "109-D03457-00A_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Banks GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon R7 430 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 30th, 2016",
+      "Generation": "Arctic Islands (R7 400)",
+      "Predecessor": "Pirate Islands",
+      "Successor": "Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "730 MHz",
+      "Boost Clock": "780 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.240 GPixel/s",
+      "Texture Rate": "18.72 GTexel/s",
+      "FP32 (float)": "599.0 GFLOPS",
+      "FP64 (double)": "37.44 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {}
+  },
+  "Radeon R7 435 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 30th, 2016",
+      "Generation": "Arctic Islands (R7 400)",
+      "Predecessor": "Pirate Islands",
+      "Successor": "Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "920 MHz",
+      "Memory Clock": "1000 MHz 2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "16.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "320",
+      "TMUs": "20",
+      "ROPs": "8",
+      "Compute Units": "5",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.360 GPixel/s",
+      "Texture Rate": "18.40 GTexel/s",
+      "FP32 (float)": "588.8 GFLOPS",
+      "FP64 (double)": "36.80 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Oland GPU Notes": {}
+  },
+  "Radeon R7 450 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde PRO2",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 30th, 2016",
+      "Generation": "Arctic Islands (R7 400)",
+      "Predecessor": "Pirate Islands",
+      "Successor": "Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "925 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "14.80 GPixel/s",
+      "Texture Rate": "29.60 GTexel/s",
+      "FP32 (float)": "947.2 GFLOPS",
+      "FP64 (double)": "59.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "C750, 109-C90657-00_02, D039"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Cape Verde GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon R9 370X": {
+    "Graphics Processor": {
+      "GPU Name": "Trinidad",
+      "GPU Variant": "Trinidad XT",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 27th, 2015",
+      "Generation": "Pirate Islands (R9 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "980 MHz",
+      "Boost Clock": "1030 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "179.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "24",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "32.96 GPixel/s",
+      "Texture Rate": "82.40 GTexel/s",
+      "FP32 (float)": "2.637 TFLOPS",
+      "FP64 (double)": "164.8 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "221 mm 8.7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "180 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "C401, C631, C634"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Trinidad GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon R7 370": {
+    "Graphics Processor": {
+      "GPU Name": "Trinidad",
+      "GPU Variant": "Trinidad PRO (215-0870020)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 18th, 2015",
+      "Generation": "Pirate Islands (R7 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Launch Price": "149 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "21 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "925 MHz",
+      "Boost Clock": "975 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "179.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "32",
+      "Compute Units": "16",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "31.20 GPixel/s",
+      "Texture Rate": "62.40 GTexel/s",
+      "FP32 (float)": "1.997 TFLOPS",
+      "FP64 (double)": "124.8 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "152 mm 6 inches",
+      "TDP": "110 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C631, 109-C63447-00B_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Trinidad GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (21)": {}
+  },
+  "Radeon R9 370 1024SP": {
+    "Graphics Processor": {
+      "GPU Name": "Trinidad",
+      "GPU Variant": "Trinidad PRO (215-0870020)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 12th, 2015",
+      "Generation": "Pirate Islands (R9 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "925 MHz",
+      "Boost Clock": "975 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "179.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "32",
+      "Compute Units": "16",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "31.20 GPixel/s",
+      "Texture Rate": "62.40 GTexel/s",
+      "FP32 (float)": "1.997 TFLOPS",
+      "FP64 (double)": "124.8 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "221 mm 8.7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C403, C634"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Trinidad GPU Notes": {}
+  },
+  "Radeon R5 330 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Exo",
+      "GPU Variant": "Exo S3 UL (216-0867040)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "690 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "56 mm²",
+      "Chip Package": "FCBGA-631"
+    },
+    "Graphics Card": {
+      "Release Date": "May 5th, 2015",
+      "Generation": "Pirate Islands (R5 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "830 MHz",
+      "Boost Clock": "855 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "14.40 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "320",
+      "TMUs": "20",
+      "ROPs": "8",
+      "Compute Units": "5",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.840 GPixel/s",
+      "Texture Rate": "17.10 GTexel/s",
+      "FP32 (float)": "547.2 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None",
+      "Board Number": "109-C602"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Exo GPU Notes": {}
+  },
+  "Radeon R5 340 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "GPU Variant": "Oland PRO (215-0837015)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "May 5th, 2015",
+      "Generation": "Pirate Islands (R5 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "730 MHz",
+      "Boost Clock": "780 MHz",
+      "Memory Clock": "1150 MHz 4.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "36.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.240 GPixel/s",
+      "Texture Rate": "18.72 GTexel/s",
+      "FP32 (float)": "599.0 GFLOPS",
+      "FP64 (double)": "37.44 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "C869, C870"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {}
+  },
+  "Radeon R5 340X OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "GPU Variant": "Oland XT (215-0837006)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "May 5th, 2015",
+      "Generation": "Pirate Islands (R5 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "900 MHz",
+      "Memory Clock": "1000 MHz 2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "16.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "7.200 GPixel/s",
+      "Texture Rate": "21.60 GTexel/s",
+      "FP32 (float)": "691.2 GFLOPS",
+      "FP64 (double)": "43.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "109-C87051-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon R7 340 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "May 5th, 2015",
+      "Generation": "Pirate Islands (R7 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "730 MHz",
+      "Boost Clock": "780 MHz",
+      "Memory Clock": "1000 MHz 4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "64.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.240 GPixel/s",
+      "Texture Rate": "18.72 GTexel/s",
+      "FP32 (float)": "599.0 GFLOPS",
+      "FP64 (double)": "37.44 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {}
+  },
+  "Radeon R7 350 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "GPU Variant": "Oland XT (215-0837006)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "May 5th, 2015",
+      "Generation": "Pirate Islands (R7 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1050 MHz",
+      "Memory Clock": "1150 MHz 4.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "73.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.400 GPixel/s",
+      "Texture Rate": "25.20 GTexel/s",
+      "FP32 (float)": "806.4 GFLOPS",
+      "FP64 (double)": "50.40 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "C550, C576"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon R7 350X OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "GPU Variant": "Oland XT (215-0837006)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "May 5th, 2015",
+      "Generation": "Pirate Islands (R7 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1050 MHz",
+      "Memory Clock": "1000 MHz 2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.400 GPixel/s",
+      "Texture Rate": "25.20 GTexel/s",
+      "FP32 (float)": "806.4 GFLOPS",
+      "FP64 (double)": "50.40 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "109-C87251-01"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {}
+  },
+  "Radeon R9 370": {
+    "Graphics Processor": {
+      "GPU Name": "Trinidad",
+      "GPU Variant": "Trinidad PRO (215-0870020)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "May 5th, 2015",
+      "Generation": "Pirate Islands (R9 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "925 MHz",
+      "Boost Clock": "975 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "179.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "24",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "31.20 GPixel/s",
+      "Texture Rate": "78.00 GTexel/s",
+      "FP32 (float)": "2.496 TFLOPS",
+      "FP64 (double)": "156.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "221 mm 8.7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "110 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C630, C634"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Trinidad GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon R9 270 1024SP": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn PRO (215-0828062)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 13th, 2015",
+      "Generation": "Volcanic Islands (R9 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "32 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "900 MHz",
+      "Boost Clock": "925 MHz",
+      "Memory Clock": "1200 MHz 4.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "153.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "32",
+      "Compute Units": "16",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.60 GPixel/s",
+      "Texture Rate": "59.20 GTexel/s",
+      "FP32 (float)": "1.894 TFLOPS",
+      "FP64 (double)": "118.4 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C403, C630"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Pitcairn GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon R7 350 Fake Card": {
+    "Graphics Processor": {
+      "GPU Name": "Opal",
+      "GPU Variant": "Opal XT",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "2015",
+      "Generation": "Pirate Islands (R7 300)",
+      "Predecessor": "Volcanic Islands",
+      "Successor": "Arctic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1050 MHz",
+      "Memory Clock": "1150 MHz 4.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "36.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.400 GPixel/s",
+      "Texture Rate": "25.20 GTexel/s",
+      "FP32 (float)": "806.4 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "35 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x HDMI 1.4a 1x DisplayPort 1.2 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "C550"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Opal GPU Notes": {}
+  },
+  "Radeon R7 250XE": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde XT (215-0825117)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 21st, 2014",
+      "Generation": "Volcanic Islands (R7 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "10 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "860 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "640",
+      "TMUs": "40",
+      "ROPs": "16",
+      "Compute Units": "10",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "13.76 GPixel/s",
+      "Texture Rate": "34.40 GTexel/s",
+      "FP32 (float)": "1,100.8 GFLOPS",
+      "FP64 (double)": "68.80 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "80 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Cape Verde GPU Notes": {}
+  },
+  "FirePro W4100": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde PRO GL (216-0834044)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 13th, 2014",
+      "Generation": "FirePro GCN (Wx100)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "630 MHz",
+      "Memory Clock": "1000 MHz 4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "64.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "10.08 GPixel/s",
+      "Texture Rate": "20.16 GTexel/s",
+      "FP32 (float)": "645.1 GFLOPS",
+      "FP64 (double)": "40.32 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "171 mm 6.7 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "4x mini-DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "109-C75581-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Cape Verde GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "FirePro W2100": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 12th, 2014",
+      "Generation": "FirePro GCN (Wx100)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "630 MHz",
+      "Boost Clock": "680 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "320",
+      "TMUs": "20",
+      "ROPs": "8",
+      "Compute Units": "5",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "5.440 GPixel/s",
+      "Texture Rate": "13.60 GTexel/s",
+      "FP32 (float)": "435.2 GFLOPS",
+      "FP64 (double)": "27.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "26 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "2x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "109-C57981-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Oland GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (3)": {}
+  },
+  "Radeon R7 265X OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Curacao",
+      "GPU Variant": "Curacao PRO (215-0848000)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 12th, 2014",
+      "Generation": "Volcanic Islands (R7 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "900 MHz",
+      "Boost Clock": "925 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "179.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "20",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.60 GPixel/s",
+      "Texture Rate": "74.00 GTexel/s",
+      "FP32 (float)": "2.368 TFLOPS",
+      "FP64 (double)": "148.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "210 mm 8.3 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "E271"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Curacao GPU Notes": {}
+  },
+  "FirePro S9050": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 7th, 2014",
+      "Generation": "FirePro Server (Sx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro GCN",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "900 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "264.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "28.80 GPixel/s",
+      "Texture Rate": "100.8 GTexel/s",
+      "FP32 (float)": "3.226 TFLOPS",
+      "FP64 (double)": "806.4 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "254 mm 10 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DisplayPort 1.2",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "C480"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "Radeon R9 280": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO3 (215-0821330)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 4th, 2014",
+      "Generation": "Volcanic Islands (R9 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Launch Price": "279 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "35 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "827 MHz",
+      "Boost Clock": "933 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.86 GPixel/s",
+      "Texture Rate": "104.5 GTexel/s",
+      "FP32 (float)": "3.344 TFLOPS",
+      "FP64 (double)": "836.0 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "275 mm 10.8 inches",
+      "Width": "109 mm 4.3 inches",
+      "Height": "36 mm 1.4 inches",
+      "TDP": "200 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DVI 2x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "C386"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Tahiti GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (13)": {}
+  },
+  "FirePro S10000 Passive 12GB": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Orthrus",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 1st, 2014",
+      "Generation": "FirePro Server (Sx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro GCN",
+      "Production": "End-of-life",
+      "Launch Price": "3,599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "825 MHz",
+      "Boost Clock": "950 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "30.40 GPixel/s",
+      "Texture Rate": "106.4 GTexel/s",
+      "FP32 (float)": "3.405 TFLOPS",
+      "FP64 (double)": "851.2 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "305 mm 12 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "375 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "1x DVI 1x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "C476"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "Radeon R7 250X": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde XT (215-0825117)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 13th, 2014",
+      "Generation": "Volcanic Islands (R7 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Launch Price": "99 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "10 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "950 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "640",
+      "TMUs": "40",
+      "ROPs": "16",
+      "Compute Units": "10",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "15.20 GPixel/s",
+      "Texture Rate": "38.00 GTexel/s",
+      "FP32 (float)": "1,216.0 GFLOPS",
+      "FP64 (double)": "76.00 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "210 mm 8.3 inches",
+      "TDP": "80 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C441, C698"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Cape Verde GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (15)": {}
+  },
+  "Radeon R7 265": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn PRO (215-0828062)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 13th, 2014",
+      "Generation": "Volcanic Islands (R7 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Launch Price": "149 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "12 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "900 MHz",
+      "Boost Clock": "925 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "179.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "32",
+      "Compute Units": "16",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.60 GPixel/s",
+      "Texture Rate": "59.20 GTexel/s",
+      "FP32 (float)": "1.894 TFLOPS",
+      "FP64 (double)": "118.4 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "210 mm 8.3 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C630"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Pitcairn GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (13)": {}
+  },
+  "FirePro D300": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn XT GL (215-0828073)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 18th, 2014",
+      "Generation": "FirePro Data Center (Dx00)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Instinct",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "850 MHz",
+      "Memory Clock": "1270 MHz 5.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "162.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "20",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "27.20 GPixel/s",
+      "Texture Rate": "68.00 GTexel/s",
+      "FP32 (float)": "2.176 TFLOPS",
+      "FP64 (double)": "136.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "242 mm 9.5 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "4x DisplayPort 1.2"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Pitcairn GPU Notes": {}
+  },
+  "FirePro D500": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti LE GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 18th, 2014",
+      "Generation": "FirePro Data Center (Dx00)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Instinct",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "725 MHz",
+      "Memory Clock": "1270 MHz 5.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "243.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "96",
+      "ROPs": "32",
+      "Compute Units": "24",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.20 GPixel/s",
+      "Texture Rate": "69.60 GTexel/s",
+      "FP32 (float)": "2.227 TFLOPS",
+      "FP64 (double)": "556.8 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "279 mm 11 inches",
+      "TDP": "274 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "6x mini-DisplayPort 1.2 1x SDI"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "FirePro D700": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti XT GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 18th, 2014",
+      "Generation": "FirePro Data Center (Dx00)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Instinct",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "850 MHz",
+      "Memory Clock": "1370 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "263.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "27.20 GPixel/s",
+      "Texture Rate": "108.8 GTexel/s",
+      "FP32 (float)": "3.482 TFLOPS",
+      "FP64 (double)": "870.4 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "279 mm 11 inches",
+      "TDP": "274 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "6x mini-DisplayPort 1.2 1x SDI"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "Radeon R9 255 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde PRX",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 21st, 2013",
+      "Generation": "Volcanic Islands (R9 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "900 MHz",
+      "Boost Clock": "930 MHz",
+      "Memory Clock": "1150 MHz 4.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "73.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "14.88 GPixel/s",
+      "Texture Rate": "29.76 GTexel/s",
+      "FP32 (float)": "952.3 GFLOPS",
+      "FP64 (double)": "59.52 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C750"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Cape Verde GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon R7 250E": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde PRO-E (215-0825384)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 20th, 2013",
+      "Generation": "Volcanic Islands (R7 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Launch Price": "109 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "24 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "800 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "12.80 GPixel/s",
+      "Texture Rate": "25.60 GTexel/s",
+      "FP32 (float)": "819.2 GFLOPS",
+      "FP64 (double)": "51.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "55 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "C444, C445"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Cape Verde GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (7)": {}
+  },
+  "Xbox One GPU": {
+    "Graphics Processor": {
+      "GPU Name": "Durango",
+      "GPU Variant": "X871363-001",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "5,000 million",
+      "Density": "13.8M / mm²",
+      "Die Size": "363 mm²",
+      "Chip Package": "BGA-1443"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 22nd, 2013",
+      "Generation": "Console GPU (Microsoft)",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "853 MHz",
+      "Memory Clock": "1066 MHz 2.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "68.22 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "16",
+      "Compute Units": "12"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "13.65 GPixel/s",
+      "Texture Rate": "40.94 GTexel/s",
+      "FP32 (float)": "1,310.2 GFLOPS"
+    },
+    "Board Design": {
+      "Length": "333 mm 13.1 inches",
+      "Width": "274 mm 10.8 inches",
+      "Height": "79 mm 3.1 inches",
+      "Weight": "3.5 kg (7.8 lbs)",
+      "Storage": "500 GB HDD",
+      "TDP": "95 W",
+      "Outputs": "1x HDMI 1.4b",
+      "Inputs": "1x HDMI 1.4b"
+    },
+    "Graphics Features": {
+      "DirectX": "11.2 (11_0)",
+      "OpenGL": "N/A",
+      "OpenCL": "1.2",
+      "Vulkan": "1.1",
+      "Shader Model": "5.1"
+    },
+    "Durango GPU Notes": {}
+  },
+  "Radeon R9 270": {
+    "Graphics Processor": {
+      "GPU Name": "Curacao",
+      "GPU Variant": "Curacao PRO (215-0848000)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 13th, 2013",
+      "Generation": "Volcanic Islands (R9 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Launch Price": "179 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "32 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "900 MHz",
+      "Boost Clock": "925 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "179.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "20",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.60 GPixel/s",
+      "Texture Rate": "74.00 GTexel/s",
+      "FP32 (float)": "2.368 TFLOPS",
+      "FP64 (double)": "148.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "210 mm 8.3 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-C63057-01_02, C631, C632"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Curacao GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (25)": {}
+  },
+  "Radeon R5 240 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 1st, 2013",
+      "Generation": "Volcanic Islands (R5 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "730 MHz",
+      "Boost Clock": "780 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "14.40 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "128 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.240 GPixel/s",
+      "Texture Rate": "18.72 GTexel/s",
+      "FP32 (float)": "599.0 GFLOPS",
+      "FP64 (double)": "37.44 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "C553"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon R7 240 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 1st, 2013",
+      "Generation": "Volcanic Islands (R7 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "5 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "730 MHz",
+      "Boost Clock": "780 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "320",
+      "TMUs": "20",
+      "ROPs": "8",
+      "Compute Units": "5",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.240 GPixel/s",
+      "Texture Rate": "15.60 GTexel/s",
+      "FP32 (float)": "499.2 GFLOPS",
+      "FP64 (double)": "31.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "C552"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon R7 240": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "GPU Variant": "Oland PRO (215-0837015)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 8th, 2013",
+      "Generation": "Volcanic Islands (R7 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Launch Price": "69 USD",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "5 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "730 MHz",
+      "Boost Clock": "780 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "320",
+      "TMUs": "20",
+      "ROPs": "8",
+      "Compute Units": "5",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.240 GPixel/s",
+      "Texture Rate": "15.60 GTexel/s",
+      "FP32 (float)": "499.2 GFLOPS"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "30 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "C552, C577"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Oland GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (34)": {}
+  },
+  "Radeon R7 250": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "GPU Variant": "Oland XT (215-0837006)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 8th, 2013",
+      "Generation": "Volcanic Islands (R7 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Launch Price": "89 USD",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "24 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1050 MHz",
+      "Memory Clock": "1150 MHz 4.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "73.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.400 GPixel/s",
+      "Texture Rate": "25.20 GTexel/s",
+      "FP32 (float)": "806.4 GFLOPS",
+      "FP64 (double)": "50.40 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "C576, C662"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (23)": {}
+  },
+  "Radeon R7 250 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "GPU Variant": "Oland XT (215-0837006)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 8th, 2013",
+      "Generation": "Volcanic Islands (R7 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8",
+      "Reviews": "24 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1050 MHz",
+      "Memory Clock": "1000 MHz 2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "32.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.400 GPixel/s",
+      "Texture Rate": "25.20 GTexel/s",
+      "FP32 (float)": "806.4 GFLOPS",
+      "FP64 (double)": "50.40 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "TDP": "65 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "C550, C552"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {}
+  },
+  "Radeon R9 270X": {
+    "Graphics Processor": {
+      "GPU Name": "Curacao",
+      "GPU Variant": "Curacao XT (215-0848004)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 8th, 2013",
+      "Generation": "Volcanic Islands (R9 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "90 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1050 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "179.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "20",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "33.60 GPixel/s",
+      "Texture Rate": "84.00 GTexel/s",
+      "FP32 (float)": "2.688 TFLOPS",
+      "FP64 (double)": "168.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "109 mm 4.3 inches",
+      "Height": "36 mm 1.4 inches",
+      "TDP": "180 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "C631, 109-C63257-00A_02, 109-C63257-12_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Curacao GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (45)": {}
+  },
+  "Radeon R9 280X": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti XTL (215-0821065)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 8th, 2013",
+      "Generation": "Volcanic Islands (R9 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Launch Price": "299 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "105 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "850 MHz",
+      "Boost Clock": "1000 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "32.00 GPixel/s",
+      "Texture Rate": "128.0 GTexel/s",
+      "FP32 (float)": "4.096 TFLOPS",
+      "FP64 (double)": "1,024.0 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "275 mm 10.8 inches",
+      "Width": "109 mm 4.3 inches",
+      "Height": "36 mm 1.4 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "C386"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Tahiti GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (39)": {}
+  },
+  "Radeon R9 280X2": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti XTL (215-0821065)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Unknown",
+      "Generation": "Volcanic Islands (R9 200)",
+      "Predecessor": "Sea Islands",
+      "Successor": "Pirate Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "950 MHz",
+      "Boost Clock": "1000 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "32.00 GPixel/s",
+      "Texture Rate": "128.0 GTexel/s",
+      "FP32 (float)": "4.096 TFLOPS",
+      "FP64 (double)": "1,024.0 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "315 mm 12.4 inches",
+      "TDP": "375 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "6x mini-DisplayPort 1.2",
+      "Power Connectors": "3x 8-pin",
+      "Board Number": "C386"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Tahiti GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon HD 8730 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde LE (215-0825090)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 5th, 2013",
+      "Generation": "Sea Islands (HD 8700)",
+      "Predecessor": "Southern Islands",
+      "Successor": "Volcanic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "800 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.400 GPixel/s",
+      "Texture Rate": "19.20 GTexel/s",
+      "FP32 (float)": "614.4 GFLOPS",
+      "FP64 (double)": "38.40 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "47 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Cape Verde GPU Notes": {}
+  },
+  "Radeon HD 8740 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde PRO (215-0825156)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 5th, 2013",
+      "Generation": "Sea Islands (HD 8700)",
+      "Predecessor": "Southern Islands",
+      "Successor": "Volcanic Islands",
+      "Production": "End-of-life",
+      "Launch Price": "109 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "800 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "12.80 GPixel/s",
+      "Texture Rate": "25.60 GTexel/s",
+      "FP32 (float)": "819.2 GFLOPS",
+      "FP64 (double)": "51.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "55 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "C445"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Cape Verde GPU Notes": {}
+  },
+  "Radeon HD 7730": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde LE (215-0825090)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "May 1st, 2013",
+      "Generation": "Southern Islands (HD 7700)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "59 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "11 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "800 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.400 GPixel/s",
+      "Texture Rate": "19.20 GTexel/s",
+      "FP32 (float)": "614.4 GFLOPS",
+      "FP64 (double)": "38.40 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "47 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "109-C44537-00C, 109-C44557-00, C575"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Cape Verde GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (14)": {}
+  },
+  "Radeon HD 7990": {
+    "Graphics Processor": {
+      "GPU Name": "Malta",
+      "GPU Variant": "Malta XT (215-0849026)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "11.8M / mm²",
+      "Die Size": "365 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 24th, 2013",
+      "Generation": "Southern Islands (HD 7900)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "999 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "37 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "950 MHz",
+      "Boost Clock": "1000 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "32.00 GPixel/s",
+      "Texture Rate": "128.0 GTexel/s",
+      "FP32 (float)": "4.096 TFLOPS",
+      "FP64 (double)": "1,024.0 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "304 mm 12 inches",
+      "Width": "106 mm 4.2 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "375 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "1x DVI 4x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "109-C47637-00A_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.175",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Malta GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (15)": {}
+  },
+  "Radeon HD 8990 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Malta",
+      "GPU Variant": "Malta XT (215-0849026)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "11.8M / mm²",
+      "Die Size": "365 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 24th, 2013",
+      "Generation": "Sea Islands (HD 8900)",
+      "Predecessor": "Southern Islands",
+      "Successor": "Volcanic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "950 MHz",
+      "Boost Clock": "1000 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "32.00 GPixel/s",
+      "Texture Rate": "128.0 GTexel/s",
+      "FP32 (float)": "4.096 TFLOPS",
+      "FP64 (double)": "1,024.0 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "307 mm 12.1 inches",
+      "TDP": "375 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "1x DVI 4x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "C476"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.175",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Malta GPU Notes": {}
+  },
+  "Radeon Sky 500": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn XT GL (215-0828073)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 27th, 2013",
+      "Generation": "Radeon Sky (x00)",
+      "Predecessor": "FirePro Remote",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "950 MHz",
+      "Memory Clock": "1200 MHz 4.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "153.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "20",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "30.40 GPixel/s",
+      "Texture Rate": "76.00 GTexel/s",
+      "FP32 (float)": "2.432 TFLOPS",
+      "FP64 (double)": "152.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "242 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Pitcairn GPU Notes": {}
+  },
+  "Radeon Sky 700": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 27th, 2013",
+      "Generation": "Radeon Sky (x00)",
+      "Predecessor": "FirePro Remote",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "900 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "264.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "28.80 GPixel/s",
+      "Texture Rate": "100.8 GTexel/s",
+      "FP32 (float)": "3.226 TFLOPS",
+      "FP64 (double)": "806.4 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DisplayPort 1.2",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "Radeon Sky 900": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Orthrus",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 27th, 2013",
+      "Generation": "Radeon Sky (x00)",
+      "Predecessor": "FirePro Remote",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "825 MHz",
+      "Boost Clock": "950 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "30.40 GPixel/s",
+      "Texture Rate": "106.4 GTexel/s",
+      "FP32 (float)": "3.405 TFLOPS",
+      "FP64 (double)": "851.2 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "305 mm 12 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "1x DVI 1x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "C476"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "Radeon HD 7950 Mac Edition": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO (215-0821056)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 7th, 2013",
+      "Generation": "Southern Islands (HD 7900)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "449 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "118 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "800 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "25.60 GPixel/s",
+      "Texture Rate": "89.60 GTexel/s",
+      "FP32 (float)": "2.867 TFLOPS",
+      "FP64 (double)": "716.8 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "279 mm 11 inches",
+      "TDP": "200 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "109-C38637-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Tahiti GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "FirePro R5000": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn LE GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 25th, 2013",
+      "Generation": "FirePro Remote",
+      "Successor": "Radeon Sky",
+      "Production": "End-of-life",
+      "Launch Price": "1,099 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "825 MHz",
+      "Memory Clock": "800 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "102.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "Compute Units": "12",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "26.40 GPixel/s",
+      "Texture Rate": "39.60 GTexel/s",
+      "FP32 (float)": "1,267.2 GFLOPS",
+      "FP64 (double)": "79.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "279 mm 11 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "2x mini-DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Pitcairn GPU Notes": {}
+  },
+  "FirePro W5000 DVI": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn LE GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 25th, 2013",
+      "Generation": "FirePro GCN (Wx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Launch Price": "599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "825 MHz",
+      "Memory Clock": "800 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "102.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "Compute Units": "12",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "26.40 GPixel/s",
+      "Texture Rate": "39.60 GTexel/s",
+      "FP32 (float)": "1,267.2 GFLOPS",
+      "FP64 (double)": "79.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "190 mm 7.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "2x DVI",
+      "Power Connectors": "None",
+      "Board Number": "109-C40481-00_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Pitcairn GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon HD 8570 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 8th, 2013",
+      "Generation": "Sea Islands (HD 8500)",
+      "Predecessor": "Southern Islands",
+      "Successor": "Volcanic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "730 MHz",
+      "Boost Clock": "780 MHz",
+      "Memory Clock": "900 MHz 1800 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR3",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "28.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "6.240 GPixel/s",
+      "Texture Rate": "18.72 GTexel/s",
+      "FP32 (float)": "599.0 GFLOPS",
+      "FP64 (double)": "37.44 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "50 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "109-C55237-00_02, 109-C55257-01_02"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Oland GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon HD 8670 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Oland",
+      "GPU Variant": "Oland XT (215-0837006)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "950 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "77 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 8th, 2013",
+      "Generation": "Sea Islands (HD 8600)",
+      "Predecessor": "Southern Islands",
+      "Successor": "Volcanic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x8"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1050 MHz",
+      "Memory Clock": "1150 MHz 4.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "73.60 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "8",
+      "Compute Units": "6",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "8.400 GPixel/s",
+      "Texture Rate": "25.20 GTexel/s",
+      "FP32 (float)": "806.4 GFLOPS",
+      "FP64 (double)": "50.40 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x VGA",
+      "Power Connectors": "None",
+      "Board Number": "C550"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Oland GPU Notes": {}
+  },
+  "Radeon HD 8760 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Latte XT",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 8th, 2013",
+      "Generation": "Sea Islands (HD 8700)",
+      "Predecessor": "Southern Islands",
+      "Successor": "Volcanic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1000 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "640",
+      "TMUs": "40",
+      "ROPs": "16",
+      "Compute Units": "10",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.00 GPixel/s",
+      "Texture Rate": "40.00 GTexel/s",
+      "FP32 (float)": "1,280.0 GFLOPS",
+      "FP64 (double)": "80.00 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "210 mm 8.3 inches",
+      "TDP": "80 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-C46857-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Cape Verde GPU Notes": {}
+  },
+  "Radeon HD 8860 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Curacao",
+      "GPU Variant": "Curacao PRO (215-0848000)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 8th, 2013",
+      "Generation": "Sea Islands (HD 8800)",
+      "Predecessor": "Southern Islands",
+      "Successor": "Volcanic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "925 MHz",
+      "Memory Clock": "1400 MHz 5.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "179.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "20",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.60 GPixel/s",
+      "Texture Rate": "74.00 GTexel/s",
+      "FP32 (float)": "2.368 TFLOPS",
+      "FP64 (double)": "148.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "175 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C630, C632"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Curacao GPU Notes": {}
+  },
+  "Radeon HD 8870 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn XT (215-0828047)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 8th, 2013",
+      "Generation": "Sea Islands (HD 8800)",
+      "Predecessor": "Southern Islands",
+      "Successor": "Volcanic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1000 MHz",
+      "Memory Clock": "1200 MHz 4.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "153.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "20",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "32.00 GPixel/s",
+      "Texture Rate": "80.00 GTexel/s",
+      "FP32 (float)": "2.560 TFLOPS",
+      "FP64 (double)": "160.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "175 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "109-C40157-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Pitcairn GPU Notes": {}
+  },
+  "Radeon HD 8950 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO (215-0821056)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 8th, 2013",
+      "Generation": "Sea Islands (HD 8900)",
+      "Predecessor": "Southern Islands",
+      "Successor": "Volcanic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "850 MHz",
+      "Boost Clock": "925 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.60 GPixel/s",
+      "Texture Rate": "103.6 GTexel/s",
+      "FP32 (float)": "3.315 TFLOPS",
+      "FP64 (double)": "828.8 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "200 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "109-C38637-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Radeon HD 8970 OEM": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti XT (215-0821060)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 8th, 2013",
+      "Generation": "Sea Islands (HD 8900)",
+      "Predecessor": "Southern Islands",
+      "Successor": "Volcanic Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "925 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "264.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.60 GPixel/s",
+      "Texture Rate": "118.4 GTexel/s",
+      "FP32 (float)": "3.789 TFLOPS",
+      "FP64 (double)": "947.2 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "274 mm 10.8 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "C386"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "Radeon HD 7870 XT": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti LE (215-0821122)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 19th, 2012",
+      "Generation": "Southern Islands (HD 7800)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "270 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "95 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "925 MHz",
+      "Boost Clock": "975 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "96",
+      "ROPs": "32",
+      "Compute Units": "24",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "31.20 GPixel/s",
+      "Texture Rate": "93.60 GTexel/s",
+      "FP32 (float)": "2.995 TFLOPS",
+      "FP64 (double)": "748.8 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "185 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "C474"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (7)": {}
+  },
+  "FirePro S10000": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Zaphod",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 12th, 2012",
+      "Generation": "FirePro Server (Sx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro GCN",
+      "Production": "End-of-life",
+      "Launch Price": "3,599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "825 MHz",
+      "Boost Clock": "950 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "30.40 GPixel/s",
+      "Texture Rate": "106.4 GTexel/s",
+      "FP32 (float)": "3.405 TFLOPS",
+      "FP64 (double)": "851.2 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "305 mm 12 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "375 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "1x DVI 4x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "C387"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "FirePro S10000 Passive": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 12th, 2012",
+      "Generation": "FirePro Server (Sx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro GCN",
+      "Production": "End-of-life",
+      "Launch Price": "3,599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "825 MHz",
+      "Boost Clock": "950 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "30.40 GPixel/s",
+      "Texture Rate": "106.4 GTexel/s",
+      "FP32 (float)": "3.405 TFLOPS",
+      "FP64 (double)": "851.2 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "305 mm 12 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "375 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "1x DVI 1x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "C476"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "FirePro W9000 X2": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Zaphod",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "FirePro GCN (Wx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Launch Price": "3,599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "825 MHz",
+      "Boost Clock": "950 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "30.40 GPixel/s",
+      "Texture Rate": "106.4 GTexel/s",
+      "FP32 (float)": "3.405 TFLOPS",
+      "FP64 (double)": "851.2 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "305 mm 12 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "375 W",
+      "Suggested PSU": "750 W",
+      "Outputs": "1x DVI 4x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "C387"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "Radeon HD 7970 X2": {
+    "Graphics Processor": {
+      "GPU Name": "New Zealand",
+      "GPU Variant": "New Zealand (215-0821060)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 31st, 2012",
+      "Generation": "Southern Islands (HD 7900)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "899 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "37 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "925 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "264.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.60 GPixel/s",
+      "Texture Rate": "118.4 GTexel/s",
+      "FP32 (float)": "3.789 TFLOPS",
+      "FP64 (double)": "947.2 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Triple-slot",
+      "Length": "308 mm 12.1 inches",
+      "Width": "137 mm 5.4 inches",
+      "Height": "62 mm 2.4 inches",
+      "TDP": "500 W",
+      "Suggested PSU": "900 W",
+      "Outputs": "2x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "3x 8-pin",
+      "Board Number": "C386"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "New Zealand GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (9)": {}
+  },
+  "FirePro S7000": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn XT GL (215-0828073)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 27th, 2012",
+      "Generation": "FirePro Server (Sx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro GCN",
+      "Production": "End-of-life",
+      "Launch Price": "1,249 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "950 MHz",
+      "Memory Clock": "1200 MHz 4.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "153.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "20",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "30.40 GPixel/s",
+      "Texture Rate": "76.00 GTexel/s",
+      "FP32 (float)": "2.432 TFLOPS",
+      "FP64 (double)": "152.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "292 mm 11.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C414"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Pitcairn GPU Notes": {}
+  },
+  "FirePro S9000": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 24th, 2012",
+      "Generation": "FirePro Server (Sx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro GCN",
+      "Production": "End-of-life",
+      "Launch Price": "2,499 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "900 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "264.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "28.80 GPixel/s",
+      "Texture Rate": "100.8 GTexel/s",
+      "FP32 (float)": "3.226 TFLOPS",
+      "FP64 (double)": "806.4 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DisplayPort 1.2",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "C480"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "FirePro S9010": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO (215-0821056)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 24th, 2012",
+      "Generation": "FirePro Server (Sx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro GCN",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "800 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "25.60 GPixel/s",
+      "Texture Rate": "89.60 GTexel/s",
+      "FP32 (float)": "2.867 TFLOPS",
+      "FP64 (double)": "716.8 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "200 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "C386"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "FirePro W4000": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn LE GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 7th, 2012",
+      "Generation": "FirePro GCN (Wx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "825 MHz",
+      "Memory Clock": "800 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "102.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "Compute Units": "12",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "26.40 GPixel/s",
+      "Texture Rate": "39.60 GTexel/s",
+      "FP32 (float)": "1,267.2 GFLOPS",
+      "FP64 (double)": "79.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "183 mm 7.2 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 2x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "109-C41771-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Pitcairn GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "FirePro W5000": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn LE GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 7th, 2012",
+      "Generation": "FirePro GCN (Wx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Launch Price": "599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "825 MHz",
+      "Memory Clock": "800 MHz 3.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "102.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "Compute Units": "12",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "26.40 GPixel/s",
+      "Texture Rate": "39.60 GTexel/s",
+      "FP32 (float)": "1,267.2 GFLOPS",
+      "FP64 (double)": "79.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "183 mm 7.2 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 2x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "109-C41771-00A"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Pitcairn GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon HD 7950 Boost": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO2 (215-0821282)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 22nd, 2012",
+      "Generation": "Southern Islands (HD 7900)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "449 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "118 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "850 MHz",
+      "Boost Clock": "925 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.60 GPixel/s",
+      "Texture Rate": "103.6 GTexel/s",
+      "FP32 (float)": "3.315 TFLOPS",
+      "FP64 (double)": "828.8 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "275 mm 10.8 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "200 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "109-C38637-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (18)": {}
+  },
+  "Radeon HD 7970 GHz Edition": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti XT2 (215-0821065)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 22nd, 2012",
+      "Generation": "Southern Islands (HD 7900)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "191 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1050 MHz",
+      "Memory Clock": "1500 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "288.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "33.60 GPixel/s",
+      "Texture Rate": "134.4 GTexel/s",
+      "FP32 (float)": "4.301 TFLOPS",
+      "FP64 (double)": "1,075.2 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "275 mm 10.8 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "109-C38637-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (17)": {}
+  },
+  "FirePro W8000": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 14th, 2012",
+      "Generation": "FirePro GCN (Wx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Launch Price": "1,599 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "2 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "900 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "176.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "28.80 GPixel/s",
+      "Texture Rate": "100.8 GTexel/s",
+      "FP32 (float)": "3.226 TFLOPS",
+      "FP64 (double)": "806.4 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "279 mm 11 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "225 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "4x DisplayPort 1.2 1x SDI",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "C383"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "FirePro W9000": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti XT GL",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 14th, 2012",
+      "Generation": "FirePro GCN (Wx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Launch Price": "3,999 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "975 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "264.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "31.20 GPixel/s",
+      "Texture Rate": "124.8 GTexel/s",
+      "FP32 (float)": "3.994 TFLOPS",
+      "FP64 (double)": "998.4 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "279 mm 11 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "274 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "6x mini-DisplayPort 1.2 1x SDI",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "C388"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {}
+  },
+  "FirePro W600": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde PRO GL (216-0834044)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 13th, 2012",
+      "Generation": "FirePro GCN (Wx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Launch Price": "599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "750 MHz",
+      "Memory Clock": "1000 MHz 4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "64.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "12.00 GPixel/s",
+      "Texture Rate": "24.00 GTexel/s",
+      "FP32 (float)": "768.0 GFLOPS",
+      "FP64 (double)": "48.00 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "20 mm 0.8 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "6x mini-DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "109-C44971-00, 109-C46857-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Cape Verde GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "FirePro W7000": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn XT GL (215-0828073)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 13th, 2012",
+      "Generation": "FirePro GCN (Wx000)",
+      "Predecessor": "FirePro Terascale",
+      "Successor": "Radeon Pro Polaris",
+      "Production": "End-of-life",
+      "Launch Price": "899 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "950 MHz",
+      "Memory Clock": "1200 MHz 4.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "153.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "20",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "30.40 GPixel/s",
+      "Texture Rate": "76.00 GTexel/s",
+      "FP32 (float)": "2.432 TFLOPS",
+      "FP64 (double)": "152.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "242 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "4x DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "C418"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Pitcairn GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Radeon HD 7850": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn PRO (215-0828062)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 5th, 2012",
+      "Generation": "Southern Islands (HD 7800)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "249 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "71 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "860 MHz",
+      "Memory Clock": "1200 MHz 4.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "153.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "32",
+      "Compute Units": "16",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "27.52 GPixel/s",
+      "Texture Rate": "55.04 GTexel/s",
+      "FP32 (float)": "1.761 TFLOPS",
+      "FP64 (double)": "110.1 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "210 mm 8.3 inches",
+      "TDP": "130 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-C40147-00, 109-C40337-00A"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Pitcairn GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (82)": {}
+  },
+  "Radeon HD 7870 GHz Edition": {
+    "Graphics Processor": {
+      "GPU Name": "Pitcairn",
+      "GPU Variant": "Pitcairn XT (215-0828047)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "2,800 million",
+      "Density": "13.2M / mm²",
+      "Die Size": "212 mm²",
+      "Chip Package": "FCBGA-1737"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 5th, 2012",
+      "Generation": "Southern Islands (HD 7800)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "349 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "95 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1000 MHz",
+      "Memory Clock": "1200 MHz 4.8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "153.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "32",
+      "Compute Units": "20",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "32.00 GPixel/s",
+      "Texture Rate": "80.00 GTexel/s",
+      "FP32 (float)": "2.560 TFLOPS",
+      "FP64 (double)": "160.0 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "241 mm 9.5 inches",
+      "TDP": "175 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "109-C40147-00, 109-C40147-00B"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Pitcairn GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (47)": {}
+  },
+  "Radeon HD 7750": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde PRO (215-0825156)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 15th, 2012",
+      "Generation": "Southern Islands (HD 7700)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "109 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "61 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "800 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "Compute Units": "8",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "12.80 GPixel/s",
+      "Texture Rate": "25.60 GTexel/s",
+      "FP32 (float)": "819.2 GFLOPS",
+      "FP64 (double)": "51.20 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "55 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 1x DisplayPort 1.2",
+      "Power Connectors": "None",
+      "Board Number": "C441, 109-C44537-00B"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Cape Verde GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (64)": {}
+  },
+  "Radeon HD 7770 GHz Edition": {
+    "Graphics Processor": {
+      "GPU Name": "Cape Verde",
+      "GPU Variant": "Cape Verde XT (215-0825117)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "1,500 million",
+      "Density": "12.2M / mm²",
+      "Die Size": "123 mm²",
+      "Chip Package": "FCBGA-962"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 15th, 2012",
+      "Generation": "Southern Islands (HD 7700)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "159 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "97 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "1000 MHz",
+      "Memory Clock": "1125 MHz 4.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "1024 MB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "72.00 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "640",
+      "TMUs": "40",
+      "ROPs": "16",
+      "Compute Units": "10",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "16.00 GPixel/s",
+      "Texture Rate": "40.00 GTexel/s",
+      "FP32 (float)": "1,280.0 GFLOPS",
+      "FP64 (double)": "80.00 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "210 mm 8.3 inches",
+      "TDP": "80 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "109-C44157-00C, C468"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Cape Verde GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (51)": {}
+  },
+  "Radeon HD 7950": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO (215-0821056)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 31st, 2012",
+      "Generation": "Southern Islands (HD 7900)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "449 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "118 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "800 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "32",
+      "Compute Units": "28",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "25.60 GPixel/s",
+      "Texture Rate": "89.60 GTexel/s",
+      "FP32 (float)": "2.867 TFLOPS",
+      "FP64 (double)": "716.8 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "278 mm 10.9 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "200 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "2x 6-pin",
+      "Board Number": "109-C38637-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (36)": {}
+  },
+  "Radeon HD 7950 Monica BIOS 1": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO (215-0821056)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 31st, 2012",
+      "Generation": "Southern Islands (HD 7900)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "118 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "925 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1536",
+      "TMUs": "96",
+      "ROPs": "32",
+      "Compute Units": "24",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.60 GPixel/s",
+      "Texture Rate": "88.80 GTexel/s",
+      "FP32 (float)": "2.842 TFLOPS",
+      "FP64 (double)": "710.4 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "185 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "C386"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Tahiti GPU Notes": {}
+  },
+  "Radeon HD 7950 Monica BIOS 2": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti PRO (215-0821056)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 31st, 2012",
+      "Generation": "Southern Islands (HD 7900)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "118 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "800 MHz",
+      "Memory Clock": "1250 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "240.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "Compute Units": "12",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "25.60 GPixel/s",
+      "Texture Rate": "38.40 GTexel/s",
+      "FP32 (float)": "1,228.8 GFLOPS",
+      "FP64 (double)": "307.2 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "85 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "C386"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Card Notes": {},
+    "Tahiti GPU Notes": {}
+  },
+  "Radeon HD 7970": {
+    "Graphics Processor": {
+      "GPU Name": "Tahiti",
+      "GPU Variant": "Tahiti XT (215-0821060)",
+      "Architecture": "GCN 1.0",
+      "Foundry": "TSMC",
+      "Process Size": "28 nm",
+      "Transistors": "4,313 million",
+      "Density": "12.3M / mm²",
+      "Die Size": "352 mm²"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 9th, 2012",
+      "Announced": "Dec 22nd, 2011",
+      "Generation": "Southern Islands (HD 7900)",
+      "Predecessor": "Northern Islands",
+      "Successor": "Sea Islands",
+      "Production": "End-of-life",
+      "Launch Price": "549 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "191 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "GPU Clock": "925 MHz",
+      "Memory Clock": "1375 MHz 5.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "264.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2048",
+      "TMUs": "128",
+      "ROPs": "32",
+      "Compute Units": "32",
+      "L1 Cache": "16 KB (per CU)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "29.60 GPixel/s",
+      "Texture Rate": "118.4 GTexel/s",
+      "FP32 (float)": "3.789 TFLOPS",
+      "FP64 (double)": "947.2 GFLOPS (1:4)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "275 mm 10.8 inches",
+      "Width": "111 mm 4.4 inches",
+      "Height": "38 mm 1.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x DVI 1x HDMI 1.4a 2x mini-DisplayPort 1.2",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "109-C38637-00"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (11_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1 (1.2)",
+      "Vulkan": "1.2.170",
+      "Shader Model": "6.5 (5.1)"
+    },
+    "Tahiti GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (48)": {}
+  }
+}

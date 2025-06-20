@@ -1,0 +1,3329 @@
+{
+  "GeForce GT 1010": {
+    "Graphics Processor": {
+      "GPU Name": "GP108",
+      "GPU Variant": "GP108-200-A1",
+      "Architecture": "Pascal",
+      "Foundry": "Samsung",
+      "Process Size": "14 nm",
+      "Transistors": "1,800 million",
+      "Density": "24.3M / mm²",
+      "Die Size": "74 mm²",
+      "Chip Package": "FCBGA-595"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 13th, 2021",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x4"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1228 MHz",
+      "Boost Clock": "1468 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "48.06 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "256",
+      "TMUs": "16",
+      "ROPs": "8",
+      "SM Count": "2",
+      "L1 Cache": "16 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "11.74 GPixel/s",
+      "Texture Rate": "23.49 GTexel/s",
+      "FP32 (float)": "751.6 GFLOPS",
+      "FP64 (double)": "31.32 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "147 mm 5.8 inches",
+      "TDP": "30 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x mini-HDMI 2.0",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP108 GPU Notes": {}
+  },
+  "GeForce GT 1010 DDR4": {
+    "Graphics Processor": {
+      "GPU Name": "GP108",
+      "GPU Variant": "GP108-200-A1",
+      "Architecture": "Pascal",
+      "Foundry": "Samsung",
+      "Process Size": "14 nm",
+      "Transistors": "1,800 million",
+      "Density": "24.3M / mm²",
+      "Die Size": "74 mm²",
+      "Chip Package": "FCBGA-595"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 13th, 2021",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x4"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1152 MHz",
+      "Boost Clock": "1380 MHz",
+      "Memory Clock": "1050 MHz 2.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR4",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "16.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "256",
+      "TMUs": "16",
+      "ROPs": "8",
+      "SM Count": "2",
+      "L1 Cache": "16 KB (per SM)",
+      "L2 Cache": "256 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "11.04 GPixel/s",
+      "Texture Rate": "22.08 GTexel/s",
+      "FP32 (float)": "706.6 GFLOPS",
+      "FP64 (double)": "29.44 GFLOPS (1:24)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "147 mm 5.8 inches",
+      "TDP": "20 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x mini-HDMI 2.0",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Quadro P2200": {
+    "Graphics Processor": {
+      "GPU Name": "GP106",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "4,400 million",
+      "Density": "22.0M / mm²",
+      "Die Size": "200 mm²",
+      "Chip Package": "BGA-2173"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 10th, 2019",
+      "Generation": "Quadro Pascal (Px200)",
+      "Predecessor": "Quadro Maxwell",
+      "Successor": "Quadro Volta",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1000 MHz",
+      "Boost Clock": "1493 MHz",
+      "Memory Clock": "1251 MHz 10 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "5 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "160 bit",
+      "Bandwidth": "200.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "40",
+      "SM Count": "10",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1280 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "59.72 GPixel/s",
+      "Texture Rate": "119.4 GTexel/s",
+      "FP16 (half)": "59.72 GFLOPS (1:64)",
+      "FP32 (float)": "3.822 TFLOPS",
+      "FP64 (double)": "119.4 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "201 mm 7.9 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "4x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "PG420 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GTX 1070 GDDR5X": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-200-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 4th, 2018",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "125 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1683 MHz",
+      "Memory Clock": "1001 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1920",
+      "TMUs": "120",
+      "ROPs": "64",
+      "SM Count": "15",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "107.7 GPixel/s",
+      "Texture Rate": "202.0 GTexel/s",
+      "FP16 (half)": "101.0 GFLOPS (1:64)",
+      "FP32 (float)": "6.463 TFLOPS",
+      "FP64 (double)": "202.0 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "112 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GTX 1060 6 GB GDDR5X": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-150-KA-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 18th, 2018",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "117 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1709 MHz",
+      "Memory Clock": "1001 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "192.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "48",
+      "SM Count": "10",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "82.03 GPixel/s",
+      "Texture Rate": "136.7 GTexel/s",
+      "FP16 (half)": "68.36 GFLOPS (1:64)",
+      "FP32 (float)": "4.375 TFLOPS",
+      "FP64 (double)": "136.7 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "250 mm 9.8 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (13)": {}
+  },
+  "GeForce GTX 1060 8 GB GDDR5X": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-150-KA-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "117 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1709 MHz",
+      "Memory Clock": "1001 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "64",
+      "SM Count": "10",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "109.4 GPixel/s",
+      "Texture Rate": "136.7 GTexel/s",
+      "FP16 (half)": "68.36 GFLOPS (1:64)",
+      "FP32 (float)": "4.375 TFLOPS",
+      "FP64 (double)": "136.7 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "250 mm 9.8 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {}
+  },
+  "P102-101": {
+    "Graphics Processor": {
+      "GPU Name": "GP102",
+      "GPU Variant": "GP102-101-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "11,800 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "471 mm²",
+      "Chip Package": "BGA-2397"
+    },
+    "Graphics Card": {
+      "Release Date": "2018",
+      "Generation": "Mining GPUs",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x4"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1557 MHz",
+      "Boost Clock": "1670 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "10 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "320.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3200",
+      "TMUs": "200",
+      "ROPs": "80",
+      "SM Count": "25",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2.5 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "133.6 GPixel/s",
+      "Texture Rate": "334.0 GTexel/s",
+      "FP16 (half)": "167.0 GFLOPS (1:64)",
+      "FP32 (float)": "10.69 TFLOPS",
+      "FP64 (double)": "334.0 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "PG611 SKU 101"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP102 GPU Notes": {}
+  },
+  "GeForce GTX 1080 Ti 10 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GP102",
+      "GPU Variant": "GP102-300-KA-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "11,800 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "471 mm²",
+      "Chip Package": "BGA-2397"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "149 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1582 MHz",
+      "Boost Clock": "1683 MHz",
+      "Memory Clock": "1376 MHz 11 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "10 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "440.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3200",
+      "TMUs": "200",
+      "ROPs": "80",
+      "SM Count": "25",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2.5 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "134.6 GPixel/s",
+      "Texture Rate": "336.6 GTexel/s",
+      "FP16 (half)": "168.3 GFLOPS (1:64)",
+      "FP32 (float)": "10.77 TFLOPS",
+      "FP64 (double)": "336.6 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "112 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "PG611 SKU 10"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "GP102 GPU Notes": {}
+  },
+  "GeForce GTX 1080 Ti 12 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GP102",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "11,800 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "471 mm²",
+      "Chip Package": "BGA-2397"
+    },
+    "Graphics Card": {
+      "Release Date": "Never Released",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "149 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1557 MHz",
+      "Boost Clock": "1670 MHz",
+      "Memory Clock": "1376 MHz 11 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "528.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3200",
+      "TMUs": "200",
+      "ROPs": "80",
+      "SM Count": "25",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2.5 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "133.6 GPixel/s",
+      "Texture Rate": "334.0 GTexel/s",
+      "FP16 (half)": "167.0 GFLOPS (1:64)",
+      "FP32 (float)": "10.69 TFLOPS",
+      "FP64 (double)": "334.0 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "112 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "PG611 SKU 10"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "GP102 GPU Notes": {}
+  },
+  "GeForce GTX 1050 3 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GP107",
+      "GPU Variant": "GP107-301-K1-A1",
+      "Architecture": "Pascal",
+      "Foundry": "Samsung",
+      "Process Size": "14 nm",
+      "Transistors": "3,300 million",
+      "Density": "25.0M / mm²",
+      "Die Size": "132 mm²",
+      "Chip Package": "FCBGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "May 21st, 2018",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1392 MHz",
+      "Boost Clock": "1518 MHz",
+      "Memory Clock": "1752 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "96 bit",
+      "Bandwidth": "84.10 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "24",
+      "SM Count": "6",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "768 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "36.43 GPixel/s",
+      "Texture Rate": "72.86 GTexel/s",
+      "FP16 (half)": "36.43 GFLOPS (1:64)",
+      "FP32 (float)": "2.332 TFLOPS",
+      "FP64 (double)": "72.86 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "145 mm 5.7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "PG210"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP107 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (24)": {}
+  },
+  "GeForce GT 1030 DDR4": {
+    "Graphics Processor": {
+      "GPU Name": "GP108",
+      "GPU Variant": "GP108-310-A1",
+      "Architecture": "Pascal",
+      "Foundry": "Samsung",
+      "Process Size": "14 nm",
+      "Transistors": "1,800 million",
+      "Density": "24.3M / mm²",
+      "Die Size": "74 mm²",
+      "Chip Package": "FCBGA-595"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 12th, 2018",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "79 USD",
+      "Bus Interface": "PCIe 3.0 x4",
+      "Reviews": "6 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1152 MHz",
+      "Boost Clock": "1379 MHz",
+      "Memory Clock": "1050 MHz 2.1 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "DDR4",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "16.80 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "16",
+      "SM Count": "3",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "22.06 GPixel/s",
+      "Texture Rate": "33.10 GTexel/s",
+      "FP16 (half)": "16.55 GFLOPS (1:64)",
+      "FP32 (float)": "1,059.1 GFLOPS",
+      "FP64 (double)": "33.10 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "Width": "69 mm 2.7 inches",
+      "Height": "15 mm 0.6 inches",
+      "TDP": "20 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 2.0",
+      "Power Connectors": "None",
+      "Board Number": "PG111 SKU 01"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (20)": {}
+  },
+  "GeForce GTX 1060 6 GB GP104": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-150-KA-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 8th, 2018",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "117 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1708 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "192.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "48",
+      "SM Count": "10",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "81.98 GPixel/s",
+      "Texture Rate": "136.6 GTexel/s",
+      "FP16 (half)": "68.32 GFLOPS (1:64)",
+      "FP32 (float)": "4.372 TFLOPS",
+      "FP64 (double)": "136.6 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "250 mm 9.8 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG410 SKU 10"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (6)": {}
+  },
+  "P102-100": {
+    "Graphics Processor": {
+      "GPU Name": "GP102",
+      "GPU Variant": "GP102-100-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "11,800 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "471 mm²",
+      "Chip Package": "BGA-2397"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 12th, 2018",
+      "Generation": "Mining GPUs",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x4"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1582 MHz",
+      "Boost Clock": "1683 MHz",
+      "Memory Clock": "1376 MHz 11 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "5 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "320 bit",
+      "Bandwidth": "440.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3200",
+      "TMUs": "200",
+      "ROPs": "80",
+      "SM Count": "25",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2.5 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "134.6 GPixel/s",
+      "Texture Rate": "336.6 GTexel/s",
+      "FP16 (half)": "168.3 GFLOPS (1:64)",
+      "FP32 (float)": "10.77 TFLOPS",
+      "FP64 (double)": "336.6 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "2x 8-pin",
+      "Board Number": "PG611 SKU 100"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP102 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Quadro P620": {
+    "Graphics Processor": {
+      "GPU Name": "GP107",
+      "Architecture": "Pascal",
+      "Foundry": "Samsung",
+      "Process Size": "14 nm",
+      "Transistors": "3,300 million",
+      "Density": "25.0M / mm²",
+      "Die Size": "132 mm²",
+      "Chip Package": "FCBGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 1st, 2018",
+      "Generation": "Quadro Pascal (Px200)",
+      "Predecessor": "Quadro Maxwell",
+      "Successor": "Quadro Volta",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1266 MHz",
+      "Boost Clock": "1354 MHz",
+      "Memory Clock": "1252 MHz 5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "80.13 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SM Count": "4",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "21.66 GPixel/s",
+      "Texture Rate": "43.33 GTexel/s",
+      "FP16 (half)": "21.66 GFLOPS (1:64)",
+      "FP32 (float)": "1,386.5 GFLOPS",
+      "FP64 (double)": "43.33 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "40 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "4x mini-DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "PG212 SKU 505"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP107 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GTX 1060 6 GB Rev. 2": {
+    "Graphics Processor": {
+      "GPU Name": "GP106",
+      "GPU Variant": "GP106-400-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "4,400 million",
+      "Density": "22.0M / mm²",
+      "Die Size": "200 mm²",
+      "Chip Package": "BGA-2173"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 5th, 2018",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "299 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "117 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1709 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "192.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "48",
+      "SM Count": "10",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "82.03 GPixel/s",
+      "Texture Rate": "136.7 GTexel/s",
+      "FP16 (half)": "68.36 GFLOPS (1:64)",
+      "FP32 (float)": "4.375 TFLOPS",
+      "FP64 (double)": "136.7 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "250 mm 9.8 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG410 SKU 31"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (7)": {}
+  },
+  "P104-101": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-101-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Jan 5th, 2018",
+      "Generation": "Mining GPUs",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x4",
+      "Reviews": "1 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1683 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2560",
+      "TMUs": "160",
+      "ROPs": "64",
+      "SM Count": "20",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "107.7 GPixel/s",
+      "Texture Rate": "269.3 GTexel/s",
+      "FP16 (half)": "134.6 GFLOPS (1:64)",
+      "FP32 (float)": "8.617 TFLOPS",
+      "FP64 (double)": "269.3 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG413 SKU 101"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {}
+  },
+  "GeForce GTX 1060 5 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GP106",
+      "GPU Variant": "GP106-350-K3-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "4,400 million",
+      "Density": "22.0M / mm²",
+      "Die Size": "200 mm²",
+      "Chip Package": "BGA-2173"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 26th, 2017",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "117 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1709 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "5 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "160 bit",
+      "Bandwidth": "160.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "40",
+      "SM Count": "10",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1280 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "68.36 GPixel/s",
+      "Texture Rate": "136.7 GTexel/s",
+      "FP16 (half)": "68.36 GFLOPS (1:64)",
+      "FP32 (float)": "4.375 TFLOPS",
+      "FP64 (double)": "136.7 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "250 mm 9.8 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG410 SKU 20"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "GP106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (21)": {}
+  },
+  "P104-100": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-100-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 12th, 2017",
+      "Generation": "Mining GPUs",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x4",
+      "Reviews": "1 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1607 MHz",
+      "Boost Clock": "1733 MHz",
+      "Memory Clock": "1251 MHz 10 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "320.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1920",
+      "TMUs": "120",
+      "ROPs": "64",
+      "SM Count": "15",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "110.9 GPixel/s",
+      "Texture Rate": "208.0 GTexel/s",
+      "FP16 (half)": "104.0 GFLOPS (1:64)",
+      "FP32 (float)": "6.655 TFLOPS",
+      "FP64 (double)": "208.0 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG413 SKU 100"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (7)": {}
+  },
+  "GeForce GTX 1070 Ti": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-300-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Nov 2nd, 2017",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "399 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "81 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1607 MHz",
+      "Boost Clock": "1683 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2432",
+      "TMUs": "152",
+      "ROPs": "64",
+      "SM Count": "19",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "107.7 GPixel/s",
+      "Texture Rate": "255.8 GTexel/s",
+      "FP16 (half)": "127.9 GFLOPS (1:64)",
+      "FP32 (float)": "8.186 TFLOPS",
+      "FP64 (double)": "255.8 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "112 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "180 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG411 SKU 10"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (80)": {}
+  },
+  "P106-090": {
+    "Graphics Processor": {
+      "GPU Name": "GP106",
+      "GPU Variant": "GP106-090-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "4,400 million",
+      "Density": "22.0M / mm²",
+      "Die Size": "200 mm²",
+      "Chip Package": "BGA-2173"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 31st, 2017",
+      "Generation": "Mining GPUs",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x1",
+      "Reviews": "1 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1354 MHz",
+      "Boost Clock": "1531 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "192.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "48",
+      "SM Count": "6",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "73.49 GPixel/s",
+      "Texture Rate": "73.49 GTexel/s",
+      "FP16 (half)": "36.74 GFLOPS (1:64)",
+      "FP32 (float)": "2.352 TFLOPS",
+      "FP64 (double)": "73.49 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "250 mm 9.8 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG410 SKU 90"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (5)": {}
+  },
+  "P106-100": {
+    "Graphics Processor": {
+      "GPU Name": "GP106",
+      "GPU Variant": "GP106-100-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "4,400 million",
+      "Density": "22.0M / mm²",
+      "Die Size": "200 mm²",
+      "Chip Package": "BGA-2173"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 19th, 2017",
+      "Generation": "Mining GPUs",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 1.0 x16",
+      "Reviews": "1 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1709 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "192.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "48",
+      "SM Count": "10",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "82.03 GPixel/s",
+      "Texture Rate": "136.7 GTexel/s",
+      "FP16 (half)": "68.36 GFLOPS (1:64)",
+      "FP32 (float)": "4.375 TFLOPS",
+      "FP64 (double)": "136.7 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "250 mm 9.8 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG410 SKU 100"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (19)": {}
+  },
+  "GeForce GT 1030": {
+    "Graphics Processor": {
+      "GPU Name": "GP108",
+      "GPU Variant": "GP108-300-A1",
+      "Architecture": "Pascal",
+      "Foundry": "Samsung",
+      "Process Size": "14 nm",
+      "Transistors": "1,800 million",
+      "Density": "24.3M / mm²",
+      "Die Size": "74 mm²",
+      "Chip Package": "FCBGA-595"
+    },
+    "Graphics Card": {
+      "Release Date": "May 17th, 2017",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "79 USD",
+      "Bus Interface": "PCIe 3.0 x4",
+      "Reviews": "6 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1228 MHz",
+      "Boost Clock": "1468 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "48.06 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "16",
+      "SM Count": "3",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "23.49 GPixel/s",
+      "Texture Rate": "35.23 GTexel/s",
+      "FP16 (half)": "17.62 GFLOPS (1:64)",
+      "FP32 (float)": "1,127.4 GFLOPS",
+      "FP64 (double)": "35.23 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "145 mm 5.7 inches",
+      "Width": "69 mm 2.7 inches",
+      "Height": "18 mm 0.7 inches",
+      "TDP": "30 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x HDMI 2.0",
+      "Power Connectors": "None",
+      "Board Number": "PG110 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP108 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (69)": {}
+  },
+  "GeForce GTX 1060 6 GB 9Gbps": {
+    "Graphics Processor": {
+      "GPU Name": "GP106",
+      "GPU Variant": "GP106-410-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "4,400 million",
+      "Density": "22.0M / mm²",
+      "Die Size": "200 mm²",
+      "Chip Package": "BGA-2173"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 20th, 2017",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "299 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "117 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1709 MHz",
+      "Memory Clock": "2257 MHz 9 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "216.7 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "48",
+      "SM Count": "10",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "82.03 GPixel/s",
+      "Texture Rate": "136.7 GTexel/s",
+      "FP16 (half)": "68.36 GFLOPS (1:64)",
+      "FP32 (float)": "4.375 TFLOPS",
+      "FP64 (double)": "136.7 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "250 mm 9.8 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG410 SKU 40"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (15)": {}
+  },
+  "GeForce GTX 1080 11Gbps": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-410-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 20th, 2017",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "499 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "183 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1607 MHz",
+      "Boost Clock": "1733 MHz",
+      "Memory Clock": "1376 MHz 11 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "352.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2560",
+      "TMUs": "160",
+      "ROPs": "64",
+      "SM Count": "20",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "110.9 GPixel/s",
+      "Texture Rate": "277.3 GTexel/s",
+      "FP16 (half)": "138.6 GFLOPS (1:64)",
+      "FP32 (float)": "8.873 TFLOPS",
+      "FP64 (double)": "277.3 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "112 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "180 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG413 SKU 5"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (17)": {}
+  },
+  "TITAN Xp": {
+    "Graphics Processor": {
+      "GPU Name": "GP102",
+      "GPU Variant": "GP102-450-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "11,800 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "471 mm²",
+      "Chip Package": "BGA-2397"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 6th, 2017",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "1,199 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "9 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1405 MHz",
+      "Boost Clock": "1582 MHz",
+      "Memory Clock": "1426 MHz 11.4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "547.6 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3840",
+      "TMUs": "240",
+      "ROPs": "96",
+      "SM Count": "30",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "151.9 GPixel/s",
+      "Texture Rate": "379.7 GTexel/s",
+      "FP16 (half)": "189.8 GFLOPS (1:64)",
+      "FP32 (float)": "12.15 TFLOPS",
+      "FP64 (double)": "379.7 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "112 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "PG611 SKU 30"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP102 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "GeForce GTX 1080 Ti": {
+    "Graphics Processor": {
+      "GPU Name": "GP102",
+      "GPU Variant": "GP102-350-K1-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "11,800 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "471 mm²",
+      "Chip Package": "BGA-2397"
+    },
+    "Graphics Card": {
+      "Release Date": "Mar 10th, 2017",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "699 USD",
+      "Current Price": "Amazon / Newegg",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "149 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1481 MHz",
+      "Boost Clock": "1582 MHz",
+      "Memory Clock": "1376 MHz 11 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "11 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "352 bit",
+      "Bandwidth": "484.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3584",
+      "TMUs": "224",
+      "ROPs": "88",
+      "SM Count": "28",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2.75 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "139.2 GPixel/s",
+      "Texture Rate": "354.4 GTexel/s",
+      "FP16 (half)": "177.2 GFLOPS (1:64)",
+      "FP32 (float)": "11.34 TFLOPS",
+      "FP64 (double)": "354.4 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "112 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "PG611 SKU 50"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "GP102 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (151)": {}
+  },
+  "Quadro P1000": {
+    "Graphics Processor": {
+      "GPU Name": "GP107",
+      "Architecture": "Pascal",
+      "Foundry": "Samsung",
+      "Process Size": "14 nm",
+      "Transistors": "3,300 million",
+      "Density": "25.0M / mm²",
+      "Die Size": "132 mm²",
+      "Chip Package": "FCBGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 7th, 2017",
+      "Generation": "Quadro Pascal (Px000)",
+      "Predecessor": "Quadro Maxwell",
+      "Successor": "Quadro Volta",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1354 MHz",
+      "Boost Clock": "1392 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "96.13 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "512",
+      "TMUs": "32",
+      "ROPs": "16",
+      "SM Count": "4",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "22.27 GPixel/s",
+      "Texture Rate": "44.54 GTexel/s",
+      "FP16 (half)": "22.27 GFLOPS (1:64)",
+      "FP32 (float)": "1,425.4 GFLOPS",
+      "FP64 (double)": "44.54 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "47 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "4x mini-DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "PG212 SKU 502"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP107 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (3)": {}
+  },
+  "Quadro P400": {
+    "Graphics Processor": {
+      "GPU Name": "GP107",
+      "GPU Variant": "GP107-825-KA-A1",
+      "Architecture": "Pascal",
+      "Foundry": "Samsung",
+      "Process Size": "14 nm",
+      "Transistors": "3,300 million",
+      "Density": "25.0M / mm²",
+      "Die Size": "132 mm²",
+      "Chip Package": "FCBGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 7th, 2017",
+      "Generation": "Quadro Pascal (Px000)",
+      "Predecessor": "Quadro Maxwell",
+      "Successor": "Quadro Volta",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1228 MHz",
+      "Boost Clock": "1252 MHz",
+      "Memory Clock": "1002 MHz 4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "32.06 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "256",
+      "TMUs": "16",
+      "ROPs": "16",
+      "SM Count": "2",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "512 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "20.03 GPixel/s",
+      "Texture Rate": "20.03 GTexel/s",
+      "FP16 (half)": "10.02 GFLOPS (1:64)",
+      "FP32 (float)": "641.0 GFLOPS",
+      "FP64 (double)": "20.03 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "30 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "3x mini-DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "PG212 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP107 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (2)": {}
+  },
+  "Quadro P600": {
+    "Graphics Processor": {
+      "GPU Name": "GP107",
+      "Architecture": "Pascal",
+      "Foundry": "Samsung",
+      "Process Size": "14 nm",
+      "Transistors": "3,300 million",
+      "Density": "25.0M / mm²",
+      "Die Size": "132 mm²",
+      "Chip Package": "FCBGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 7th, 2017",
+      "Generation": "Quadro Pascal (Px000)",
+      "Predecessor": "Quadro Maxwell",
+      "Successor": "Quadro Volta",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1329 MHz",
+      "Boost Clock": "1557 MHz",
+      "Memory Clock": "1002 MHz 4 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "64.13 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "384",
+      "TMUs": "24",
+      "ROPs": "16",
+      "SM Count": "3",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "24.91 GPixel/s",
+      "Texture Rate": "37.37 GTexel/s",
+      "FP16 (half)": "18.68 GFLOPS (1:64)",
+      "FP32 (float)": "1,195.8 GFLOPS",
+      "FP64 (double)": "37.37 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "Width": "69 mm 2.7 inches",
+      "TDP": "40 W",
+      "Suggested PSU": "200 W",
+      "Outputs": "4x mini-DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "PG212 SKU 501"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP107 GPU Notes": {}
+  },
+  "Quadro P2000": {
+    "Graphics Processor": {
+      "GPU Name": "GP106",
+      "GPU Variant": "GP106-875-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "4,400 million",
+      "Density": "22.0M / mm²",
+      "Die Size": "200 mm²",
+      "Chip Package": "BGA-2173"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 6th, 2017",
+      "Generation": "Quadro Pascal (Px000)",
+      "Predecessor": "Quadro Maxwell",
+      "Successor": "Quadro Volta",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1076 MHz",
+      "Boost Clock": "1480 MHz",
+      "Memory Clock": "1752 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "5 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "160 bit",
+      "Bandwidth": "140.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "40",
+      "SM Count": "8",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1280 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "59.20 GPixel/s",
+      "Texture Rate": "94.72 GTexel/s",
+      "FP16 (half)": "47.36 GFLOPS (1:64)",
+      "FP32 (float)": "3.031 TFLOPS",
+      "FP64 (double)": "94.72 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "196 mm 7.7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "4x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "PG410 SKU 502"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "Quadro P4000": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-850-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Feb 6th, 2017",
+      "Generation": "Quadro Pascal (Px000)",
+      "Predecessor": "Quadro Maxwell",
+      "Successor": "Quadro Volta",
+      "Production": "End-of-life",
+      "Launch Price": "815 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1202 MHz",
+      "Boost Clock": "1480 MHz",
+      "Memory Clock": "1901 MHz 7.6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "243.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1792",
+      "TMUs": "112",
+      "ROPs": "64",
+      "SM Count": "14",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "94.72 GPixel/s",
+      "Texture Rate": "165.8 GTexel/s",
+      "FP16 (half)": "82.88 GFLOPS (1:64)",
+      "FP32 (float)": "5.304 TFLOPS",
+      "FP64 (double)": "165.8 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "241 mm 9.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "105 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "4x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG410 SKU 501"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (1)": {}
+  },
+  "GeForce GTX 1060 3 GB GP104": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-140-KA-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Dec 25th, 2016",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "117 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1708 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "192.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1152",
+      "TMUs": "72",
+      "ROPs": "48",
+      "SM Count": "9",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "81.98 GPixel/s",
+      "Texture Rate": "123.0 GTexel/s",
+      "FP16 (half)": "61.49 GFLOPS (1:64)",
+      "FP32 (float)": "3.935 TFLOPS",
+      "FP64 (double)": "123.0 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "250 mm 9.8 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (6)": {}
+  },
+  "GeForce GTX 1050": {
+    "Graphics Processor": {
+      "GPU Name": "GP107",
+      "GPU Variant": "GP107-300-A1",
+      "Architecture": "Pascal",
+      "Foundry": "Samsung",
+      "Process Size": "14 nm",
+      "Transistors": "3,300 million",
+      "Density": "25.0M / mm²",
+      "Die Size": "132 mm²",
+      "Chip Package": "FCBGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 25th, 2016",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "109 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "15 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1354 MHz",
+      "Boost Clock": "1455 MHz",
+      "Memory Clock": "1752 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "2 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "112.1 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "640",
+      "TMUs": "40",
+      "ROPs": "32",
+      "SM Count": "5",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "46.56 GPixel/s",
+      "Texture Rate": "58.20 GTexel/s",
+      "FP16 (half)": "29.10 GFLOPS (1:64)",
+      "FP32 (float)": "1.862 TFLOPS",
+      "FP64 (double)": "58.20 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "145 mm 5.7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "PG210 SKU 1"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP107 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (141)": {}
+  },
+  "GeForce GTX 1050 Ti": {
+    "Graphics Processor": {
+      "GPU Name": "GP107",
+      "GPU Variant": "GP107-400-A1",
+      "Architecture": "Pascal",
+      "Foundry": "Samsung",
+      "Process Size": "14 nm",
+      "Transistors": "3,300 million",
+      "Density": "25.0M / mm²",
+      "Die Size": "132 mm²",
+      "Chip Package": "FCBGA-908"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 25th, 2016",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "139 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "58 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1291 MHz",
+      "Boost Clock": "1392 MHz",
+      "Memory Clock": "1752 MHz 7 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "4 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "128 bit",
+      "Bandwidth": "112.1 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "768",
+      "TMUs": "48",
+      "ROPs": "32",
+      "SM Count": "6",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1024 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "44.54 GPixel/s",
+      "Texture Rate": "66.82 GTexel/s",
+      "FP16 (half)": "33.41 GFLOPS (1:64)",
+      "FP32 (float)": "2.138 TFLOPS",
+      "FP64 (double)": "66.82 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "145 mm 5.7 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 1x DisplayPort 1.4a",
+      "Power Connectors": "None",
+      "Board Number": "PG210"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP107 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (161)": {}
+  },
+  "Quadro GP100": {
+    "Graphics Processor": {
+      "GPU Name": "GP100",
+      "GPU Variant": "GP100-897-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "15,300 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "610 mm²",
+      "Chip Package": "BGA-2621"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2016",
+      "Generation": "Quadro Pascal (Px000)",
+      "Predecessor": "Quadro Maxwell",
+      "Successor": "Quadro Volta",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1304 MHz",
+      "Boost Clock": "1443 MHz",
+      "Memory Clock": "715 MHz 1430 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "732.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3584",
+      "TMUs": "224",
+      "ROPs": "96",
+      "SM Count": "56",
+      "L1 Cache": "24 KB (per SM)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "138.5 GPixel/s",
+      "Texture Rate": "323.2 GTexel/s",
+      "FP16 (half)": "20.69 TFLOPS (2:1)",
+      "FP32 (float)": "10.34 TFLOPS",
+      "FP64 (double)": "5.172 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "235 W",
+      "Suggested PSU": "550 W",
+      "Outputs": "1x DVI 4x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PH400 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.0",
+      "Shader Model": "6.0"
+    },
+    "GP100 GPU Notes": {}
+  },
+  "Quadro P5000": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-875-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2016",
+      "Generation": "Quadro Pascal (Px000)",
+      "Predecessor": "Quadro Maxwell",
+      "Successor": "Quadro Volta",
+      "Production": "End-of-life",
+      "Launch Price": "2,499 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1607 MHz",
+      "Boost Clock": "1733 MHz",
+      "Memory Clock": "1127 MHz 9 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "288.5 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2560",
+      "TMUs": "160",
+      "ROPs": "64",
+      "SM Count": "20",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "110.9 GPixel/s",
+      "Texture Rate": "277.3 GTexel/s",
+      "FP16 (half)": "138.6 GFLOPS (1:64)",
+      "FP32 (float)": "8.873 TFLOPS",
+      "FP64 (double)": "277.3 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "180 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 4x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG413 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {}
+  },
+  "Quadro P6000": {
+    "Graphics Processor": {
+      "GPU Name": "GP102",
+      "GPU Variant": "GP102-875-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "11,800 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "471 mm²",
+      "Chip Package": "BGA-2397"
+    },
+    "Graphics Card": {
+      "Release Date": "Oct 1st, 2016",
+      "Generation": "Quadro Pascal (Px000)",
+      "Predecessor": "Quadro Maxwell",
+      "Successor": "Quadro Volta",
+      "Production": "End-of-life",
+      "Launch Price": "5,999 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1645 MHz",
+      "Memory Clock": "1127 MHz 9 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "24 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "432.8 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3840",
+      "TMUs": "240",
+      "ROPs": "96",
+      "SM Count": "30",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "157.9 GPixel/s",
+      "Texture Rate": "394.8 GTexel/s",
+      "FP16 (half)": "197.4 GFLOPS (1:64)",
+      "FP32 (float)": "12.63 TFLOPS",
+      "FP64 (double)": "394.8 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x DVI 4x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG611 SKU 500"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP102 GPU Notes": {}
+  },
+  "Tesla P10": {
+    "Graphics Processor": {
+      "GPU Name": "GP102",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "11,800 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "471 mm²",
+      "Chip Package": "BGA-2397"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 13th, 2016",
+      "Generation": "Tesla Pascal (Pxx)",
+      "Predecessor": "Tesla Maxwell",
+      "Successor": "Tesla Volta",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1025 MHz",
+      "Boost Clock": "1493 MHz",
+      "Memory Clock": "1808 MHz 14.5 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "24 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "694.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3840",
+      "TMUs": "240",
+      "ROPs": "96",
+      "SM Count": "30",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "143.3 GPixel/s",
+      "Texture Rate": "358.3 GTexel/s",
+      "FP16 (half)": "179.2 GFLOPS (1:64)",
+      "FP32 (float)": "11.47 TFLOPS",
+      "FP64 (double)": "358.3 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "97 mm 3.8 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG610 SKU 210"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "Card Notes": {},
+    "GP102 GPU Notes": {}
+  },
+  "Tesla P4": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-895-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 13th, 2016",
+      "Generation": "Tesla Pascal (Pxx)",
+      "Predecessor": "Tesla Maxwell",
+      "Successor": "Tesla Volta",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "886 MHz",
+      "Boost Clock": "1114 MHz",
+      "Memory Clock": "1502 MHz 6 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "192.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2560",
+      "TMUs": "160",
+      "ROPs": "64",
+      "SM Count": "20",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "71.30 GPixel/s",
+      "Texture Rate": "178.2 GTexel/s",
+      "FP16 (half)": "89.12 GFLOPS (1:64)",
+      "FP32 (float)": "5.704 TFLOPS",
+      "FP64 (double)": "178.2 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "168 mm 6.6 inches",
+      "TDP": "75 W",
+      "Suggested PSU": "250 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None",
+      "Board Number": "PG414 SKU 200"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {}
+  },
+  "Tesla P40": {
+    "Graphics Processor": {
+      "GPU Name": "GP102",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "11,800 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "471 mm²",
+      "Chip Package": "BGA-2397"
+    },
+    "Graphics Card": {
+      "Release Date": "Sep 13th, 2016",
+      "Generation": "Tesla Pascal (Pxx)",
+      "Predecessor": "Tesla Maxwell",
+      "Successor": "Tesla Volta",
+      "Production": "End-of-life",
+      "Launch Price": "5,699 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1303 MHz",
+      "Boost Clock": "1531 MHz",
+      "Memory Clock": "1808 MHz 7.2 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "24 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "347.1 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3840",
+      "TMUs": "240",
+      "ROPs": "96",
+      "SM Count": "30",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "147.0 GPixel/s",
+      "Texture Rate": "367.4 GTexel/s",
+      "FP16 (half)": "183.7 GFLOPS (1:64)",
+      "FP32 (float)": "11.76 TFLOPS",
+      "FP64 (double)": "367.4 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "8-pin EPS",
+      "Board Number": "PG610 SKU 200"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP102 GPU Notes": {}
+  },
+  "GeForce GTX 1060 3 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GP106",
+      "GPU Variant": "GP106-300-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "4,400 million",
+      "Density": "22.0M / mm²",
+      "Die Size": "200 mm²",
+      "Chip Package": "BGA-2173"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 18th, 2016",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "199 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "117 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1708 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "3 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "192.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1152",
+      "TMUs": "72",
+      "ROPs": "48",
+      "SM Count": "9",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "81.98 GPixel/s",
+      "Texture Rate": "123.0 GTexel/s",
+      "FP16 (half)": "61.49 GFLOPS (1:64)",
+      "FP32 (float)": "3.935 TFLOPS",
+      "FP64 (double)": "123.0 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "250 mm 9.8 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG410 SKU 20"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (147)": {}
+  },
+  "TITAN X Pascal": {
+    "Graphics Processor": {
+      "GPU Name": "GP102",
+      "GPU Variant": "GP102-400-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "11,800 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "471 mm²",
+      "Chip Package": "BGA-2397"
+    },
+    "Graphics Card": {
+      "Release Date": "Aug 2nd, 2016",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "1,199 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "15 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1417 MHz",
+      "Boost Clock": "1531 MHz",
+      "Memory Clock": "1251 MHz 10 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "384 bit",
+      "Bandwidth": "480.4 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3584",
+      "TMUs": "224",
+      "ROPs": "96",
+      "SM Count": "28",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "147.0 GPixel/s",
+      "Texture Rate": "342.9 GTexel/s",
+      "FP16 (half)": "171.5 GFLOPS (1:64)",
+      "FP32 (float)": "10.97 TFLOPS",
+      "FP64 (double)": "342.9 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "112 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin + 1x 8-pin",
+      "Board Number": "PG611 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP102 GPU Notes": {}
+  },
+  "GeForce GTX 1060 6 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GP106",
+      "GPU Variant": "GP106-400-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "4,400 million",
+      "Density": "22.0M / mm²",
+      "Die Size": "200 mm²",
+      "Chip Package": "BGA-2173"
+    },
+    "Graphics Card": {
+      "Release Date": "Jul 19th, 2016",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "299 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "117 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1709 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "6 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "192 bit",
+      "Bandwidth": "192.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1280",
+      "TMUs": "80",
+      "ROPs": "48",
+      "SM Count": "10",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "1536 KB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "82.03 GPixel/s",
+      "Texture Rate": "136.7 GTexel/s",
+      "FP16 (half)": "68.36 GFLOPS (1:64)",
+      "FP32 (float)": "4.375 TFLOPS",
+      "FP64 (double)": "136.7 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "250 mm 9.8 inches",
+      "Width": "111 mm 4.4 inches",
+      "TDP": "120 W",
+      "Suggested PSU": "300 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 6-pin",
+      "Board Number": "PG410 SKU 30"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP106 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (207)": {}
+  },
+  "Tesla P100 PCIe 12 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GP100",
+      "GPU Variant": "GP100-892-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "15,300 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "610 mm²",
+      "Chip Package": "BGA-2621"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 20th, 2016",
+      "Generation": "Tesla Pascal (Pxx)",
+      "Predecessor": "Tesla Maxwell",
+      "Successor": "Tesla Volta",
+      "Production": "End-of-life",
+      "Launch Price": "4,599 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1190 MHz",
+      "Boost Clock": "1329 MHz",
+      "Memory Clock": "715 MHz 1430 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "12 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "3072 bit",
+      "Bandwidth": "549.1 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3584",
+      "TMUs": "224",
+      "ROPs": "96",
+      "SM Count": "56",
+      "L1 Cache": "24 KB (per SM)",
+      "L2 Cache": "3 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "127.6 GPixel/s",
+      "Texture Rate": "297.7 GTexel/s",
+      "FP16 (half)": "19.05 TFLOPS (2:1)",
+      "FP32 (float)": "9.526 TFLOPS",
+      "FP64 (double)": "4.763 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.0",
+      "Shader Model": "6.0"
+    },
+    "GP100 GPU Notes": {}
+  },
+  "Tesla P100 PCIe 16 GB": {
+    "Graphics Processor": {
+      "GPU Name": "GP100",
+      "GPU Variant": "GP100-893-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "15,300 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "610 mm²",
+      "Chip Package": "BGA-2621"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 20th, 2016",
+      "Generation": "Tesla Pascal (Pxx)",
+      "Predecessor": "Tesla Maxwell",
+      "Successor": "Tesla Volta",
+      "Production": "End-of-life",
+      "Launch Price": "5,699 USD",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1190 MHz",
+      "Boost Clock": "1329 MHz",
+      "Memory Clock": "715 MHz 1430 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "732.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3584",
+      "TMUs": "224",
+      "ROPs": "96",
+      "SM Count": "56",
+      "L1 Cache": "24 KB (per SM)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "127.6 GPixel/s",
+      "Texture Rate": "297.7 GTexel/s",
+      "FP16 (half)": "19.05 TFLOPS (2:1)",
+      "FP32 (float)": "9.526 TFLOPS",
+      "FP64 (double)": "4.763 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "TDP": "250 W",
+      "Suggested PSU": "600 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PH400 SKU 201"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.0",
+      "Shader Model": "6.0"
+    },
+    "GP100 GPU Notes": {}
+  },
+  "GeForce GTX 1070": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-200-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "Jun 10th, 2016",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "379 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "125 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1506 MHz",
+      "Boost Clock": "1683 MHz",
+      "Memory Clock": "2002 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1920",
+      "TMUs": "120",
+      "ROPs": "64",
+      "SM Count": "15",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "107.7 GPixel/s",
+      "Texture Rate": "202.0 GTexel/s",
+      "FP16 (half)": "101.0 GFLOPS (1:64)",
+      "FP32 (float)": "6.463 TFLOPS",
+      "FP64 (double)": "202.0 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "112 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "150 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG411 SKU 20"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (174)": {}
+  },
+  "GeForce GTX 1080": {
+    "Graphics Processor": {
+      "GPU Name": "GP104",
+      "GPU Variant": "GP104-400-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "7,200 million",
+      "Density": "22.9M / mm²",
+      "Die Size": "314 mm²",
+      "Chip Package": "BGA-2150"
+    },
+    "Graphics Card": {
+      "Release Date": "May 27th, 2016",
+      "Generation": "GeForce 10",
+      "Predecessor": "GeForce 900",
+      "Successor": "GeForce 20",
+      "Production": "End-of-life",
+      "Launch Price": "599 USD",
+      "Bus Interface": "PCIe 3.0 x16",
+      "Reviews": "183 in our database"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1607 MHz",
+      "Boost Clock": "1733 MHz",
+      "Memory Clock": "1251 MHz 10 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "8 GB",
+      "Memory Type": "GDDR5X",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "320.3 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "2560",
+      "TMUs": "160",
+      "ROPs": "64",
+      "SM Count": "20",
+      "L1 Cache": "48 KB (per SM)",
+      "L2 Cache": "2 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "110.9 GPixel/s",
+      "Texture Rate": "277.3 GTexel/s",
+      "FP16 (half)": "138.6 GFLOPS (1:64)",
+      "FP32 (float)": "8.873 TFLOPS",
+      "FP64 (double)": "277.3 GFLOPS (1:32)"
+    },
+    "Board Design": {
+      "Slot Width": "Dual-slot",
+      "Length": "267 mm 10.5 inches",
+      "Width": "112 mm 4.4 inches",
+      "Height": "40 mm 1.6 inches",
+      "TDP": "180 W",
+      "Suggested PSU": "450 W",
+      "Outputs": "1x DVI 1x HDMI 2.0 3x DisplayPort 1.4a",
+      "Power Connectors": "1x 8-pin",
+      "Board Number": "PG413 SKU 0"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.1",
+      "Shader Model": "6.8"
+    },
+    "GP104 GPU Notes": {},
+    "Retail boards\n\t\t\t\t based on this design (172)": {}
+  },
+  "Tesla P100 DGXS": {
+    "Graphics Processor": {
+      "GPU Name": "GP100",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "15,300 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "610 mm²",
+      "Chip Package": "BGA-2621"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 5th, 2016",
+      "Generation": "Tesla Pascal (Pxx)",
+      "Predecessor": "Tesla Maxwell",
+      "Successor": "Tesla Volta",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1328 MHz",
+      "Boost Clock": "1480 MHz",
+      "Memory Clock": "715 MHz 1430 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "732.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3584",
+      "TMUs": "224",
+      "ROPs": "96",
+      "SM Count": "56",
+      "L1 Cache": "24 KB (per SM)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "142.1 GPixel/s",
+      "Texture Rate": "331.5 GTexel/s",
+      "FP16 (half)": "21.22 TFLOPS (2:1)",
+      "FP32 (float)": "10.61 TFLOPS",
+      "FP64 (double)": "5.304 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.0",
+      "Shader Model": "6.0"
+    },
+    "GP100 GPU Notes": {}
+  },
+  "Tesla P100 SXM2": {
+    "Graphics Processor": {
+      "GPU Name": "GP100",
+      "GPU Variant": "GP100-890-A1",
+      "Architecture": "Pascal",
+      "Foundry": "TSMC",
+      "Process Size": "16 nm",
+      "Transistors": "15,300 million",
+      "Density": "25.1M / mm²",
+      "Die Size": "610 mm²",
+      "Chip Package": "BGA-2621"
+    },
+    "Graphics Card": {
+      "Release Date": "Apr 5th, 2016",
+      "Generation": "Tesla Pascal (Pxx)",
+      "Predecessor": "Tesla Maxwell",
+      "Successor": "Tesla Volta",
+      "Production": "End-of-life",
+      "Bus Interface": "PCIe 3.0 x16"
+    },
+    "Relative Performance": {},
+    "Clock Speeds": {
+      "Base Clock": "1328 MHz",
+      "Boost Clock": "1480 MHz",
+      "Memory Clock": "715 MHz 1430 Mbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "HBM2",
+      "Memory Bus": "4096 bit",
+      "Bandwidth": "732.2 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "3584",
+      "TMUs": "224",
+      "ROPs": "96",
+      "SM Count": "56",
+      "L1 Cache": "24 KB (per SM)",
+      "L2 Cache": "4 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "142.1 GPixel/s",
+      "Texture Rate": "331.5 GTexel/s",
+      "FP16 (half)": "21.22 TFLOPS (2:1)",
+      "FP32 (float)": "10.61 TFLOPS",
+      "FP64 (double)": "5.304 TFLOPS (1:2)"
+    },
+    "Board Design": {
+      "Slot Width": "SXM Module",
+      "TDP": "300 W",
+      "Suggested PSU": "700 W",
+      "Outputs": "No outputs",
+      "Power Connectors": "None",
+      "Board Number": "PH403 SKU 201"
+    },
+    "Graphics Features": {
+      "DirectX": "12 (12_1)",
+      "OpenGL": "4.6",
+      "OpenCL": "3.0",
+      "Vulkan": "1.3",
+      "CUDA": "6.0",
+      "Shader Model": "6.0"
+    },
+    "GP100 GPU Notes": {}
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "Millennium G200A": {
+    "Graphics Processor": {
+      "GPU Name": "Calao",
+      "GPU Variant": "MGA-G200A-D2",
+      "Architecture": "G200",
+      "Foundry": "UMC",
+      "Process Size": "250 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "1999",
+      "Generation": "G Series (G2xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "84 MHz",
+      "Memory Clock": "112 MHz"
+    },
+    "Memory": {
+      "Memory Size": "8 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "896.0 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "1",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "84.00 MPixel/s",
+      "Vertex Rate": "21.00 MVertices/s",
+      "Texture Rate": "84.00 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "5.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  },
+  "Millennium G250": {
+    "Graphics Processor": {
+      "GPU Name": "Calao",
+      "GPU Variant": "MGA-G200A-D2",
+      "Architecture": "G200",
+      "Foundry": "UMC",
+      "Process Size": "250 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "1999",
+      "Generation": "G Series (G2xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "96 MHz",
+      "Memory Clock": "128 MHz"
+    },
+    "Memory": {
+      "Memory Size": "8 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "1.024 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "1",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "96.00 MPixel/s",
+      "Vertex Rate": "24.00 MVertices/s",
+      "Texture Rate": "96.00 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "5.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  },
+  "Marvel G200": {
+    "Graphics Processor": {
+      "GPU Name": "Eclipse",
+      "Architecture": "G200",
+      "Foundry": "UMC",
+      "Process Size": "350 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "1998",
+      "Generation": "G Series (G2xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 2x",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "84 MHz",
+      "Memory Clock": "112 MHz"
+    },
+    "Memory": {
+      "Memory Size": "8 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "896.0 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "1",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "84.00 MPixel/s",
+      "Vertex Rate": "21.00 MVertices/s",
+      "Texture Rate": "84.00 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "5.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  },
+  "Millennium G200": {
+    "Graphics Processor": {
+      "GPU Name": "Eclipse",
+      "GPU Variant": "MGA-G200A-B",
+      "Architecture": "G200",
+      "Foundry": "UMC",
+      "Process Size": "350 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "1998",
+      "Generation": "G Series (G2xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "84 MHz",
+      "Memory Clock": "143 MHz"
+    },
+    "Memory": {
+      "Memory Size": "8 MB",
+      "Memory Type": "SGR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "1.144 GB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "1",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "84.00 MPixel/s",
+      "Vertex Rate": "21.00 MVertices/s",
+      "Texture Rate": "84.00 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "5.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  },
+  "Millennium G200 SD": {
+    "Graphics Processor": {
+      "GPU Name": "Eclipse",
+      "GPU Variant": "MGA-G200A-C",
+      "Architecture": "G200",
+      "Foundry": "UMC",
+      "Process Size": "350 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "1998",
+      "Generation": "G Series (G2xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "PCI",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "84 MHz",
+      "Memory Clock": "112 MHz"
+    },
+    "Memory": {
+      "Memory Size": "8 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "896.0 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "1",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "84.00 MPixel/s",
+      "Vertex Rate": "21.00 MVertices/s",
+      "Texture Rate": "84.00 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "5.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  },
+  "Mystique G200": {
+    "Graphics Processor": {
+      "GPU Name": "Eclipse",
+      "Architecture": "G200",
+      "Foundry": "UMC",
+      "Process Size": "350 nm",
+      "Transistors": "10 million",
+      "Die Size": "unknown"
+    },
+    "Graphics Card": {
+      "Release Date": "1998",
+      "Generation": "G Series (G2xx)",
+      "Production": "End-of-life",
+      "Bus Interface": "AGP 2x",
+      "Reviews": "5 in our database"
+    },
+    "Clock Speeds": {
+      "GPU Clock": "84 MHz",
+      "Memory Clock": "112 MHz"
+    },
+    "Memory": {
+      "Memory Size": "8 MB",
+      "Memory Type": "SDR",
+      "Memory Bus": "64 bit",
+      "Bandwidth": "896.0 MB/s"
+    },
+    "Render Config": {
+      "Pixel Shaders": "1",
+      "Vertex Shaders": "1",
+      "TMUs": "1",
+      "ROPs": "1"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "84.00 MPixel/s",
+      "Vertex Rate": "21.00 MVertices/s",
+      "Texture Rate": "84.00 MTexel/s"
+    },
+    "Board Design": {
+      "Slot Width": "Single-slot",
+      "Length": "150 mm 5.9 inches",
+      "TDP": "unknown",
+      "Suggested PSU": "200 W",
+      "Outputs": "1x DVI 1x VGA",
+      "Power Connectors": "None"
+    },
+    "Graphics Features": {
+      "DirectX": "5.0",
+      "OpenGL": "None",
+      "OpenCL": "None",
+      "Vulkan": "N/A",
+      "Pixel Shader": "None",
+      "Vertex Shader": "None"
+    }
+  }
+}

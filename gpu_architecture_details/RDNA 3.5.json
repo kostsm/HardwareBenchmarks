@@ -1,0 +1,130 @@
+{
+  "Ryzen AI Z2 Extreme GPU": {
+    "Graphics Processor": {
+      "GPU Name": "Strix Point",
+      "GPU Variant": "100-000001885",
+      "Architecture": "RDNA 3.5",
+      "Foundry": "TSMC",
+      "Process Size": "4 nm",
+      "Transistors": "34,000 million",
+      "Density": "145.9M / mm²",
+      "Die Size": "233 mm²",
+      "Chip Package": "FP8"
+    },
+    "Graphics Card": {
+      "Release Date": "2025",
+      "Announced": "Jun 8th, 2025",
+      "Generation": "Console GPU (AMD)",
+      "Production": "Active"
+    },
+    "Clock Speeds": {
+      "Base Clock": "800 MHz",
+      "Boost Clock": "2700 MHz",
+      "Memory Clock": "1000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "LPDDR5X",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "48",
+      "Compute Units": "16",
+      "RT Cores": "16",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "8 MB",
+      "L3 Cache": "16 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "129.6 GPixel/s",
+      "Texture Rate": "172.8 GTexel/s",
+      "FP16 (half)": "11.06 TFLOPS (2:1)",
+      "FP32 (float)": "5.530 TFLOPS",
+      "FP64 (double)": "345.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "TDP": "28 W",
+      "Outputs": "1x USB Type-C",
+      "Power Connectors": "None",
+      "Weight": "g ( lbs)",
+      "Storage": "GB PCIe 4.0 x4"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Console Notes": {},
+    "Strix Point GPU Notes": {}
+  },
+  "Ryzen Z2 Extreme GPU": {
+    "Graphics Processor": {
+      "GPU Name": "Strix Point",
+      "GPU Variant": "100-000001684",
+      "Architecture": "RDNA 3.5",
+      "Foundry": "TSMC",
+      "Process Size": "4 nm",
+      "Transistors": "34,000 million",
+      "Density": "145.9M / mm²",
+      "Die Size": "233 mm²",
+      "Chip Package": "FP8"
+    },
+    "Graphics Card": {
+      "Release Date": "2025",
+      "Announced": "Jan 6th, 2025",
+      "Generation": "Console GPU (AMD)",
+      "Production": "Active"
+    },
+    "Clock Speeds": {
+      "Base Clock": "800 MHz",
+      "Boost Clock": "2700 MHz",
+      "Memory Clock": "1000 MHz 8 Gbps effective"
+    },
+    "Memory": {
+      "Memory Size": "16 GB",
+      "Memory Type": "LPDDR5X",
+      "Memory Bus": "256 bit",
+      "Bandwidth": "256.0 GB/s"
+    },
+    "Render Config": {
+      "Shading Units": "1024",
+      "TMUs": "64",
+      "ROPs": "48",
+      "Compute Units": "16",
+      "RT Cores": "16",
+      "L0 Cache": "32 KB per WGP",
+      "L1 Cache": "128 KB per Array",
+      "L2 Cache": "8 MB",
+      "L3 Cache": "16 MB"
+    },
+    "Theoretical Performance": {
+      "Pixel Rate": "129.6 GPixel/s",
+      "Texture Rate": "172.8 GTexel/s",
+      "FP16 (half)": "11.06 TFLOPS (2:1)",
+      "FP32 (float)": "5.530 TFLOPS",
+      "FP64 (double)": "345.6 GFLOPS (1:16)"
+    },
+    "Board Design": {
+      "TDP": "28 W",
+      "Outputs": "1x USB Type-C",
+      "Power Connectors": "None",
+      "Weight": "g ( lbs)",
+      "Storage": "GB PCIe 4.0 x4"
+    },
+    "Graphics Features": {
+      "DirectX": "12 Ultimate (12_2)",
+      "OpenGL": "4.6",
+      "OpenCL": "2.1",
+      "Vulkan": "1.3",
+      "Shader Model": "6.8"
+    },
+    "Console Notes": {},
+    "Strix Point GPU Notes": {}
+  }
+}
